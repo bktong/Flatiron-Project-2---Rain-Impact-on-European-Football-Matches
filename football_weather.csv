@@ -1,0 +1,993 @@
+Match_ID,Div,Season,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Team,FDCOUK,City,Stadium,Capacity,Latitude,Longitude,Country,unixtime,new,rain
+1092,D1,2011,2012-03-31,Nurnberg,Bayern Munich,0,1,A,1. FC Nürnberg ,Nurnberg,Nuremberg ,Grundig-Stadion ,50000,49.426111,11.125833,Germany,1333170000,1097,0
+1093,D1,2011,2011-12-11,Stuttgart,Bayern Munich,1,2,A,VfB Stuttgart ,Stuttgart,Stuttgart ,Mercedes-Benz Arena ,60441,48.792269,9.232031,Germany,1323583200,1098,0
+1094,D1,2011,2011-08-13,Wolfsburg,Bayern Munich,0,1,A,VfL Wolfsburg ,Wolfsburg,Wolfsburg ,Volkswagen Arena ,30000,52.431943999999994,10.803889,Germany,1313211600,1099,0
+1095,D1,2011,2011-11-27,Mainz,Bayern Munich,3,2,H,1. FSV Mainz 05 ,Mainz,Mainz ,Coface Arena ,34000,49.984167,8.224167,Germany,1322373600,1100,0
+1096,D1,2011,2012-02-18,Freiburg,Bayern Munich,0,0,D,SC Freiburg ,Freiburg,Freiburg ,MAGE SOLAR Stadion ,24000,47.988889,7.893056,Germany,1329544800,1101,0
+1097,D1,2011,2012-01-20,M'gladbach,Bayern Munich,3,1,H,Borussia Mönchengladbach ,M'gladbach,Mönchengladbach ,Borussia-Park ,54010,51.174583,6.385464,Germany,1327039200,1102,0.86
+1098,D1,2011,2012-02-04,Hamburg,Bayern Munich,1,1,D,Hamburger SV ,Hamburg,Hamburg ,Imtech Arena ,57000,53.587157999999995,9.898617,Germany,1328335200,1103,0
+1099,D1,2011,2012-04-21,Werder Bremen,Bayern Munich,1,2,A,Werder Bremen ,Werder Bremen,Bremen ,Weserstadion ,42100,53.066393999999995,8.837628,Germany,1334984400,1104,0.19
+1100,D1,2011,2011-09-18,Schalke 04,Bayern Munich,0,2,A,Schalke 04 ,Schalke 04,Gelsenkirchen ,Veltins-Arena ,61673,51.554503000000004,7.067589,Germany,1316322000,1105,1
+1101,D1,2011,2011-10-23,Hannover,Bayern Munich,2,1,H,Hannover 96 ,Hannover,Hanover ,HDI-Arena ,49000,52.360067,9.731197,Germany,1319346000,1106,0
+1102,D1,2011,2011-10-01,Hoffenheim,Bayern Munich,0,0,D,TSG 1899 Hoffenheim ,Hoffenheim,Sinsheim ,Rhein-Neckar Arena ,30150,49.239008,8.888281,Germany,1317445200,1107,0
+1103,D1,2011,2012-03-03,Leverkusen,Bayern Munich,2,0,H,Bayer Leverkusen ,Leverkusen,Leverkusen ,BayArena ,30210,51.038256,7.002206,Germany,1330754400,1108,0
+1104,D1,2011,2011-08-27,Kaiserslautern,Bayern Munich,0,3,A,1. FC Kaiserslautern ,Kaiserslautern,Kaiserslautern ,Fritz-Walter-Stadion ,49780,49.434722,7.776667,Germany,1314421200,1109,1
+1105,D1,2011,2012-03-17,Hertha,Bayern Munich,0,6,A,Hertha BSC ,Hertha,Berlin ,Olympiastadion ,74244,52.514722,13.239444,Germany,1331960400,1110,0
+1106,D1,2011,2011-11-06,Augsburg,Bayern Munich,1,2,A,FC Augsburg ,Augsburg,Augsburg ,SGL arena ,30660,48.3225,10.882222,Germany,1320555600,1111,0
+1107,D1,2011,2012-05-05,FC Koln,Bayern Munich,1,4,A,1. FC Köln ,FC Koln,Cologne ,RheinEnergieStadion ,50000,50.933496999999996,6.8749970000000005,Germany,1336194000,1112,0.89
+1108,D1,2011,2012-04-11,Dortmund,Bayern Munich,1,0,H,Borussia Dortmund ,Dortmund,Dortmund ,Signal Iduna Park ,80645,51.492569,7.451842,Germany,1334120400,1113,1
+1109,D1,2011,2011-08-27,Leverkusen,Dortmund,0,0,D,Bayer Leverkusen ,Leverkusen,Leverkusen ,BayArena ,30210,51.038256,7.002206,Germany,1314421200,1114,1
+1110,D1,2011,2011-12-17,Freiburg,Dortmund,1,4,A,SC Freiburg ,Freiburg,Freiburg ,MAGE SOLAR Stadion ,24000,47.988889,7.893056,Germany,1324101600,1115,1
+1111,D1,2011,2012-02-18,Hertha,Dortmund,0,1,A,Hertha BSC ,Hertha,Berlin ,Olympiastadion ,74244,52.514722,13.239444,Germany,1329544800,1116,0
+1112,D1,2011,2012-02-03,Nurnberg,Dortmund,0,2,A,1. FC Nürnberg ,Nurnberg,Nuremberg ,Grundig-Stadion ,50000,49.426111,11.125833,Germany,1328248800,1117,0
+1113,D1,2011,2011-08-13,Hoffenheim,Dortmund,1,0,H,TSG 1899 Hoffenheim ,Hoffenheim,Sinsheim ,Rhein-Neckar Arena ,30150,49.239008,8.888281,Germany,1313211600,1118,0.09
+1114,D1,2011,2011-10-29,Stuttgart,Dortmund,1,1,D,VfB Stuttgart ,Stuttgart,Stuttgart ,Mercedes-Benz Arena ,60441,48.792269,9.232031,Germany,1319864400,1119,0
+1115,D1,2011,2012-01-22,Hamburg,Dortmund,1,5,A,Hamburger SV ,Hamburg,Hamburg ,Imtech Arena ,57000,53.587157999999995,9.898617,Germany,1327212000,1120,1
+1116,D1,2011,2011-12-03,M'gladbach,Dortmund,1,1,D,Borussia Mönchengladbach ,M'gladbach,Mönchengladbach ,Borussia-Park ,54010,51.174583,6.385464,Germany,1322892000,1121,1
+1117,D1,2011,2012-04-14,Schalke 04,Dortmund,1,2,A,Schalke 04 ,Schalke 04,Gelsenkirchen ,Veltins-Arena ,61673,51.554503000000004,7.067589,Germany,1334379600,1122,0.29
+1118,D1,2011,2011-09-18,Hannover,Dortmund,2,1,H,Hannover 96 ,Hannover,Hanover ,HDI-Arena ,49000,52.360067,9.731197,Germany,1316322000,1123,0
+1119,D1,2011,2012-03-25,FC Koln,Dortmund,1,6,A,1. FC Köln ,FC Koln,Cologne ,RheinEnergieStadion ,50000,50.933496999999996,6.8749970000000005,Germany,1332651600,1124,0
+1120,D1,2011,2012-03-10,Augsburg,Dortmund,0,0,D,FC Augsburg ,Augsburg,Augsburg ,SGL arena ,30660,48.3225,10.882222,Germany,1331359200,1125,0
+1121,D1,2011,2012-04-07,Wolfsburg,Dortmund,1,3,A,VfL Wolfsburg ,Wolfsburg,Wolfsburg ,Volkswagen Arena ,30000,52.431943999999994,10.803889,Germany,1333774800,1126,1
+1122,D1,2011,2011-11-19,Bayern Munich,Dortmund,0,1,A,Bayern Munich ,Bayern Munich,Munich ,Allianz Arena ,71000,48.218775,11.624753,Germany,1321682400,1127,0
+1123,D1,2011,2011-10-14,Werder Bremen,Dortmund,0,2,A,Werder Bremen ,Werder Bremen,Bremen ,Weserstadion ,42100,53.066393999999995,8.837628,Germany,1318568400,1128,nan
+1124,D1,2011,2011-09-24,Mainz,Dortmund,1,2,A,1. FSV Mainz 05 ,Mainz,Mainz ,Coface Arena ,34000,49.984167,8.224167,Germany,1316840400,1129,0
+1125,D1,2011,2012-04-28,Kaiserslautern,Dortmund,2,5,A,1. FC Kaiserslautern ,Kaiserslautern,Kaiserslautern ,Fritz-Walter-Stadion ,49780,49.434722,7.776667,Germany,1335589200,1130,0
+1126,D2,2011,2011-12-18,Hansa Rostock,Dresden,2,2,D,Hansa Rostock,Hansa Rostock,Rostock,Ostseestadion,29000,54.08495,12.095189,Germany,1324188000,1131,nan
+1127,D2,2011,2012-03-02,Bochum,Dresden,0,2,A,Bochum,Bochum,Bochum,Vonovia Rurstadion,26599,51.48975,7.236383999999999,Germany,1330668000,1132,0
+1128,D2,2011,2012-03-16,Ein Frankfurt,Dresden,3,0,H,Eintracht Frankfurt ,Ein Frankfurt,Frankfurt ,Commerzbank-Arena ,51500,50.068571999999996,8.645458,Germany,1331874000,1133,0
+1129,D2,2011,2012-02-17,Paderborn,Dresden,2,2,D,SC Paderborn,Paderborn,Paderborn,Benteler Arena,15000,51.73067,8.7108894,Germany,1329458400,1134,0
+1130,D2,2011,2011-08-06,Greuther Furth,Dresden,1,0,H,SpVgg Greuther Fürth ,Greuther Furth,Fürth ,Trolli Arena ,18000,49.486944,10.999167,Germany,1312606800,1135,0
+1131,D2,2011,2011-11-04,Fortuna Dusseldorf,Dresden,2,1,H,Fortuna Düsseldorf ,Fortuna Dusseldorf,Düsseldorf ,Esprit Arena ,54600,51.261666999999996,6.7330559999999995,Germany,1320382800,1136,1
+1132,D2,2011,2011-09-16,Ingolstadt,Dresden,4,2,H,Ingolstadt,Ingolstadt,Ingolstadt,Audi Sportspark,15800,48.745265,11.485543,Germany,1316149200,1137,nan
+1133,D2,2011,2011-07-15,Cottbus,Dresden,2,1,H,Cottbus FC,Cottbus,Cottbus,Stadion der Freundschaft,22528,51.7508,14.3406,Germany,1310706000,1138,0
+1134,D2,2011,2011-11-27,St Pauli,Dresden,3,1,H,FC St. Pauli ,St Pauli,Hamburg ,Millerntor-Stadion ,24487,53.554444,9.967778,Germany,1322373600,1139,1
+1135,D2,2011,2012-05-06,Frankfurt FSV,Dresden,1,1,D,Frankfurt FSV,Frankfurt FSV,Frankfurt,Commerzbank-Arena,51500,50.068629,8.645,Germany,1336280400,1140,0.29
+1136,D2,2011,2012-02-11,Union Berlin,Dresden,4,0,H,Union Berlin,Union Berlin,Berlin,Stadion An der Alten Försterei,22012,52.457221999999994,13.568056,Germany,1328940000,1141,0
+1137,D2,2011,2011-10-02,Munich 1860,Dresden,2,4,A,Munich 1860,Munich 1860,Munich,Grünwalder Stadion,21272,48.110833,11.574444,Germany,1317531600,1142,0
+1138,D2,2011,2012-03-30,Aachen,Dresden,0,1,A,Aachen,Aachen,Aachen,Tivoli,32960,50.793333000000004,6.097222,Germany,1333083600,1143,0
+1139,D2,2011,2012-04-11,Karlsruhe,Dresden,2,0,H,Karlsruhe SC,Karlsruhe,Karlsruhe,Wildparkstadion,29699,49.020340000000004,8.412514999999999,Germany,1334120400,1144,0.51
+1140,D2,2011,2011-10-22,Braunschweig,Dresden,0,2,A,Eintracht Braunschweig ,Braunschweig,Braunschweig ,Eintracht-Stadion ,23325,52.29,10.521666999999999,Germany,1319259600,1145,0
+1141,D2,2011,2012-04-21,Erzgebirge Aue,Dresden,1,1,D,Erzgebirge Aue,Erzgebirge Aue,Erzgebirge,Erzgebirgsstadion,9390,50.597755,12.711264,Germany,1334984400,1146,0.67
+1142,D2,2011,2011-08-26,Duisburg,Dresden,3,0,H,Duisburg,Duisburg,Duisburg,MSV-Arena,31514,51.408951,6.777357,Germany,1314334800,1147,1
+1143,D2,2011,2011-08-07,Frankfurt FSV,Duisburg,0,0,D,Frankfurt FSV,Frankfurt FSV,Frankfurt,Commerzbank-Arena,51500,50.068629,8.645,Germany,1312693200,1148,1
+1144,D2,2011,2012-02-24,Dresden,Duisburg,2,0,H,Dresden,Dresden,Dresden,Rudolf-Harbig-Stadion,32066,51.0404544,13.74973,Germany,1330063200,1149,1
+1145,D2,2011,2011-12-18,Cottbus,Duisburg,1,1,D,Cottbus FC,Cottbus,Cottbus,Stadion der Freundschaft,22528,51.7508,14.3406,Germany,1324188000,1150,1
+1146,D2,2011,2011-07-17,Karlsruhe,Duisburg,3,2,H,Karlsruhe SC,Karlsruhe,Karlsruhe,Wildparkstadion,29699,49.020340000000004,8.412514999999999,Germany,1310878800,1151,1
+1147,D2,2011,2012-04-11,Munich 1860,Duisburg,2,1,H,Munich 1860,Munich 1860,Munich,Grünwalder Stadion,21272,48.110833,11.574444,Germany,1334120400,1152,0.66
+1148,D2,2011,2011-11-06,Aachen,Duisburg,2,2,D,Aachen,Aachen,Aachen,Tivoli,32960,50.793333000000004,6.097222,Germany,1320555600,1153,0
+1149,D2,2011,2012-02-12,Hansa Rostock,Duisburg,4,2,H,Hansa Rostock,Hansa Rostock,Rostock,Ostseestadion,29000,54.08495,12.095189,Germany,1329026400,1154,0
+1150,D2,2011,2011-08-22,St Pauli,Duisburg,2,1,H,FC St. Pauli ,St Pauli,Hamburg ,Millerntor-Stadion ,24487,53.554444,9.967778,Germany,1313989200,1155,0
+1151,D2,2011,2011-10-23,Ein Frankfurt,Duisburg,3,0,H,Eintracht Frankfurt ,Ein Frankfurt,Frankfurt ,Commerzbank-Arena ,51500,50.068571999999996,8.645458,Germany,1319346000,1156,0
+1152,D2,2011,2011-09-09,Greuther Furth,Duisburg,2,1,H,SpVgg Greuther Fürth ,Greuther Furth,Fürth ,Trolli Arena ,18000,49.486944,10.999167,Germany,1315544400,1157,1
+1153,D2,2011,2012-04-01,Ingolstadt,Duisburg,1,1,D,Ingolstadt,Ingolstadt,Ingolstadt,Audi Sportspark,15800,48.745265,11.485543,Germany,1333256400,1158,0
+1154,D2,2011,2011-09-25,Bochum,Duisburg,2,1,H,Bochum,Bochum,Bochum,Vonovia Rurstadion,26599,51.48975,7.236383999999999,Germany,1316926800,1159,0
+1155,D2,2011,2012-04-20,Braunschweig,Duisburg,0,0,D,Eintracht Braunschweig ,Braunschweig,Braunschweig ,Eintracht-Stadion ,23325,52.29,10.521666999999999,Germany,1334898000,1160,1
+1156,D2,2011,2011-11-25,Erzgebirge Aue,Duisburg,1,2,A,Erzgebirge Aue,Erzgebirge Aue,Erzgebirge,Erzgebirgsstadion,9390,50.597755,12.711264,Germany,1322200800,1161,0
+1157,D2,2011,2012-03-25,Paderborn,Duisburg,1,2,A,SC Paderborn,Paderborn,Paderborn,Benteler Arena,15000,51.73067,8.7108894,Germany,1332651600,1162,0
+1158,D2,2011,2012-05-06,Fortuna Dusseldorf,Duisburg,2,2,D,Fortuna Düsseldorf ,Fortuna Dusseldorf,Düsseldorf ,Esprit Arena ,54600,51.261666999999996,6.7330559999999995,Germany,1336280400,1163,0.4
+1159,D2,2011,2012-03-09,Union Berlin,Duisburg,1,1,D,Union Berlin,Union Berlin,Berlin,Stadion An der Alten Försterei,22012,52.457221999999994,13.568056,Germany,1331272800,1164,0
+1160,D2,2011,2011-11-07,Erzgebirge Aue,Ein Frankfurt,1,2,A,Erzgebirge Aue,Erzgebirge Aue,Erzgebirge,Erzgebirgsstadion,9390,50.597755,12.711264,Germany,1320645600,1165,0
+1161,D2,2011,2011-09-10,Cottbus,Ein Frankfurt,3,3,D,Cottbus FC,Cottbus,Cottbus,Stadion der Freundschaft,22528,51.7508,14.3406,Germany,1315630800,1166,0
+1162,D2,2011,2011-10-14,Bochum,Ein Frankfurt,0,2,A,Bochum,Bochum,Bochum,Vonovia Rurstadion,26599,51.48975,7.236383999999999,Germany,1318568400,1167,0
+1163,D2,2011,2011-08-21,Frankfurt FSV,Ein Frankfurt,0,4,A,Frankfurt FSV,Frankfurt FSV,Frankfurt,Commerzbank-Arena,51500,50.068629,8.645,Germany,1313902800,1168,1
+1164,D2,2011,2011-09-26,Dresden,Ein Frankfurt,1,4,A,Dresden,Dresden,Dresden,Rudolf-Harbig-Stadion,32066,51.0404544,13.74973,Germany,1317013200,1169,0.48
+1165,D2,2011,2012-04-07,Duisburg,Ein Frankfurt,2,0,H,Duisburg,Duisburg,Duisburg,MSV-Arena,31514,51.408951,6.777357,Germany,1333774800,1170,0.68
+1166,D2,2011,2012-03-26,Union Berlin,Ein Frankfurt,0,4,A,Union Berlin,Union Berlin,Berlin,Stadion An der Alten Försterei,22012,52.457221999999994,13.568056,Germany,1332738000,1171,0
+1167,D2,2011,2011-07-15,Greuther Furth,Ein Frankfurt,2,3,A,SpVgg Greuther Fürth ,Greuther Furth,Fürth ,Trolli Arena ,18000,49.486944,10.999167,Germany,1310706000,1172,0
+1168,D2,2011,2012-05-06,Karlsruhe,Ein Frankfurt,1,0,H,Karlsruhe SC,Karlsruhe,Karlsruhe,Wildparkstadion,29699,49.020340000000004,8.412514999999999,Germany,1336280400,1173,0.92
+1169,D2,2011,2011-10-30,Ingolstadt,Ein Frankfurt,1,1,D,Ingolstadt,Ingolstadt,Ingolstadt,Audi Sportspark,15800,48.745265,11.485543,Germany,1319950800,1174,nan
+1170,D2,2011,2012-02-13,Fortuna Dusseldorf,Ein Frankfurt,1,1,D,Fortuna Düsseldorf ,Fortuna Dusseldorf,Düsseldorf ,Esprit Arena ,54600,51.261666999999996,6.7330559999999995,Germany,1329112800,1175,0.4
+1171,D2,2011,2011-08-07,Braunschweig,Ein Frankfurt,0,3,A,Eintracht Braunschweig ,Braunschweig,Braunschweig ,Eintracht-Stadion ,23325,52.29,10.521666999999999,Germany,1312693200,1176,1
+1172,D2,2011,2012-02-26,Paderborn,Ein Frankfurt,4,2,H,SC Paderborn,Paderborn,Paderborn,Benteler Arena,15000,51.73067,8.7108894,Germany,1330236000,1177,0
+1173,D2,2011,2011-12-19,St Pauli,Ein Frankfurt,2,0,H,FC St. Pauli ,St Pauli,Hamburg ,Millerntor-Stadion ,24487,53.554444,9.967778,Germany,1324274400,1178,1
+1174,D2,2011,2012-03-11,Hansa Rostock,Ein Frankfurt,1,5,A,Hansa Rostock,Hansa Rostock,Rostock,Ostseestadion,29000,54.08495,12.095189,Germany,1331445600,1179,0
+1175,D2,2011,2011-11-26,Munich 1860,Ein Frankfurt,2,1,H,Munich 1860,Munich 1860,Munich,Grünwalder Stadion,21272,48.110833,11.574444,Germany,1322287200,1180,1
+1176,D2,2011,2012-04-23,Aachen,Ein Frankfurt,0,3,A,Aachen,Aachen,Aachen,Tivoli,32960,50.793333000000004,6.097222,Germany,1335157200,1181,0
+1177,D1,2011,2011-12-03,Stuttgart,FC Koln,2,2,D,VfB Stuttgart ,Stuttgart,Stuttgart ,Mercedes-Benz Arena ,60441,48.792269,9.232031,Germany,1322892000,1182,0.52
+1178,D1,2011,2011-12-16,Bayern Munich,FC Koln,3,0,H,Bayern Munich ,Bayern Munich,Munich ,Allianz Arena ,71000,48.218775,11.624753,Germany,1324015200,1183,1
+1179,D1,2011,2011-10-22,Dortmund,FC Koln,5,0,H,Borussia Dortmund ,Dortmund,Dortmund ,Signal Iduna Park ,80645,51.492569,7.451842,Germany,1319259600,1184,0
+1180,D1,2011,2011-08-13,Schalke 04,FC Koln,5,1,H,Schalke 04 ,Schalke 04,Gelsenkirchen ,Veltins-Arena ,61673,51.554503000000004,7.067589,Germany,1313211600,1185,1
+1181,D1,2011,2011-11-05,Werder Bremen,FC Koln,3,2,H,Werder Bremen ,Werder Bremen,Bremen ,Weserstadion ,42100,53.066393999999995,8.837628,Germany,1320469200,1186,0
+1182,D1,2011,2012-04-28,Freiburg,FC Koln,4,1,H,SC Freiburg ,Freiburg,Freiburg ,MAGE SOLAR Stadion ,24000,47.988889,7.893056,Germany,1335589200,1187,0
+1183,D1,2011,2012-04-10,Mainz,FC Koln,4,0,H,1. FSV Mainz 05 ,Mainz,Mainz ,Coface Arena ,34000,49.984167,8.224167,Germany,1334034000,1188,0.63
+1184,D1,2011,2012-04-15,M'gladbach,FC Koln,3,0,H,Borussia Mönchengladbach ,M'gladbach,Mönchengladbach ,Borussia-Park ,54010,51.174583,6.385464,Germany,1334466000,1189,0.49
+1185,D1,2011,2012-02-18,Nurnberg,FC Koln,2,1,H,1. FC Nürnberg ,Nurnberg,Nuremberg ,Grundig-Stadion ,50000,49.426111,11.125833,Germany,1329544800,1190,0
+1186,D1,2011,2012-02-05,Kaiserslautern,FC Koln,0,1,A,1. FC Kaiserslautern ,Kaiserslautern,Kaiserslautern ,Fritz-Walter-Stadion ,49780,49.434722,7.776667,Germany,1328421600,1191,0
+1187,D1,2011,2012-03-04,Hoffenheim,FC Koln,1,1,D,TSG 1899 Hoffenheim ,Hoffenheim,Sinsheim ,Rhein-Neckar Arena ,30150,49.239008,8.888281,Germany,1330840800,1192,0
+1188,D1,2011,2011-09-17,Leverkusen,FC Koln,1,4,A,Bayer Leverkusen ,Leverkusen,Leverkusen ,BayArena ,30210,51.038256,7.002206,Germany,1316235600,1193,0
+1189,D1,2011,2012-03-31,Augsburg,FC Koln,2,1,H,FC Augsburg ,Augsburg,Augsburg ,SGL arena ,30660,48.3225,10.882222,Germany,1333170000,1194,0
+1190,D1,2011,2011-10-01,Hertha,FC Koln,3,0,H,Hertha BSC ,Hertha,Berlin ,Olympiastadion ,74244,52.514722,13.239444,Germany,1317445200,1195,0
+1191,D1,2011,2011-08-27,Hamburg,FC Koln,3,4,A,Hamburger SV ,Hamburg,Hamburg ,Imtech Arena ,57000,53.587157999999995,9.898617,Germany,1314421200,1196,1
+1192,D1,2011,2012-01-21,Wolfsburg,FC Koln,1,0,H,VfL Wolfsburg ,Wolfsburg,Wolfsburg ,Volkswagen Arena ,30000,52.431943999999994,10.803889,Germany,1327125600,1197,1
+1193,D1,2011,2012-03-18,Hannover,FC Koln,4,1,H,Hannover 96 ,Hannover,Hanover ,HDI-Arena ,49000,52.360067,9.731197,Germany,1332046800,1198,0.48
+1194,D1,2011,2011-08-06,Augsburg,Freiburg,2,2,D,FC Augsburg ,Augsburg,Augsburg ,SGL arena ,30660,48.3225,10.882222,Germany,1312606800,1199,1
+1195,D1,2011,2011-09-24,Schalke 04,Freiburg,4,2,H,Schalke 04 ,Schalke 04,Gelsenkirchen ,Veltins-Arena ,61673,51.554503000000004,7.067589,Germany,1316840400,1200,0
+1196,D1,2011,2012-03-10,M'gladbach,Freiburg,0,0,D,Borussia Mönchengladbach ,M'gladbach,Mönchengladbach ,Borussia-Park ,54010,51.174583,6.385464,Germany,1331359200,1201,0.19
+1197,D1,2011,2011-09-10,Bayern Munich,Freiburg,7,0,H,Bayern Munich ,Bayern Munich,Munich ,Allianz Arena ,71000,48.218775,11.624753,Germany,1315630800,1202,0
+1198,D1,2011,2012-04-22,Hannover,Freiburg,0,0,D,Hannover 96 ,Hannover,Hanover ,HDI-Arena ,49000,52.360067,9.731197,Germany,1335070800,1203,0.42
+1199,D1,2011,2011-08-20,Werder Bremen,Freiburg,5,3,H,Werder Bremen ,Werder Bremen,Bremen ,Weserstadion ,42100,53.066393999999995,8.837628,Germany,1313816400,1204,nan
+1200,D1,2011,2012-03-17,Hamburg,Freiburg,1,3,A,Hamburger SV ,Hamburg,Hamburg ,Imtech Arena ,57000,53.587157999999995,9.898617,Germany,1331960400,1205,0
+1201,D1,2011,2012-02-10,Wolfsburg,Freiburg,3,2,H,VfL Wolfsburg ,Wolfsburg,Wolfsburg ,Volkswagen Arena ,30000,52.431943999999994,10.803889,Germany,1328853600,1206,0
+1202,D1,2011,2011-10-22,Kaiserslautern,Freiburg,1,0,H,1. FC Kaiserslautern ,Kaiserslautern,Kaiserslautern ,Fritz-Walter-Stadion ,49780,49.434722,7.776667,Germany,1319259600,1207,0
+1203,D1,2011,2011-11-26,Hoffenheim,Freiburg,1,1,D,TSG 1899 Hoffenheim ,Hoffenheim,Sinsheim ,Rhein-Neckar Arena ,30150,49.239008,8.888281,Germany,1322287200,1208,0
+1204,D1,2011,2012-02-25,Stuttgart,Freiburg,4,1,H,VfB Stuttgart ,Stuttgart,Stuttgart ,Mercedes-Benz Arena ,60441,48.792269,9.232031,Germany,1330149600,1209,0
+1205,D1,2011,2011-12-10,FC Koln,Freiburg,4,0,H,1. FC Köln ,FC Koln,Cologne ,RheinEnergieStadion ,50000,50.933496999999996,6.8749970000000005,Germany,1323496800,1210,0
+1206,D1,2011,2012-03-31,Leverkusen,Freiburg,0,2,A,Bayer Leverkusen ,Leverkusen,Leverkusen ,BayArena ,30210,51.038256,7.002206,Germany,1333170000,1211,0.19
+1207,D1,2011,2012-05-05,Dortmund,Freiburg,4,0,H,Borussia Dortmund ,Dortmund,Dortmund ,Signal Iduna Park ,80645,51.492569,7.451842,Germany,1336194000,1212,1
+1208,D1,2011,2012-04-10,Hertha,Freiburg,1,2,A,Hertha BSC ,Hertha,Berlin ,Olympiastadion ,74244,52.514722,13.239444,Germany,1334034000,1213,0
+1209,D1,2011,2012-01-29,Mainz,Freiburg,3,1,H,1. FSV Mainz 05 ,Mainz,Mainz ,Coface Arena ,34000,49.984167,8.224167,Germany,1327816800,1214,0
+1210,D1,2011,2011-11-05,Nurnberg,Freiburg,1,2,A,1. FC Nürnberg ,Nurnberg,Nuremberg ,Grundig-Stadion ,50000,49.426111,11.125833,Germany,1320469200,1215,0
+1211,D1,2011,2011-08-20,Bayern Munich,Hamburg,5,0,H,Bayern Munich ,Bayern Munich,Munich ,Allianz Arena ,71000,48.218775,11.624753,Germany,1313816400,1216,0
+1212,D1,2011,2012-04-11,Hoffenheim,Hamburg,4,0,H,TSG 1899 Hoffenheim ,Hoffenheim,Sinsheim ,Rhein-Neckar Arena ,30150,49.239008,8.888281,Germany,1334120400,1217,0.91
+1213,D1,2011,2011-12-10,Mainz,Hamburg,0,0,D,1. FSV Mainz 05 ,Mainz,Mainz ,Coface Arena ,34000,49.984167,8.224167,Germany,1323496800,1218,0
+1214,D1,2011,2011-10-16,Freiburg,Hamburg,1,2,A,SC Freiburg ,Freiburg,Freiburg ,MAGE SOLAR Stadion ,24000,47.988889,7.893056,Germany,1318741200,1219,0.14
+1215,D1,2011,2012-03-31,Kaiserslautern,Hamburg,0,1,A,1. FC Kaiserslautern ,Kaiserslautern,Kaiserslautern ,Fritz-Walter-Stadion ,49780,49.434722,7.776667,Germany,1333170000,1220,0
+1216,D1,2011,2012-03-11,Schalke 04,Hamburg,3,1,H,Schalke 04 ,Schalke 04,Gelsenkirchen ,Veltins-Arena ,61673,51.554503000000004,7.067589,Germany,1331445600,1221,0
+1217,D1,2011,2012-04-21,Nurnberg,Hamburg,1,1,D,1. FC Nürnberg ,Nurnberg,Nuremberg ,Grundig-Stadion ,50000,49.426111,11.125833,Germany,1334984400,1222,0.56
+1218,D1,2011,2011-09-10,Werder Bremen,Hamburg,2,0,H,Werder Bremen ,Werder Bremen,Bremen ,Weserstadion ,42100,53.066393999999995,8.837628,Germany,1315630800,1223,nan
+1219,D1,2011,2011-08-05,Dortmund,Hamburg,3,1,H,Borussia Dortmund ,Dortmund,Dortmund ,Signal Iduna Park ,80645,51.492569,7.451842,Germany,1312520400,1224,1
+1220,D1,2011,2012-03-23,Wolfsburg,Hamburg,2,1,H,VfL Wolfsburg ,Wolfsburg,Wolfsburg ,Volkswagen Arena ,30000,52.431943999999994,10.803889,Germany,1332478800,1225,0
+1221,D1,2011,2012-02-12,FC Koln,Hamburg,0,1,A,1. FC Köln ,FC Koln,Cologne ,RheinEnergieStadion ,50000,50.933496999999996,6.8749970000000005,Germany,1329026400,1226,0
+1222,D1,2011,2011-11-26,Hannover,Hamburg,1,1,D,Hannover 96 ,Hannover,Hanover ,HDI-Arena ,49000,52.360067,9.731197,Germany,1322287200,1227,0.59
+1223,D1,2011,2012-05-05,Augsburg,Hamburg,1,0,H,FC Augsburg ,Augsburg,Augsburg ,SGL arena ,30660,48.3225,10.882222,Germany,1336194000,1228,0.29
+1224,D1,2011,2011-09-23,Stuttgart,Hamburg,1,2,A,VfB Stuttgart ,Stuttgart,Stuttgart ,Mercedes-Benz Arena ,60441,48.792269,9.232031,Germany,1316754000,1229,0
+1225,D1,2011,2012-02-24,M'gladbach,Hamburg,1,1,D,Borussia Mönchengladbach ,M'gladbach,Mönchengladbach ,Borussia-Park ,54010,51.174583,6.385464,Germany,1330063200,1230,1
+1226,D1,2011,2011-11-05,Leverkusen,Hamburg,2,2,D,Bayer Leverkusen ,Leverkusen,Leverkusen ,BayArena ,30210,51.038256,7.002206,Germany,1320469200,1231,0
+1227,D1,2011,2012-01-28,Hertha,Hamburg,1,2,A,Hertha BSC ,Hertha,Berlin ,Olympiastadion ,74244,52.514722,13.239444,Germany,1327730400,1232,0
+1228,D1,2011,2012-01-28,Augsburg,Kaiserslautern,2,2,D,FC Augsburg ,Augsburg,Augsburg ,SGL arena ,30660,48.3225,10.882222,Germany,1327730400,1233,0.14
+1229,D1,2011,2012-05-05,Hannover,Kaiserslautern,2,1,H,Hannover 96 ,Hannover,Hanover ,HDI-Arena ,49000,52.360067,9.731197,Germany,1336194000,1234,0.66
+1230,D1,2011,2012-02-25,Mainz,Kaiserslautern,4,0,H,1. FSV Mainz 05 ,Mainz,Mainz ,Coface Arena ,34000,49.984167,8.224167,Germany,1330149600,1235,0
+1231,D1,2011,2011-10-30,Hamburg,Kaiserslautern,1,1,D,Hamburger SV ,Hamburg,Hamburg ,Imtech Arena ,57000,53.587157999999995,9.898617,Germany,1319950800,1236,0
+1232,D1,2011,2011-10-15,Schalke 04,Kaiserslautern,1,2,A,Schalke 04 ,Schalke 04,Gelsenkirchen ,Veltins-Arena ,61673,51.554503000000004,7.067589,Germany,1318654800,1237,0
+1233,D1,2011,2011-12-11,Dortmund,Kaiserslautern,1,1,D,Borussia Dortmund ,Dortmund,Dortmund ,Signal Iduna Park ,80645,51.492569,7.451842,Germany,1323583200,1238,0
+1234,D1,2011,2012-04-11,Leverkusen,Kaiserslautern,3,1,H,Bayer Leverkusen ,Leverkusen,Leverkusen ,BayArena ,30210,51.038256,7.002206,Germany,1334120400,1239,0.8
+1235,D1,2011,2012-02-11,Bayern Munich,Kaiserslautern,2,0,H,Bayern Munich ,Bayern Munich,Munich ,Allianz Arena ,71000,48.218775,11.624753,Germany,1328940000,1240,0
+1236,D1,2011,2011-09-10,M'gladbach,Kaiserslautern,1,0,H,Borussia Mönchengladbach ,M'gladbach,Mönchengladbach ,Borussia-Park ,54010,51.174583,6.385464,Germany,1315630800,1241,0
+1237,D1,2011,2011-08-06,Werder Bremen,Kaiserslautern,2,0,H,Werder Bremen ,Werder Bremen,Bremen ,Weserstadion ,42100,53.066393999999995,8.837628,Germany,1312606800,1242,nan
+1238,D1,2011,2011-11-05,Hoffenheim,Kaiserslautern,1,1,D,TSG 1899 Hoffenheim ,Hoffenheim,Sinsheim ,Rhein-Neckar Arena ,30150,49.239008,8.888281,Germany,1320469200,1243,0
+1239,D1,2011,2011-08-20,FC Koln,Kaiserslautern,1,1,D,1. FC Köln ,FC Koln,Cologne ,RheinEnergieStadion ,50000,50.933496999999996,6.8749970000000005,Germany,1313816400,1244,0
+1240,D1,2011,2011-11-26,Nurnberg,Kaiserslautern,1,0,H,1. FC Nürnberg ,Nurnberg,Nuremberg ,Grundig-Stadion ,50000,49.426111,11.125833,Germany,1322287200,1245,0
+1241,D1,2011,2012-03-09,Stuttgart,Kaiserslautern,0,0,D,VfB Stuttgart ,Stuttgart,Stuttgart ,Mercedes-Benz Arena ,60441,48.792269,9.232031,Germany,1331272800,1246,0
+1242,D1,2011,2011-09-24,Wolfsburg,Kaiserslautern,1,0,H,VfL Wolfsburg ,Wolfsburg,Wolfsburg ,Volkswagen Arena ,30000,52.431943999999994,10.803889,Germany,1316840400,1247,0
+1243,D1,2011,2012-03-24,Freiburg,Kaiserslautern,2,0,H,SC Freiburg ,Freiburg,Freiburg ,MAGE SOLAR Stadion ,24000,47.988889,7.893056,Germany,1332565200,1248,0.1
+1244,D1,2011,2012-04-21,Hertha,Kaiserslautern,1,2,A,Hertha BSC ,Hertha,Berlin ,Olympiastadion ,74244,52.514722,13.239444,Germany,1334984400,1249,0
+1245,D2,2011,2011-10-15,Union Berlin,Karlsruhe,2,0,H,Union Berlin,Union Berlin,Berlin,Stadion An der Alten Försterei,22012,52.457221999999994,13.568056,Germany,1318654800,1250,0
+1246,D2,2011,2011-11-18,Paderborn,Karlsruhe,2,1,H,SC Paderborn,Paderborn,Paderborn,Benteler Arena,15000,51.73067,8.7108894,Germany,1321596000,1251,0
+1247,D2,2011,2012-04-29,Aachen,Karlsruhe,1,0,H,Aachen,Aachen,Aachen,Tivoli,32960,50.793333000000004,6.097222,Germany,1335675600,1252,0
+1248,D2,2011,2011-09-25,Hansa Rostock,Karlsruhe,1,1,D,Hansa Rostock,Hansa Rostock,Rostock,Ostseestadion,29000,54.08495,12.095189,Germany,1316926800,1253,nan
+1249,D2,2011,2011-12-09,Duisburg,Karlsruhe,3,1,H,Duisburg,Duisburg,Duisburg,MSV-Arena,31514,51.408951,6.777357,Germany,1323410400,1254,1
+1250,D2,2011,2011-12-03,Ein Frankfurt,Karlsruhe,2,0,H,Eintracht Frankfurt ,Ein Frankfurt,Frankfurt ,Commerzbank-Arena ,51500,50.068571999999996,8.645458,Germany,1322892000,1255,1
+1251,D2,2011,2012-04-15,Ingolstadt,Karlsruhe,2,1,H,Ingolstadt,Ingolstadt,Ingolstadt,Audi Sportspark,15800,48.745265,11.485543,Germany,1334466000,1256,0
+1252,D2,2011,2012-04-08,Bochum,Karlsruhe,0,0,D,Bochum,Bochum,Bochum,Vonovia Rurstadion,26599,51.48975,7.236383999999999,Germany,1333861200,1257,0
+1253,D2,2011,2012-02-11,Braunschweig,Karlsruhe,0,0,D,Eintracht Braunschweig ,Braunschweig,Braunschweig ,Eintracht-Stadion ,23325,52.29,10.521666999999999,Germany,1328940000,1258,0
+1254,D2,2011,2011-10-29,Dresden,Karlsruhe,5,1,H,Dresden,Dresden,Dresden,Rudolf-Harbig-Stadion,32066,51.0404544,13.74973,Germany,1319864400,1259,0.52
+1255,D2,2011,2011-09-10,Fortuna Dusseldorf,Karlsruhe,4,2,H,Fortuna Düsseldorf ,Fortuna Dusseldorf,Düsseldorf ,Esprit Arena ,54600,51.261666999999996,6.7330559999999995,Germany,1315630800,1260,0
+1256,D2,2011,2012-03-12,St Pauli,Karlsruhe,1,0,H,FC St. Pauli ,St Pauli,Hamburg ,Millerntor-Stadion ,24487,53.554444,9.967778,Germany,1331528400,1261,0
+1257,D2,2011,2011-08-21,Cottbus,Karlsruhe,2,0,H,Cottbus FC,Cottbus,Cottbus,Stadion der Freundschaft,22528,51.7508,14.3406,Germany,1313902800,1262,0
+1258,D2,2011,2012-02-26,Frankfurt FSV,Karlsruhe,2,1,H,Frankfurt FSV,Frankfurt FSV,Frankfurt,Commerzbank-Arena,51500,50.068629,8.645,Germany,1330236000,1263,0
+1259,D2,2011,2012-03-24,Greuther Furth,Karlsruhe,3,0,H,SpVgg Greuther Fürth ,Greuther Furth,Fürth ,Trolli Arena ,18000,49.486944,10.999167,Germany,1332565200,1264,0
+1260,D2,2011,2011-08-07,Erzgebirge Aue,Karlsruhe,0,2,A,Erzgebirge Aue,Erzgebirge Aue,Erzgebirge,Erzgebirgsstadion,9390,50.597755,12.711264,Germany,1312693200,1265,1
+1261,D2,2011,2011-07-23,Munich 1860,Karlsruhe,2,1,H,Munich 1860,Munich 1860,Munich,Grünwalder Stadion,21272,48.110833,11.574444,Germany,1311397200,1266,1
+1262,D1,2011,2011-09-24,Bayern Munich,Leverkusen,3,0,H,Bayern Munich ,Bayern Munich,Munich ,Allianz Arena ,71000,48.218775,11.624753,Germany,1316840400,1267,0
+1263,D1,2011,2011-11-26,Hertha,Leverkusen,3,3,D,Hertha BSC ,Hertha,Berlin ,Olympiastadion ,74244,52.514722,13.239444,Germany,1322287200,1268,1
+1264,D1,2011,2012-03-24,Schalke 04,Leverkusen,2,0,H,Schalke 04 ,Schalke 04,Gelsenkirchen ,Veltins-Arena ,61673,51.554503000000004,7.067589,Germany,1332565200,1269,0
+1265,D1,2011,2011-11-18,Kaiserslautern,Leverkusen,0,2,A,1. FC Kaiserslautern ,Kaiserslautern,Kaiserslautern ,Fritz-Walter-Stadion ,49780,49.434722,7.776667,Germany,1321596000,1270,0
+1266,D1,2011,2012-04-21,Hoffenheim,Leverkusen,0,1,A,TSG 1899 Hoffenheim ,Hoffenheim,Sinsheim ,Rhein-Neckar Arena ,30150,49.239008,8.888281,Germany,1334984400,1271,0.94
+1267,D1,2011,2012-04-08,Hamburg,Leverkusen,1,1,D,Hamburger SV ,Hamburg,Hamburg ,Imtech Arena ,57000,53.587157999999995,9.898617,Germany,1333861200,1272,0
+1268,D1,2011,2012-02-11,Dortmund,Leverkusen,1,0,H,Borussia Dortmund ,Dortmund,Dortmund ,Signal Iduna Park ,80645,51.492569,7.451842,Germany,1328940000,1273,0
+1269,D1,2011,2012-02-25,FC Koln,Leverkusen,0,2,A,1. FC Köln ,FC Koln,Cologne ,RheinEnergieStadion ,50000,50.933496999999996,6.8749970000000005,Germany,1330149600,1274,0.76
+1270,D1,2011,2012-05-05,Nurnberg,Leverkusen,1,4,A,1. FC Nürnberg ,Nurnberg,Nuremberg ,Grundig-Stadion ,50000,49.426111,11.125833,Germany,1336194000,1275,0.44
+1271,D1,2011,2012-03-10,Wolfsburg,Leverkusen,3,2,H,VfL Wolfsburg ,Wolfsburg,Wolfsburg ,Volkswagen Arena ,30000,52.431943999999994,10.803889,Germany,1331359200,1276,0
+1272,D1,2011,2012-01-28,Werder Bremen,Leverkusen,1,1,D,Werder Bremen ,Werder Bremen,Bremen ,Weserstadion ,42100,53.066393999999995,8.837628,Germany,1327730400,1277,0
+1273,D1,2011,2011-09-09,Augsburg,Leverkusen,1,4,A,FC Augsburg ,Augsburg,Augsburg ,SGL arena ,30660,48.3225,10.882222,Germany,1315544400,1278,0.36
+1274,D1,2011,2011-10-15,M'gladbach,Leverkusen,2,2,D,Borussia Mönchengladbach ,M'gladbach,Mönchengladbach ,Borussia-Park ,54010,51.174583,6.385464,Germany,1318654800,1279,0
+1275,D1,2011,2011-12-10,Hannover,Leverkusen,0,0,D,Hannover 96 ,Hannover,Hanover ,HDI-Arena ,49000,52.360067,9.731197,Germany,1323496800,1280,0.65
+1276,D1,2011,2011-08-07,Mainz,Leverkusen,2,0,H,1. FSV Mainz 05 ,Mainz,Mainz ,Coface Arena ,34000,49.984167,8.224167,Germany,1312693200,1281,1
+1277,D1,2011,2011-10-28,Freiburg,Leverkusen,0,1,A,SC Freiburg ,Freiburg,Freiburg ,MAGE SOLAR Stadion ,24000,47.988889,7.893056,Germany,1319778000,1282,0
+1278,D1,2011,2011-08-20,Stuttgart,Leverkusen,0,1,A,VfB Stuttgart ,Stuttgart,Stuttgart ,Mercedes-Benz Arena ,60441,48.792269,9.232031,Germany,1313816400,1283,0
+1279,D1,2011,2012-04-14,Kaiserslautern,Nurnberg,0,2,A,1. FC Kaiserslautern ,Kaiserslautern,Kaiserslautern ,Fritz-Walter-Stadion ,49780,49.434722,7.776667,Germany,1334379600,1284,0
+1280,D1,2011,2012-01-27,Hannover,Nurnberg,1,0,H,Hannover 96 ,Hannover,Hanover ,HDI-Arena ,49000,52.360067,9.731197,Germany,1327644000,1285,0.46
+1281,D1,2011,2012-03-10,Mainz,Nurnberg,2,1,H,1. FSV Mainz 05 ,Mainz,Mainz ,Coface Arena ,34000,49.984167,8.224167,Germany,1331359200,1286,0
+1282,D1,2011,2012-02-25,Werder Bremen,Nurnberg,0,1,A,Werder Bremen ,Werder Bremen,Bremen ,Weserstadion ,42100,53.066393999999995,8.837628,Germany,1330149600,1287,0
+1283,D1,2011,2012-04-28,Hoffenheim,Nurnberg,2,3,A,TSG 1899 Hoffenheim ,Hoffenheim,Sinsheim ,Rhein-Neckar Arena ,30150,49.239008,8.888281,Germany,1335589200,1288,0
+1284,D1,2011,2011-12-17,Leverkusen,Nurnberg,0,3,A,Bayer Leverkusen ,Leverkusen,Leverkusen ,BayArena ,30210,51.038256,7.002206,Germany,1324101600,1289,0.78
+1285,D1,2011,2011-10-15,Wolfsburg,Nurnberg,2,1,H,VfL Wolfsburg ,Wolfsburg,Wolfsburg ,Volkswagen Arena ,30000,52.431943999999994,10.803889,Germany,1318654800,1290,0
+1286,D1,2011,2012-02-12,Augsburg,Nurnberg,0,0,D,FC Augsburg ,Augsburg,Augsburg ,SGL arena ,30660,48.3225,10.882222,Germany,1329026400,1291,0
+1287,D1,2011,2012-03-25,Stuttgart,Nurnberg,1,0,H,VfB Stuttgart ,Stuttgart,Stuttgart ,Mercedes-Benz Arena ,60441,48.792269,9.232031,Germany,1332651600,1292,0
+1288,D1,2011,2011-12-04,Hamburg,Nurnberg,2,0,H,Hamburger SV ,Hamburg,Hamburg ,Imtech Arena ,57000,53.587157999999995,9.898617,Germany,1322978400,1293,1
+1289,D1,2011,2011-11-19,Schalke 04,Nurnberg,4,0,H,Schalke 04 ,Schalke 04,Gelsenkirchen ,Veltins-Arena ,61673,51.554503000000004,7.067589,Germany,1321682400,1294,0
+1290,D1,2011,2011-09-11,FC Koln,Nurnberg,1,2,A,1. FC Köln ,FC Koln,Cologne ,RheinEnergieStadion ,50000,50.933496999999996,6.8749970000000005,Germany,1315717200,1295,1
+1291,D1,2011,2012-04-07,Freiburg,Nurnberg,2,2,D,SC Freiburg ,Freiburg,Freiburg ,MAGE SOLAR Stadion ,24000,47.988889,7.893056,Germany,1333774800,1296,0
+1292,D1,2011,2011-08-06,Hertha,Nurnberg,0,1,A,Hertha BSC ,Hertha,Berlin ,Olympiastadion ,74244,52.514722,13.239444,Germany,1312606800,1297,0.5
+1293,D1,2011,2011-10-29,Bayern Munich,Nurnberg,4,0,H,Bayern Munich ,Bayern Munich,Munich ,Allianz Arena ,71000,48.218775,11.624753,Germany,1319864400,1298,0
+1294,D1,2011,2011-09-24,M'gladbach,Nurnberg,1,0,H,Borussia Mönchengladbach ,M'gladbach,Mönchengladbach ,Borussia-Park ,54010,51.174583,6.385464,Germany,1316840400,1299,0
+1295,D1,2011,2011-08-20,Dortmund,Nurnberg,2,0,H,Borussia Dortmund ,Dortmund,Dortmund ,Signal Iduna Park ,80645,51.492569,7.451842,Germany,1313816400,1300,0
+1296,D1,2011,2012-04-01,Hoffenheim,Schalke 04,1,1,D,TSG 1899 Hoffenheim ,Hoffenheim,Sinsheim ,Rhein-Neckar Arena ,30150,49.239008,8.888281,Germany,1333256400,1301,0
+1297,D1,2011,2012-04-11,Nurnberg,Schalke 04,4,1,H,1. FC Nürnberg ,Nurnberg,Nuremberg ,Grundig-Stadion ,50000,49.426111,11.125833,Germany,1334120400,1302,0.32
+1298,D1,2011,2011-09-11,Wolfsburg,Schalke 04,2,1,H,VfL Wolfsburg ,Wolfsburg,Wolfsburg ,Volkswagen Arena ,30000,52.431943999999994,10.803889,Germany,1315717200,1303,1
+1299,D1,2011,2012-01-28,FC Koln,Schalke 04,1,4,A,1. FC Köln ,FC Koln,Cologne ,RheinEnergieStadion ,50000,50.933496999999996,6.8749970000000005,Germany,1327730400,1304,0
+1300,D1,2011,2011-11-06,Hannover,Schalke 04,2,2,D,Hannover 96 ,Hannover,Hanover ,HDI-Arena ,49000,52.360067,9.731197,Germany,1320555600,1305,0.68
+1301,D1,2011,2012-05-05,Werder Bremen,Schalke 04,2,3,A,Werder Bremen ,Werder Bremen,Bremen ,Weserstadion ,42100,53.066393999999995,8.837628,Germany,1336194000,1306,0
+1302,D1,2011,2012-03-03,Freiburg,Schalke 04,2,1,H,SC Freiburg ,Freiburg,Freiburg ,MAGE SOLAR Stadion ,24000,47.988889,7.893056,Germany,1330754400,1307,0
+1303,D1,2011,2011-12-09,Hertha,Schalke 04,1,2,A,Hertha BSC ,Hertha,Berlin ,Olympiastadion ,74244,52.514722,13.239444,Germany,1323410400,1308,0.5
+1304,D1,2011,2011-11-26,Dortmund,Schalke 04,2,0,H,Borussia Dortmund ,Dortmund,Dortmund ,Signal Iduna Park ,80645,51.492569,7.451842,Germany,1322287200,1309,0
+1305,D1,2011,2011-10-23,Leverkusen,Schalke 04,0,1,A,Bayer Leverkusen ,Leverkusen,Leverkusen ,BayArena ,30210,51.038256,7.002206,Germany,1319346000,1310,0
+1306,D1,2011,2012-03-18,Kaiserslautern,Schalke 04,1,4,A,1. FC Kaiserslautern ,Kaiserslautern,Kaiserslautern ,Fritz-Walter-Stadion ,49780,49.434722,7.776667,Germany,1332046800,1311,0.86
+1307,D1,2011,2012-04-22,Augsburg,Schalke 04,1,1,D,FC Augsburg ,Augsburg,Augsburg ,SGL arena ,30660,48.3225,10.882222,Germany,1335070800,1312,0.37
+1308,D1,2011,2012-02-11,M'gladbach,Schalke 04,3,0,H,Borussia Mönchengladbach ,M'gladbach,Mönchengladbach ,Borussia-Park ,54010,51.174583,6.385464,Germany,1328940000,1313,0
+1309,D1,2011,2011-10-02,Hamburg,Schalke 04,1,2,A,Hamburger SV ,Hamburg,Hamburg ,Imtech Arena ,57000,53.587157999999995,9.898617,Germany,1317531600,1314,0
+1310,D1,2011,2012-02-26,Bayern Munich,Schalke 04,2,0,H,Bayern Munich ,Bayern Munich,Munich ,Allianz Arena ,71000,48.218775,11.624753,Germany,1330236000,1315,0.73
+1311,D1,2011,2011-08-06,Stuttgart,Schalke 04,3,0,H,VfB Stuttgart ,Stuttgart,Stuttgart ,Mercedes-Benz Arena ,60441,48.792269,9.232031,Germany,1312606800,1316,0
+1312,D1,2011,2011-08-21,Mainz,Schalke 04,2,4,A,1. FSV Mainz 05 ,Mainz,Mainz ,Coface Arena ,34000,49.984167,8.224167,Germany,1313902800,1317,1
+1313,D1,2011,2011-12-17,Wolfsburg,Stuttgart,1,0,H,VfL Wolfsburg ,Wolfsburg,Wolfsburg ,Volkswagen Arena ,30000,52.431943999999994,10.803889,Germany,1324101600,1318,1
+1314,D1,2011,2011-11-04,Mainz,Stuttgart,3,1,H,1. FSV Mainz 05 ,Mainz,Mainz ,Coface Arena ,34000,49.984167,8.224167,Germany,1320382800,1319,0
+1315,D1,2011,2012-01-21,Schalke 04,Stuttgart,3,1,H,Schalke 04 ,Schalke 04,Gelsenkirchen ,Veltins-Arena ,61673,51.554503000000004,7.067589,Germany,1327125600,1320,0.93
+1316,D1,2011,2011-08-26,Hertha,Stuttgart,1,0,H,Hertha BSC ,Hertha,Berlin ,Olympiastadion ,74244,52.514722,13.239444,Germany,1314334800,1321,0.5
+1317,D1,2011,2012-03-30,Dortmund,Stuttgart,4,4,D,Borussia Dortmund ,Dortmund,Dortmund ,Signal Iduna Park ,80645,51.492569,7.451842,Germany,1333083600,1322,0.39
+1318,D1,2011,2012-02-04,Leverkusen,Stuttgart,2,2,D,Bayer Leverkusen ,Leverkusen,Leverkusen ,BayArena ,30210,51.038256,7.002206,Germany,1328335200,1323,0
+1319,D1,2011,2011-09-30,Kaiserslautern,Stuttgart,0,2,A,1. FC Kaiserslautern ,Kaiserslautern,Kaiserslautern ,Fritz-Walter-Stadion ,49780,49.434722,7.776667,Germany,1317358800,1324,0
+1320,D1,2011,2011-10-22,Nurnberg,Stuttgart,2,2,D,1. FC Nürnberg ,Nurnberg,Nuremberg ,Grundig-Stadion ,50000,49.426111,11.125833,Germany,1319259600,1325,0.75
+1321,D1,2011,2012-03-16,Hoffenheim,Stuttgart,1,2,A,TSG 1899 Hoffenheim ,Hoffenheim,Sinsheim ,Rhein-Neckar Arena ,30150,49.239008,8.888281,Germany,1331874000,1326,0
+1322,D1,2011,2012-04-10,Augsburg,Stuttgart,1,3,A,FC Augsburg ,Augsburg,Augsburg ,SGL arena ,30660,48.3225,10.882222,Germany,1334034000,1327,0
+1323,D1,2011,2012-03-03,Hamburg,Stuttgart,0,4,A,Hamburger SV ,Hamburg,Hamburg ,Imtech Arena ,57000,53.587157999999995,9.898617,Germany,1330754400,1328,0
+1324,D1,2011,2012-04-28,Bayern Munich,Stuttgart,2,0,H,Bayern Munich ,Bayern Munich,Munich ,Allianz Arena ,71000,48.218775,11.624753,Germany,1335589200,1329,0
+1325,D1,2011,2011-08-13,M'gladbach,Stuttgart,1,1,D,Borussia Mönchengladbach ,M'gladbach,Mönchengladbach ,Borussia-Park ,54010,51.174583,6.385464,Germany,1313211600,1330,1
+1326,D1,2011,2012-02-19,Hannover,Stuttgart,4,2,H,Hannover 96 ,Hannover,Hanover ,HDI-Arena ,49000,52.360067,9.731197,Germany,1329631200,1331,0.58
+1327,D1,2011,2011-09-16,Freiburg,Stuttgart,1,2,A,SC Freiburg ,Freiburg,Freiburg ,MAGE SOLAR Stadion ,24000,47.988889,7.893056,Germany,1316149200,1332,1
+1328,D1,2011,2012-04-21,FC Koln,Stuttgart,1,1,D,1. FC Köln ,FC Koln,Cologne ,RheinEnergieStadion ,50000,50.933496999999996,6.8749970000000005,Germany,1334984400,1333,0.49
+1329,D1,2011,2011-11-27,Werder Bremen,Stuttgart,2,0,H,Werder Bremen ,Werder Bremen,Bremen ,Weserstadion ,42100,53.066393999999995,8.837628,Germany,1322373600,1334,nan
+1330,D1,2011,2011-11-19,M'gladbach,Werder Bremen,5,0,H,Borussia Mönchengladbach ,M'gladbach,Mönchengladbach ,Borussia-Park ,54010,51.174583,6.385464,Germany,1321682400,1335,0
+1331,D1,2011,2011-10-02,Hannover,Werder Bremen,3,2,H,Hannover 96 ,Hannover,Hanover ,HDI-Arena ,49000,52.360067,9.731197,Germany,1317531600,1336,0
+1332,D1,2011,2012-04-07,FC Koln,Werder Bremen,1,1,D,1. FC Köln ,FC Koln,Cologne ,RheinEnergieStadion ,50000,50.933496999999996,6.8749970000000005,Germany,1333774800,1337,0.77
+1333,D1,2011,2012-03-17,Dortmund,Werder Bremen,1,0,H,Borussia Dortmund ,Dortmund,Dortmund ,Signal Iduna Park ,80645,51.492569,7.451842,Germany,1331960400,1338,0
+1334,D1,2011,2012-04-13,Stuttgart,Werder Bremen,4,1,H,VfB Stuttgart ,Stuttgart,Stuttgart ,Mercedes-Benz Arena ,60441,48.792269,9.232031,Germany,1334293200,1339,0
+1335,D1,2011,2011-12-03,Bayern Munich,Werder Bremen,4,1,H,Bayern Munich ,Bayern Munich,Munich ,Allianz Arena ,71000,48.218775,11.624753,Germany,1322892000,1340,1
+1336,D1,2011,2012-03-03,Hertha,Werder Bremen,1,0,H,Hertha BSC ,Hertha,Berlin ,Olympiastadion ,74244,52.514722,13.239444,Germany,1330754400,1341,0
+1337,D1,2011,2012-01-21,Kaiserslautern,Werder Bremen,0,0,D,1. FC Kaiserslautern ,Kaiserslautern,Kaiserslautern ,Fritz-Walter-Stadion ,49780,49.434722,7.776667,Germany,1327125600,1342,0.94
+1338,D1,2011,2012-04-28,Wolfsburg,Werder Bremen,3,1,H,VfL Wolfsburg ,Wolfsburg,Wolfsburg ,Volkswagen Arena ,30000,52.431943999999994,10.803889,Germany,1335589200,1343,1
+1339,D1,2011,2012-02-05,Freiburg,Werder Bremen,2,2,D,SC Freiburg ,Freiburg,Freiburg ,MAGE SOLAR Stadion ,24000,47.988889,7.893056,Germany,1328421600,1344,0
+1340,D1,2011,2011-09-17,Nurnberg,Werder Bremen,1,1,D,1. FC Nürnberg ,Nurnberg,Nuremberg ,Grundig-Stadion ,50000,49.426111,11.125833,Germany,1316235600,1345,0
+1341,D1,2011,2012-02-18,Hamburg,Werder Bremen,1,3,A,Hamburger SV ,Hamburg,Hamburg ,Imtech Arena ,57000,53.587157999999995,9.898617,Germany,1329544800,1346,0.74
+1342,D1,2011,2011-10-21,Augsburg,Werder Bremen,1,1,D,FC Augsburg ,Augsburg,Augsburg ,SGL arena ,30660,48.3225,10.882222,Germany,1319173200,1347,0.36
+1343,D1,2011,2011-08-14,Leverkusen,Werder Bremen,1,0,H,Bayer Leverkusen ,Leverkusen,Leverkusen ,BayArena ,30210,51.038256,7.002206,Germany,1313298000,1348,1
+1344,D1,2011,2011-10-29,Mainz,Werder Bremen,1,3,A,1. FSV Mainz 05 ,Mainz,Mainz ,Coface Arena ,34000,49.984167,8.224167,Germany,1319864400,1349,0
+1345,D1,2011,2011-08-27,Hoffenheim,Werder Bremen,1,2,A,TSG 1899 Hoffenheim ,Hoffenheim,Sinsheim ,Rhein-Neckar Arena ,30150,49.239008,8.888281,Germany,1314421200,1350,1
+1346,D1,2011,2011-12-17,Schalke 04,Werder Bremen,5,0,H,Schalke 04 ,Schalke 04,Gelsenkirchen ,Veltins-Arena ,61673,51.554503000000004,7.067589,Germany,1324101600,1351,0.17
+1347,D2,2011,2011-11-27,Braunschweig,Bochum,4,0,H,Eintracht Braunschweig ,Braunschweig,Braunschweig ,Eintracht-Stadion ,23325,52.29,10.521666999999999,Germany,1322373600,1352,1
+1348,D2,2011,2012-04-11,Aachen,Bochum,2,0,H,Aachen,Aachen,Aachen,Tivoli,32960,50.793333000000004,6.097222,Germany,1334120400,1353,0.73
+1349,D2,2011,2011-09-12,Dresden,Bochum,2,1,H,Dresden,Dresden,Dresden,Rudolf-Harbig-Stadion,32066,51.0404544,13.74973,Germany,1315803600,1354,1
+1350,D2,2011,2012-03-30,Ein Frankfurt,Bochum,3,0,H,Eintracht Frankfurt ,Ein Frankfurt,Frankfurt ,Commerzbank-Arena ,51500,50.068571999999996,8.645458,Germany,1333083600,1355,0
+1351,D2,2011,2011-12-17,Frankfurt FSV,Bochum,0,2,A,Frankfurt FSV,Frankfurt FSV,Frankfurt,Commerzbank-Arena,51500,50.068629,8.645,Germany,1324101600,1356,0.36
+1352,D2,2011,2011-10-21,Karlsruhe,Bochum,0,0,D,Karlsruhe SC,Karlsruhe,Karlsruhe,Wildparkstadion,29699,49.020340000000004,8.412514999999999,Germany,1319173200,1357,0
+1353,D2,2011,2012-02-12,St Pauli,Bochum,2,1,H,FC St. Pauli ,St Pauli,Hamburg ,Millerntor-Stadion ,24487,53.554444,9.967778,Germany,1329026400,1358,0
+1354,D2,2011,2011-08-20,Union Berlin,Bochum,2,1,H,Union Berlin,Union Berlin,Berlin,Stadion An der Alten Försterei,22012,52.457221999999994,13.568056,Germany,1313816400,1359,0
+1355,D2,2011,2012-03-09,Paderborn,Bochum,0,0,D,SC Paderborn,Paderborn,Paderborn,Benteler Arena,15000,51.73067,8.7108894,Germany,1331272800,1360,0
+1356,D2,2011,2012-05-06,Erzgebirge Aue,Bochum,2,1,H,Erzgebirge Aue,Erzgebirge Aue,Erzgebirge,Erzgebirgsstadion,9390,50.597755,12.711264,Germany,1336280400,1361,0.95
+1357,D2,2011,2011-11-05,Munich 1860,Bochum,1,3,A,Munich 1860,Munich 1860,Munich,Grünwalder Stadion,21272,48.110833,11.574444,Germany,1320469200,1362,0
+1358,D2,2011,2012-03-18,Duisburg,Bochum,2,1,H,Duisburg,Duisburg,Duisburg,MSV-Arena,31514,51.408951,6.777357,Germany,1332046800,1363,0.53
+1359,D2,2011,2012-04-20,Cottbus,Bochum,1,1,D,Cottbus FC,Cottbus,Cottbus,Stadion der Freundschaft,22528,51.7508,14.3406,Germany,1334898000,1364,nan
+1360,D2,2011,2011-07-18,Fortuna Dusseldorf,Bochum,2,0,H,Fortuna Düsseldorf ,Fortuna Dusseldorf,Düsseldorf ,Esprit Arena ,54600,51.261666999999996,6.7330559999999995,Germany,1310965200,1365,0.21
+1361,D2,2011,2012-02-25,Greuther Furth,Bochum,6,2,H,SpVgg Greuther Fürth ,Greuther Furth,Fürth ,Trolli Arena ,18000,49.486944,10.999167,Germany,1330149600,1366,0.24
+1362,D2,2011,2011-08-08,Hansa Rostock,Bochum,0,0,D,Hansa Rostock,Hansa Rostock,Rostock,Ostseestadion,29000,54.08495,12.095189,Germany,1312779600,1367,nan
+1363,D2,2011,2011-10-01,Ingolstadt,Bochum,3,5,A,Ingolstadt,Ingolstadt,Ingolstadt,Audi Sportspark,15800,48.745265,11.485543,Germany,1317445200,1368,nan
+1364,D1,2011,2012-03-24,Bayern Munich,Hannover,2,1,H,Bayern Munich ,Bayern Munich,Munich ,Allianz Arena ,71000,48.218775,11.624753,Germany,1332565200,1369,0.65
+1365,D1,2011,2011-11-19,Wolfsburg,Hannover,4,1,H,VfL Wolfsburg ,Wolfsburg,Wolfsburg ,Volkswagen Arena ,30000,52.431943999999994,10.803889,Germany,1321682400,1370,0
+1366,D1,2011,2012-04-14,Hamburg,Hannover,1,0,H,Hamburger SV ,Hamburg,Hamburg ,Imtech Arena ,57000,53.587157999999995,9.898617,Germany,1334379600,1371,0
+1367,D1,2011,2011-10-16,FC Koln,Hannover,2,0,H,1. FC Köln ,FC Koln,Cologne ,RheinEnergieStadion ,50000,50.933496999999996,6.8749970000000005,Germany,1318741200,1372,0
+1368,D1,2011,2011-09-24,Augsburg,Hannover,0,0,D,FC Augsburg ,Augsburg,Augsburg ,SGL arena ,30660,48.3225,10.882222,Germany,1316840400,1373,0
+1369,D1,2011,2012-04-08,Schalke 04,Hannover,3,0,H,Schalke 04 ,Schalke 04,Gelsenkirchen ,Veltins-Arena ,61673,51.554503000000004,7.067589,Germany,1333861200,1374,0
+1370,D1,2011,2011-12-18,Kaiserslautern,Hannover,1,1,D,1. FC Kaiserslautern ,Kaiserslautern,Kaiserslautern ,Fritz-Walter-Stadion ,49780,49.434722,7.776667,Germany,1324188000,1375,0.76
+1371,D1,2011,2011-08-13,Nurnberg,Hannover,1,2,A,1. FC Nürnberg ,Nurnberg,Nuremberg ,Grundig-Stadion ,50000,49.426111,11.125833,Germany,1313211600,1376,1
+1372,D1,2011,2012-04-28,Leverkusen,Hannover,1,0,H,Bayer Leverkusen ,Leverkusen,Leverkusen ,BayArena ,30210,51.038256,7.002206,Germany,1335589200,1377,0.83
+1373,D1,2011,2012-02-26,Dortmund,Hannover,3,1,H,Borussia Dortmund ,Dortmund,Dortmund ,Signal Iduna Park ,80645,51.492569,7.451842,Germany,1330236000,1378,0.47
+1374,D1,2011,2012-02-11,Mainz,Hannover,1,1,D,1. FSV Mainz 05 ,Mainz,Mainz ,Coface Arena ,34000,49.984167,8.224167,Germany,1328940000,1379,0
+1375,D1,2011,2012-01-21,Hoffenheim,Hannover,0,0,D,TSG 1899 Hoffenheim ,Hoffenheim,Sinsheim ,Rhein-Neckar Arena ,30150,49.239008,8.888281,Germany,1327125600,1380,0.91
+1376,D1,2011,2012-03-11,Werder Bremen,Hannover,3,0,H,Werder Bremen ,Werder Bremen,Bremen ,Weserstadion ,42100,53.066393999999995,8.837628,Germany,1331445600,1381,0
+1377,D1,2011,2012-02-04,Hertha,Hannover,0,1,A,Hertha BSC ,Hertha,Berlin ,Olympiastadion ,74244,52.514722,13.239444,Germany,1328335200,1382,0
+1378,D1,2011,2011-10-29,M'gladbach,Hannover,2,1,H,Borussia Mönchengladbach ,M'gladbach,Mönchengladbach ,Borussia-Park ,54010,51.174583,6.385464,Germany,1319864400,1383,0
+1379,D1,2011,2011-09-10,Stuttgart,Hannover,3,0,H,VfB Stuttgart ,Stuttgart,Stuttgart ,Mercedes-Benz Arena ,60441,48.792269,9.232031,Germany,1315630800,1384,0
+1380,D1,2011,2011-12-03,Freiburg,Hannover,1,1,D,SC Freiburg ,Freiburg,Freiburg ,MAGE SOLAR Stadion ,24000,47.988889,7.893056,Germany,1322892000,1385,1
+1381,D2,2011,2011-10-21,Fortuna Dusseldorf,Hansa Rostock,2,0,H,Fortuna Düsseldorf ,Fortuna Dusseldorf,Düsseldorf ,Esprit Arena ,54600,51.261666999999996,6.7330559999999995,Germany,1319173200,1386,0
+1382,D2,2011,2011-09-30,Erzgebirge Aue,Hansa Rostock,1,0,H,Erzgebirge Aue,Erzgebirge Aue,Erzgebirge,Erzgebirgsstadion,9390,50.597755,12.711264,Germany,1317358800,1387,0
+1383,D2,2011,2012-03-18,Karlsruhe,Hansa Rostock,2,2,D,Karlsruhe SC,Karlsruhe,Karlsruhe,Wildparkstadion,29699,49.020340000000004,8.412514999999999,Germany,1332046800,1388,0.87
+1384,D2,2011,2012-02-05,Bochum,Hansa Rostock,2,1,H,Bochum,Bochum,Bochum,Vonovia Rurstadion,26599,51.48975,7.236383999999999,Germany,1328421600,1389,0
+1385,D2,2011,2011-08-14,Duisburg,Hansa Rostock,0,0,D,Duisburg,Duisburg,Duisburg,MSV-Arena,31514,51.408951,6.777357,Germany,1313298000,1390,1
+1386,D2,2011,2012-02-19,Aachen,Hansa Rostock,0,0,D,Aachen,Aachen,Aachen,Tivoli,32960,50.793333000000004,6.097222,Germany,1329631200,1391,0.84
+1387,D2,2011,2011-12-09,Paderborn,Hansa Rostock,2,0,H,SC Paderborn,Paderborn,Paderborn,Benteler Arena,15000,51.73067,8.7108894,Germany,1323410400,1392,nan
+1388,D2,2011,2012-03-04,Braunschweig,Hansa Rostock,3,2,H,Eintracht Braunschweig ,Braunschweig,Braunschweig ,Eintracht-Stadion ,23325,52.29,10.521666999999999,Germany,1330840800,1393,0
+1389,D2,2011,2012-04-29,Union Berlin,Hansa Rostock,5,4,H,Union Berlin,Union Berlin,Berlin,Stadion An der Alten Försterei,22012,52.457221999999994,13.568056,Germany,1335675600,1394,0
+1390,D2,2011,2011-07-24,Dresden,Hansa Rostock,1,1,D,Dresden,Dresden,Dresden,Rudolf-Harbig-Stadion,32066,51.0404544,13.74973,Germany,1311483600,1395,0
+1391,D2,2011,2011-11-06,Frankfurt FSV,Hansa Rostock,0,0,D,Frankfurt FSV,Frankfurt FSV,Frankfurt,Commerzbank-Arena,51500,50.068629,8.645,Germany,1320555600,1396,0
+1392,D2,2011,2012-04-10,Cottbus,Hansa Rostock,0,1,A,Cottbus FC,Cottbus,Cottbus,Stadion der Freundschaft,22528,51.7508,14.3406,Germany,1334034000,1397,nan
+1393,D2,2011,2011-09-16,Ein Frankfurt,Hansa Rostock,4,1,H,Eintracht Frankfurt ,Ein Frankfurt,Frankfurt ,Commerzbank-Arena ,51500,50.068571999999996,8.645458,Germany,1316149200,1398,0.38
+1394,D2,2011,2011-08-26,Ingolstadt,Hansa Rostock,3,1,H,Ingolstadt,Ingolstadt,Ingolstadt,Audi Sportspark,15800,48.745265,11.485543,Germany,1314334800,1399,nan
+1395,D2,2011,2011-12-03,Greuther Furth,Hansa Rostock,3,0,H,SpVgg Greuther Fürth ,Greuther Furth,Fürth ,Trolli Arena ,18000,49.486944,10.999167,Germany,1322892000,1400,0.29
+1396,D2,2011,2012-03-31,Munich 1860,Hansa Rostock,0,1,A,Munich 1860,Munich 1860,Munich,Grünwalder Stadion,21272,48.110833,11.574444,Germany,1333170000,1401,0
+1397,D2,2011,2012-04-22,St Pauli,Hansa Rostock,3,0,H,FC St. Pauli ,St Pauli,Hamburg ,Millerntor-Stadion ,24487,53.554444,9.967778,Germany,1335070800,1402,0.86
+1398,D1,2011,2011-09-25,Werder Bremen,Hertha,2,1,H,Werder Bremen ,Werder Bremen,Bremen ,Weserstadion ,42100,53.066393999999995,8.837628,Germany,1316926800,1403,nan
+1399,D1,2011,2012-01-21,Nurnberg,Hertha,2,0,H,1. FC Nürnberg ,Nurnberg,Nuremberg ,Grundig-Stadion ,50000,49.426111,11.125833,Germany,1327125600,1404,0.56
+1400,D1,2011,2011-11-19,Freiburg,Hertha,2,2,D,SC Freiburg ,Freiburg,Freiburg ,MAGE SOLAR Stadion ,24000,47.988889,7.893056,Germany,1321682400,1405,0
+1401,D1,2011,2011-10-15,Bayern Munich,Hertha,4,0,H,Bayern Munich ,Bayern Munich,Munich ,Allianz Arena ,71000,48.218775,11.624753,Germany,1318654800,1406,0
+1402,D1,2011,2012-04-07,M'gladbach,Hertha,0,0,D,Borussia Mönchengladbach ,M'gladbach,Mönchengladbach ,Borussia-Park ,54010,51.174583,6.385464,Germany,1333774800,1407,0.95
+1403,D1,2011,2011-10-29,Wolfsburg,Hertha,2,3,A,VfL Wolfsburg ,Wolfsburg,Wolfsburg ,Volkswagen Arena ,30000,52.431943999999994,10.803889,Germany,1319864400,1408,0
+1404,D1,2011,2011-08-21,Hannover,Hertha,1,1,D,Hannover 96 ,Hannover,Hanover ,HDI-Arena ,49000,52.360067,9.731197,Germany,1313902800,1409,0
+1405,D1,2011,2011-08-13,Hamburg,Hertha,2,2,D,Hamburger SV ,Hamburg,Hamburg ,Imtech Arena ,57000,53.587157999999995,9.898617,Germany,1313211600,1410,0.57
+1406,D1,2011,2012-02-11,Stuttgart,Hertha,5,0,H,VfB Stuttgart ,Stuttgart,Stuttgart ,Mercedes-Benz Arena ,60441,48.792269,9.232031,Germany,1328940000,1411,0
+1407,D1,2011,2011-09-10,Dortmund,Hertha,1,2,A,Borussia Dortmund ,Dortmund,Dortmund ,Signal Iduna Park ,80645,51.492569,7.451842,Germany,1315630800,1412,0
+1408,D1,2011,2012-02-25,Augsburg,Hertha,3,0,H,FC Augsburg ,Augsburg,Augsburg ,SGL arena ,30660,48.3225,10.882222,Germany,1330149600,1413,0
+1409,D1,2011,2012-04-28,Schalke 04,Hertha,4,0,H,Schalke 04 ,Schalke 04,Gelsenkirchen ,Veltins-Arena ,61673,51.554503000000004,7.067589,Germany,1335589200,1414,1
+1410,D1,2011,2012-04-14,Leverkusen,Hertha,3,3,D,Bayer Leverkusen ,Leverkusen,Leverkusen ,BayArena ,30210,51.038256,7.002206,Germany,1334379600,1415,0.03
+1411,D1,2011,2011-12-03,Kaiserslautern,Hertha,1,1,D,1. FC Kaiserslautern ,Kaiserslautern,Kaiserslautern ,Fritz-Walter-Stadion ,49780,49.434722,7.776667,Germany,1322892000,1416,0.92
+1412,D1,2011,2012-03-24,Mainz,Hertha,1,3,A,1. FSV Mainz 05 ,Mainz,Mainz ,Coface Arena ,34000,49.984167,8.224167,Germany,1332565200,1417,0
+1413,D1,2011,2012-03-10,FC Koln,Hertha,1,0,H,1. FC Köln ,FC Koln,Cologne ,RheinEnergieStadion ,50000,50.933496999999996,6.8749970000000005,Germany,1331359200,1418,0.44
+1414,D1,2011,2011-12-17,Hoffenheim,Hertha,1,1,D,TSG 1899 Hoffenheim ,Hoffenheim,Sinsheim ,Rhein-Neckar Arena ,30150,49.239008,8.888281,Germany,1324101600,1419,0.69
+1415,D1,2011,2012-03-17,Augsburg,Mainz,2,1,H,FC Augsburg ,Augsburg,Augsburg ,SGL arena ,30660,48.3225,10.882222,Germany,1331960400,1420,0
+1416,D1,2011,2011-10-01,Nurnberg,Mainz,3,3,D,1. FC Nürnberg ,Nurnberg,Nuremberg ,Grundig-Stadion ,50000,49.426111,11.125833,Germany,1317445200,1421,0
+1417,D1,2011,2011-08-13,Freiburg,Mainz,1,2,A,SC Freiburg ,Freiburg,Freiburg ,MAGE SOLAR Stadion ,24000,47.988889,7.893056,Germany,1313211600,1422,0.5
+1418,D1,2011,2012-04-28,Hamburg,Mainz,0,0,D,Hamburger SV ,Hamburg,Hamburg ,Imtech Arena ,57000,53.587157999999995,9.898617,Germany,1335589200,1423,1
+1419,D1,2011,2012-02-17,Hoffenheim,Mainz,1,1,D,TSG 1899 Hoffenheim ,Hoffenheim,Sinsheim ,Rhein-Neckar Arena ,30150,49.239008,8.888281,Germany,1329458400,1424,0.72
+1420,D1,2011,2012-03-31,Werder Bremen,Mainz,0,3,A,Werder Bremen ,Werder Bremen,Bremen ,Weserstadion ,42100,53.066393999999995,8.837628,Germany,1333170000,1425,0.19
+1421,D1,2011,2011-12-18,M'gladbach,Mainz,1,0,H,Borussia Mönchengladbach ,M'gladbach,Mönchengladbach ,Borussia-Park ,54010,51.174583,6.385464,Germany,1324188000,1426,1
+1422,D1,2011,2012-01-22,Leverkusen,Mainz,3,2,H,Bayer Leverkusen ,Leverkusen,Leverkusen ,BayArena ,30210,51.038256,7.002206,Germany,1327212000,1427,0.83
+1423,D1,2011,2012-04-07,Stuttgart,Mainz,4,1,H,VfB Stuttgart ,Stuttgart,Stuttgart ,Mercedes-Benz Arena ,60441,48.792269,9.232031,Germany,1333774800,1428,0
+1424,D1,2011,2011-12-13,FC Koln,Mainz,1,1,D,1. FC Köln ,FC Koln,Cologne ,RheinEnergieStadion ,50000,50.933496999999996,6.8749970000000005,Germany,1323756000,1429,0.93
+1425,D1,2011,2012-03-03,Dortmund,Mainz,2,1,H,Borussia Dortmund ,Dortmund,Dortmund ,Signal Iduna Park ,80645,51.492569,7.451842,Germany,1330754400,1430,0
+1426,D1,2011,2011-10-22,Hertha,Mainz,0,0,D,Hertha BSC ,Hertha,Berlin ,Olympiastadion ,74244,52.514722,13.239444,Germany,1319259600,1431,0
+1427,D1,2011,2011-08-28,Hannover,Mainz,1,1,D,Hannover 96 ,Hannover,Hanover ,HDI-Arena ,49000,52.360067,9.731197,Germany,1314507600,1432,0
+1428,D1,2011,2012-04-14,Bayern Munich,Mainz,0,0,D,Bayern Munich ,Bayern Munich,Munich ,Allianz Arena ,71000,48.218775,11.624753,Germany,1334379600,1433,0
+1429,D1,2011,2011-12-03,Wolfsburg,Mainz,2,2,D,VfL Wolfsburg ,Wolfsburg,Wolfsburg ,Volkswagen Arena ,30000,52.431943999999994,10.803889,Germany,1322892000,1434,1
+1430,D1,2011,2011-09-17,Kaiserslautern,Mainz,3,1,H,1. FC Kaiserslautern ,Kaiserslautern,Kaiserslautern ,Fritz-Walter-Stadion ,49780,49.434722,7.776667,Germany,1316235600,1435,0.41
+1431,D1,2011,2012-02-04,Schalke 04,Mainz,1,1,D,Schalke 04 ,Schalke 04,Gelsenkirchen ,Veltins-Arena ,61673,51.554503000000004,7.067589,Germany,1328335200,1436,0
+1432,D2,2011,2012-04-29,Ein Frankfurt,Munich 1860,0,2,A,Eintracht Frankfurt ,Ein Frankfurt,Frankfurt ,Commerzbank-Arena ,51500,50.068571999999996,8.645458,Germany,1335675600,1437,0.44
+1433,D2,2011,2011-08-06,Cottbus,Munich 1860,0,5,A,Cottbus FC,Cottbus,Cottbus,Stadion der Freundschaft,22528,51.7508,14.3406,Germany,1312606800,1438,1
+1434,D2,2011,2012-04-15,Bochum,Munich 1860,2,2,D,Bochum,Bochum,Bochum,Vonovia Rurstadion,26599,51.48975,7.236383999999999,Germany,1334466000,1439,0.08
+1435,D2,2011,2012-03-23,Dresden,Munich 1860,0,1,A,Dresden,Dresden,Dresden,Rudolf-Harbig-Stadion,32066,51.0404544,13.74973,Germany,1332478800,1440,0
+1436,D2,2011,2011-10-14,Hansa Rostock,Munich 1860,2,0,H,Hansa Rostock,Hansa Rostock,Rostock,Ostseestadion,29000,54.08495,12.095189,Germany,1318568400,1441,nan
+1437,D2,2011,2011-09-25,Greuther Furth,Munich 1860,2,0,H,SpVgg Greuther Fürth ,Greuther Furth,Fürth ,Trolli Arena ,18000,49.486944,10.999167,Germany,1316926800,1442,0
+1438,D2,2011,2011-10-30,Duisburg,Munich 1860,0,3,A,Duisburg,Duisburg,Duisburg,MSV-Arena,31514,51.408951,6.777357,Germany,1319950800,1443,0
+1439,D2,2011,2011-08-19,Fortuna Dusseldorf,Munich 1860,3,1,H,Fortuna Düsseldorf ,Fortuna Dusseldorf,Düsseldorf ,Esprit Arena ,54600,51.261666999999996,6.7330559999999995,Germany,1313730000,1444,1
+1440,D2,2011,2012-03-14,Erzgebirge Aue,Munich 1860,0,0,D,Erzgebirge Aue,Erzgebirge Aue,Erzgebirge,Erzgebirgsstadion,9390,50.597755,12.711264,Germany,1331701200,1445,0
+1441,D2,2011,2011-12-17,Karlsruhe,Munich 1860,1,3,A,Karlsruhe SC,Karlsruhe,Karlsruhe,Wildparkstadion,29699,49.020340000000004,8.412514999999999,Germany,1324101600,1446,0.49
+1442,D2,2011,2011-07-17,Braunschweig,Munich 1860,3,1,H,Eintracht Braunschweig ,Braunschweig,Braunschweig ,Eintracht-Stadion ,23325,52.29,10.521666999999999,Germany,1310878800,1447,1
+1443,D2,2011,2012-03-10,Frankfurt FSV,Munich 1860,3,1,H,Frankfurt FSV,Frankfurt FSV,Frankfurt,Commerzbank-Arena,51500,50.068629,8.645,Germany,1331359200,1448,0
+1444,D2,2011,2012-04-08,Paderborn,Munich 1860,2,2,D,SC Paderborn,Paderborn,Paderborn,Benteler Arena,15000,51.73067,8.7108894,Germany,1333861200,1449,0
+1445,D2,2011,2012-02-24,Union Berlin,Munich 1860,0,1,A,Union Berlin,Union Berlin,Berlin,Stadion An der Alten Försterei,22012,52.457221999999994,13.568056,Germany,1330063200,1450,0.48
+1446,D2,2011,2011-12-04,Aachen,Munich 1860,2,2,D,Aachen,Aachen,Aachen,Tivoli,32960,50.793333000000004,6.097222,Germany,1322978400,1451,1
+1447,D2,2011,2011-11-18,Ingolstadt,Munich 1860,0,1,A,Ingolstadt,Ingolstadt,Ingolstadt,Audi Sportspark,15800,48.745265,11.485543,Germany,1321596000,1452,nan
+1448,D2,2011,2011-09-11,St Pauli,Munich 1860,4,2,H,FC St. Pauli ,St Pauli,Hamburg ,Millerntor-Stadion ,24487,53.554444,9.967778,Germany,1315717200,1453,1
+1449,D2,2011,2011-08-12,Bochum,St Pauli,1,2,A,Bochum,Bochum,Bochum,Vonovia Rurstadion,26599,51.48975,7.236383999999999,Germany,1313125200,1454,1
+1450,D2,2011,2012-04-13,Greuther Furth,St Pauli,2,1,H,SpVgg Greuther Fürth ,Greuther Furth,Fürth ,Trolli Arena ,18000,49.486944,10.999167,Germany,1334293200,1455,0
+1451,D2,2011,2012-03-18,Erzgebirge Aue,St Pauli,2,1,H,Erzgebirge Aue,Erzgebirge Aue,Erzgebirge,Erzgebirgsstadion,9390,50.597755,12.711264,Germany,1332046800,1456,0.93
+1452,D2,2011,2012-03-05,Munich 1860,St Pauli,1,1,D,Munich 1860,Munich 1860,Munich,Grünwalder Stadion,21272,48.110833,11.574444,Germany,1330927200,1457,0.54
+1453,D2,2011,2011-12-02,Paderborn,St Pauli,1,1,D,SC Paderborn,Paderborn,Paderborn,Benteler Arena,15000,51.73067,8.7108894,Germany,1322805600,1458,1
+1454,D2,2011,2011-10-01,Cottbus,St Pauli,1,4,A,Cottbus FC,Cottbus,Cottbus,Stadion der Freundschaft,22528,51.7508,14.3406,Germany,1317445200,1459,0
+1455,D2,2011,2012-04-07,Frankfurt FSV,St Pauli,3,3,D,Frankfurt FSV,Frankfurt FSV,Frankfurt,Commerzbank-Arena,51500,50.068629,8.645,Germany,1333774800,1460,0.15
+1456,D2,2011,2011-12-11,Ingolstadt,St Pauli,1,0,H,Ingolstadt,Ingolstadt,Ingolstadt,Audi Sportspark,15800,48.745265,11.485543,Germany,1323583200,1461,nan
+1457,D2,2011,2012-02-17,Duisburg,St Pauli,0,1,A,Duisburg,Duisburg,Duisburg,MSV-Arena,31514,51.408951,6.777357,Germany,1329458400,1462,0.51
+1458,D2,2011,2011-09-19,Karlsruhe,St Pauli,0,2,A,Karlsruhe SC,Karlsruhe,Karlsruhe,Wildparkstadion,29699,49.020340000000004,8.412514999999999,Germany,1316408400,1463,0.93
+1459,D2,2011,2011-10-28,Union Berlin,St Pauli,0,2,A,Union Berlin,Union Berlin,Berlin,Stadion An der Alten Försterei,22012,52.457221999999994,13.568056,Germany,1319778000,1464,0
+1460,D2,2011,2012-04-29,Dresden,St Pauli,1,0,H,Dresden,Dresden,Dresden,Rudolf-Harbig-Stadion,32066,51.0404544,13.74973,Germany,1335675600,1465,0
+1461,D2,2011,2011-11-19,Hansa Rostock,St Pauli,1,3,A,Hansa Rostock,Hansa Rostock,Rostock,Ostseestadion,29000,54.08495,12.095189,Germany,1321682400,1466,nan
+1462,D2,2011,2011-08-28,Braunschweig,St Pauli,1,0,H,Eintracht Braunschweig ,Braunschweig,Braunschweig ,Eintracht-Stadion ,23325,52.29,10.521666999999999,Germany,1314507600,1467,0
+1463,D2,2011,2011-07-25,Ein Frankfurt,St Pauli,1,1,D,Eintracht Frankfurt ,Ein Frankfurt,Frankfurt ,Commerzbank-Arena ,51500,50.068571999999996,8.645458,Germany,1311570000,1468,1
+1464,D2,2011,2012-04-02,Fortuna Dusseldorf,St Pauli,0,0,D,Fortuna Düsseldorf ,Fortuna Dusseldorf,Düsseldorf ,Esprit Arena ,54600,51.261666999999996,6.7330559999999995,Germany,1333342800,1469,0
+1465,D2,2011,2012-02-04,Aachen,St Pauli,2,1,H,Aachen,Aachen,Aachen,Tivoli,32960,50.793333000000004,6.097222,Germany,1328335200,1470,0
+1466,D1,2011,2011-08-06,FC Koln,Wolfsburg,0,3,A,1. FC Köln ,FC Koln,Cologne ,RheinEnergieStadion ,50000,50.933496999999996,6.8749970000000005,Germany,1312606800,1471,1
+1467,D1,2011,2012-03-03,Kaiserslautern,Wolfsburg,0,0,D,1. FC Kaiserslautern ,Kaiserslautern,Kaiserslautern ,Fritz-Walter-Stadion ,49780,49.434722,7.776667,Germany,1330754400,1472,0.39
+1468,D1,2011,2011-11-05,Dortmund,Wolfsburg,5,1,H,Borussia Dortmund ,Dortmund,Dortmund ,Signal Iduna Park ,80645,51.492569,7.451842,Germany,1320469200,1473,0
+1469,D1,2011,2011-10-01,Leverkusen,Wolfsburg,3,1,H,Bayer Leverkusen ,Leverkusen,Leverkusen ,BayArena ,30210,51.038256,7.002206,Germany,1317445200,1474,0
+1470,D1,2011,2011-10-22,Hamburg,Wolfsburg,1,1,D,Hamburger SV ,Hamburg,Hamburg ,Imtech Arena ,57000,53.587157999999995,9.898617,Germany,1319259600,1475,0
+1471,D1,2011,2011-12-10,Werder Bremen,Wolfsburg,4,1,H,Werder Bremen ,Werder Bremen,Bremen ,Weserstadion ,42100,53.066393999999995,8.837628,Germany,1323496800,1476,1
+1472,D1,2011,2012-02-19,Schalke 04,Wolfsburg,4,0,H,Schalke 04 ,Schalke 04,Gelsenkirchen ,Veltins-Arena ,61673,51.554503000000004,7.067589,Germany,1329631200,1477,1
+1473,D1,2011,2011-11-26,Augsburg,Wolfsburg,2,0,H,FC Augsburg ,Augsburg,Augsburg ,SGL arena ,30660,48.3225,10.882222,Germany,1322287200,1478,1
+1474,D1,2011,2012-05-05,Stuttgart,Wolfsburg,3,2,H,VfB Stuttgart ,Stuttgart,Stuttgart ,Mercedes-Benz Arena ,60441,48.792269,9.232031,Germany,1336194000,1479,0.84
+1475,D1,2011,2012-03-31,Hertha,Wolfsburg,1,4,A,Hertha BSC ,Hertha,Berlin ,Olympiastadion ,74244,52.514722,13.239444,Germany,1333170000,1480,0.6
+1476,D1,2011,2012-04-20,Mainz,Wolfsburg,0,0,D,1. FSV Mainz 05 ,Mainz,Mainz ,Coface Arena ,34000,49.984167,8.224167,Germany,1334898000,1481,0
+1477,D1,2011,2011-08-19,M'gladbach,Wolfsburg,4,1,H,Borussia Mönchengladbach ,M'gladbach,Mönchengladbach ,Borussia-Park ,54010,51.174583,6.385464,Germany,1313730000,1482,1
+1478,D1,2011,2012-03-17,Nurnberg,Wolfsburg,1,3,A,1. FC Nürnberg ,Nurnberg,Nuremberg ,Grundig-Stadion ,50000,49.426111,11.125833,Germany,1331960400,1483,0
+1479,D1,2011,2011-09-17,Hoffenheim,Wolfsburg,3,1,H,TSG 1899 Hoffenheim ,Hoffenheim,Sinsheim ,Rhein-Neckar Arena ,30150,49.239008,8.888281,Germany,1316235600,1484,0.59
+1480,D1,2011,2012-04-11,Hannover,Wolfsburg,2,0,H,Hannover 96 ,Hannover,Hanover ,HDI-Arena ,49000,52.360067,9.731197,Germany,1334120400,1485,0.49
+1481,D1,2011,2012-01-28,Bayern Munich,Wolfsburg,2,0,H,Bayern Munich ,Bayern Munich,Munich ,Allianz Arena ,71000,48.218775,11.624753,Germany,1327730400,1486,0
+1482,D1,2011,2011-08-27,Freiburg,Wolfsburg,3,0,H,SC Freiburg ,Freiburg,Freiburg ,MAGE SOLAR Stadion ,24000,47.988889,7.893056,Germany,1314421200,1487,1
+1483,D1,2011,2012-03-17,Leverkusen,M'gladbach,1,2,A,Bayer Leverkusen ,Leverkusen,Leverkusen ,BayArena ,30210,51.038256,7.002206,Germany,1331960400,1488,0
+1484,D1,2011,2011-10-22,Hoffenheim,M'gladbach,1,0,H,TSG 1899 Hoffenheim ,Hoffenheim,Sinsheim ,Rhein-Neckar Arena ,30150,49.239008,8.888281,Germany,1319259600,1489,0.48
+1485,D1,2011,2012-05-05,Mainz,M'gladbach,0,3,A,1. FSV Mainz 05 ,Mainz,Mainz ,Coface Arena ,34000,49.984167,8.224167,Germany,1336194000,1490,0.67
+1486,D1,2011,2011-08-28,Schalke 04,M'gladbach,1,0,H,Schalke 04 ,Schalke 04,Gelsenkirchen ,Veltins-Arena ,61673,51.554503000000004,7.067589,Germany,1314507600,1491,0.4
+1487,D1,2011,2012-02-18,Kaiserslautern,M'gladbach,1,2,A,1. FC Kaiserslautern ,Kaiserslautern,Kaiserslautern ,Fritz-Walter-Stadion ,49780,49.434722,7.776667,Germany,1329544800,1492,0
+1488,D1,2011,2011-09-17,Hamburg,M'gladbach,0,1,A,Hamburger SV ,Hamburg,Hamburg ,Imtech Arena ,57000,53.587157999999995,9.898617,Germany,1316235600,1493,0
+1489,D1,2011,2012-02-04,Wolfsburg,M'gladbach,0,0,D,VfL Wolfsburg ,Wolfsburg,Wolfsburg ,Volkswagen Arena ,30000,52.431943999999994,10.803889,Germany,1328335200,1494,0
+1490,D1,2011,2012-04-01,Hannover,M'gladbach,2,1,H,Hannover 96 ,Hannover,Hanover ,HDI-Arena ,49000,52.360067,9.731197,Germany,1333256400,1495,0
+1491,D1,2011,2011-08-07,Bayern Munich,M'gladbach,0,1,A,Bayern Munich ,Bayern Munich,Munich ,Allianz Arena ,71000,48.218775,11.624753,Germany,1312693200,1496,1
+1492,D1,2011,2012-04-21,Dortmund,M'gladbach,2,0,H,Borussia Dortmund ,Dortmund,Dortmund ,Signal Iduna Park ,80645,51.492569,7.451842,Germany,1334984400,1497,1
+1493,D1,2011,2011-12-10,Augsburg,M'gladbach,1,0,H,FC Augsburg ,Augsburg,Augsburg ,SGL arena ,30660,48.3225,10.882222,Germany,1323496800,1498,1
+1494,D1,2011,2012-04-10,Werder Bremen,M'gladbach,2,2,D,Werder Bremen ,Werder Bremen,Bremen ,Weserstadion ,42100,53.066393999999995,8.837628,Germany,1334034000,1499,0.19
+1495,D1,2011,2012-03-04,Nurnberg,M'gladbach,1,0,H,1. FC Nürnberg ,Nurnberg,Nuremberg ,Grundig-Stadion ,50000,49.426111,11.125833,Germany,1330840800,1500,0
+1496,D1,2011,2012-01-29,Stuttgart,M'gladbach,0,3,A,VfB Stuttgart ,Stuttgart,Stuttgart ,Mercedes-Benz Arena ,60441,48.792269,9.232031,Germany,1327816800,1501,0
+1497,D1,2011,2011-11-05,Hertha,M'gladbach,1,2,A,Hertha BSC ,Hertha,Berlin ,Olympiastadion ,74244,52.514722,13.239444,Germany,1320469200,1502,0.5
+1498,D1,2011,2011-11-25,FC Koln,M'gladbach,0,3,A,1. FC Köln ,FC Koln,Cologne ,RheinEnergieStadion ,50000,50.933496999999996,6.8749970000000005,Germany,1322200800,1503,0
+1499,D1,2011,2011-10-01,Freiburg,M'gladbach,1,0,H,SC Freiburg ,Freiburg,Freiburg ,MAGE SOLAR Stadion ,24000,47.988889,7.893056,Germany,1317445200,1504,0
+1500,D2,2011,2012-02-06,Munich 1860,Cottbus,2,0,H,Munich 1860,Munich 1860,Munich,Grünwalder Stadion,21272,48.110833,11.574444,Germany,1328508000,1505,0
+1501,D2,2011,2011-12-11,Dresden,Cottbus,2,1,H,Dresden,Dresden,Dresden,Rudolf-Harbig-Stadion,32066,51.0404544,13.74973,Germany,1323583200,1506,0
+1502,D2,2011,2011-10-28,Hansa Rostock,Cottbus,1,1,D,Hansa Rostock,Hansa Rostock,Rostock,Ostseestadion,29000,54.08495,12.095189,Germany,1319778000,1507,nan
+1503,D2,2011,2012-04-15,Paderborn,Cottbus,3,1,H,SC Paderborn,Paderborn,Paderborn,Benteler Arena,15000,51.73067,8.7108894,Germany,1334466000,1508,0
+1504,D2,2011,2011-11-21,Bochum,Cottbus,0,1,A,Bochum,Bochum,Bochum,Vonovia Rurstadion,26599,51.48975,7.236383999999999,Germany,1321855200,1509,0
+1505,D2,2011,2011-07-22,Duisburg,Cottbus,1,2,A,Duisburg,Duisburg,Duisburg,MSV-Arena,31514,51.408951,6.777357,Germany,1311310800,1510,0
+1506,D2,2011,2012-03-04,Ein Frankfurt,Cottbus,1,0,H,Eintracht Frankfurt ,Ein Frankfurt,Frankfurt ,Commerzbank-Arena ,51500,50.068571999999996,8.645458,Germany,1330840800,1511,0
+1507,D2,2011,2011-08-13,Aachen,Cottbus,0,2,A,Aachen,Aachen,Aachen,Tivoli,32960,50.793333000000004,6.097222,Germany,1313211600,1512,1
+1508,D2,2011,2011-08-29,Erzgebirge Aue,Cottbus,0,0,D,Erzgebirge Aue,Erzgebirge Aue,Erzgebirge,Erzgebirgsstadion,9390,50.597755,12.711264,Germany,1314594000,1513,0
+1509,D2,2011,2012-04-05,Greuther Furth,Cottbus,3,0,H,SpVgg Greuther Fürth ,Greuther Furth,Fürth ,Trolli Arena ,18000,49.486944,10.999167,Germany,1333602000,1514,0.25
+1510,D2,2011,2012-02-17,Karlsruhe,Cottbus,2,0,H,Karlsruhe SC,Karlsruhe,Karlsruhe,Wildparkstadion,29699,49.020340000000004,8.412514999999999,Germany,1329458400,1515,0
+1511,D2,2011,2012-03-25,St Pauli,Cottbus,0,0,D,FC St. Pauli ,St Pauli,Hamburg ,Millerntor-Stadion ,24487,53.554444,9.967778,Germany,1332651600,1516,0
+1512,D2,2011,2011-10-16,Frankfurt FSV,Cottbus,0,1,A,Frankfurt FSV,Frankfurt FSV,Frankfurt,Commerzbank-Arena,51500,50.068629,8.645,Germany,1318741200,1517,0
+1513,D2,2011,2011-12-02,Union Berlin,Cottbus,1,0,H,Union Berlin,Union Berlin,Berlin,Stadion An der Alten Försterei,22012,52.457221999999994,13.568056,Germany,1322805600,1518,1
+1514,D2,2011,2012-04-29,Ingolstadt,Cottbus,1,0,H,Ingolstadt,Ingolstadt,Ingolstadt,Audi Sportspark,15800,48.745265,11.485543,Germany,1335675600,1519,0
+1515,D2,2011,2011-09-17,Braunschweig,Cottbus,3,1,H,Eintracht Braunschweig ,Braunschweig,Braunschweig ,Eintracht-Stadion ,23325,52.29,10.521666999999999,Germany,1316235600,1520,0
+1516,D2,2011,2011-09-24,Fortuna Dusseldorf,Cottbus,4,2,H,Fortuna Düsseldorf ,Fortuna Dusseldorf,Düsseldorf ,Esprit Arena ,54600,51.261666999999996,6.7330559999999995,Germany,1316840400,1521,0
+1517,D2,2011,2011-08-13,Paderborn,Greuther Furth,0,1,A,SC Paderborn,Paderborn,Paderborn,Benteler Arena,15000,51.73067,8.7108894,Germany,1313211600,1522,0
+1518,D2,2011,2012-04-20,Frankfurt FSV,Greuther Furth,1,1,D,Frankfurt FSV,Frankfurt FSV,Frankfurt,Commerzbank-Arena,51500,50.068629,8.645,Germany,1334898000,1523,0
+1519,D2,2011,2012-02-03,Dresden,Greuther Furth,3,1,H,Dresden,Dresden,Dresden,Rudolf-Harbig-Stadion,32066,51.0404544,13.74973,Germany,1328248800,1524,0
+1520,D2,2011,2012-04-10,Braunschweig,Greuther Furth,0,0,D,Eintracht Braunschweig ,Braunschweig,Braunschweig ,Eintracht-Stadion ,23325,52.29,10.521666999999999,Germany,1334034000,1525,0
+1521,D2,2011,2011-11-28,Fortuna Dusseldorf,Greuther Furth,2,1,H,Fortuna Düsseldorf ,Fortuna Dusseldorf,Düsseldorf ,Esprit Arena ,54600,51.261666999999996,6.7330559999999995,Germany,1322460000,1526,0
+1522,D2,2011,2012-03-02,Duisburg,Greuther Furth,0,2,A,Duisburg,Duisburg,Duisburg,MSV-Arena,31514,51.408951,6.777357,Germany,1330668000,1527,0
+1523,D2,2011,2011-08-26,Bochum,Greuther Furth,1,4,A,Bochum,Bochum,Bochum,Vonovia Rurstadion,26599,51.48975,7.236383999999999,Germany,1314334800,1528,1
+1524,D2,2011,2012-03-31,Erzgebirge Aue,Greuther Furth,1,1,D,Erzgebirge Aue,Erzgebirge Aue,Erzgebirge,Erzgebirgsstadion,9390,50.597755,12.711264,Germany,1333170000,1529,0.44
+1525,D2,2011,2011-07-23,Union Berlin,Greuther Furth,0,4,A,Union Berlin,Union Berlin,Berlin,Stadion An der Alten Försterei,22012,52.457221999999994,13.568056,Germany,1311397200,1530,1
+1526,D2,2011,2011-10-22,Cottbus,Greuther Furth,0,2,A,Cottbus FC,Cottbus,Cottbus,Stadion der Freundschaft,22528,51.7508,14.3406,Germany,1319259600,1531,0
+1527,D2,2011,2011-11-05,St Pauli,Greuther Furth,2,2,D,FC St. Pauli ,St Pauli,Hamburg ,Millerntor-Stadion ,24487,53.554444,9.967778,Germany,1320469200,1532,0
+1528,D2,2011,2012-05-06,Hansa Rostock,Greuther Furth,2,2,D,Hansa Rostock,Hansa Rostock,Rostock,Ostseestadion,29000,54.08495,12.095189,Germany,1336280400,1533,0
+1529,D2,2011,2011-09-18,Aachen,Greuther Furth,0,0,D,Aachen,Aachen,Aachen,Tivoli,32960,50.793333000000004,6.097222,Germany,1316322000,1534,1
+1530,D2,2011,2011-10-02,Karlsruhe,Greuther Furth,2,2,D,Karlsruhe SC,Karlsruhe,Karlsruhe,Wildparkstadion,29699,49.020340000000004,8.412514999999999,Germany,1317531600,1535,0
+1531,D2,2011,2012-02-19,Ingolstadt,Greuther Furth,0,0,D,Ingolstadt,Ingolstadt,Ingolstadt,Audi Sportspark,15800,48.745265,11.485543,Germany,1329631200,1536,0
+1532,D2,2011,2011-12-12,Ein Frankfurt,Greuther Furth,0,0,D,Eintracht Frankfurt ,Ein Frankfurt,Frankfurt ,Commerzbank-Arena ,51500,50.068571999999996,8.645458,Germany,1323669600,1537,1
+1533,D2,2011,2012-03-17,Munich 1860,Greuther Furth,1,4,A,Munich 1860,Munich 1860,Munich,Grünwalder Stadion,21272,48.110833,11.574444,Germany,1331960400,1538,0
+1534,D2,2011,2011-11-20,Ein Frankfurt,Aachen,4,3,H,Eintracht Frankfurt ,Ein Frankfurt,Frankfurt ,Commerzbank-Arena ,51500,50.068571999999996,8.645458,Germany,1321768800,1539,0
+1535,D2,2011,2011-08-19,Hansa Rostock,Aachen,0,0,D,Hansa Rostock,Hansa Rostock,Rostock,Ostseestadion,29000,54.08495,12.095189,Germany,1313730000,1540,nan
+1536,D2,2011,2012-03-23,Frankfurt FSV,Aachen,2,1,H,Frankfurt FSV,Frankfurt FSV,Frankfurt,Commerzbank-Arena,51500,50.068629,8.645,Germany,1332478800,1541,0
+1537,D2,2011,2011-09-09,Paderborn,Aachen,0,0,D,SC Paderborn,Paderborn,Paderborn,Benteler Arena,15000,51.73067,8.7108894,Germany,1315544400,1542,1
+1538,D2,2011,2012-04-14,Duisburg,Aachen,2,0,H,Duisburg,Duisburg,Duisburg,MSV-Arena,31514,51.408951,6.777357,Germany,1334379600,1543,0.05
+1539,D2,2011,2011-10-16,Dresden,Aachen,1,1,D,Dresden,Dresden,Dresden,Rudolf-Harbig-Stadion,32066,51.0404544,13.74973,Germany,1318741200,1544,0.48
+1540,D2,2011,2012-05-06,Munich 1860,Aachen,1,2,A,Munich 1860,Munich 1860,Munich,Grünwalder Stadion,21272,48.110833,11.574444,Germany,1336280400,1545,0.36
+1541,D2,2011,2011-12-18,Braunschweig,Aachen,1,1,D,Eintracht Braunschweig ,Braunschweig,Braunschweig ,Eintracht-Stadion ,23325,52.29,10.521666999999999,Germany,1324188000,1546,1
+1542,D2,2011,2012-02-10,Cottbus,Aachen,1,1,D,Cottbus FC,Cottbus,Cottbus,Stadion der Freundschaft,22528,51.7508,14.3406,Germany,1328853600,1547,0
+1543,D2,2011,2011-09-24,Union Berlin,Aachen,2,0,H,Union Berlin,Union Berlin,Berlin,Stadion An der Alten Försterei,22012,52.457221999999994,13.568056,Germany,1316840400,1548,0
+1544,D2,2011,2012-02-27,Fortuna Dusseldorf,Aachen,0,0,D,Fortuna Düsseldorf ,Fortuna Dusseldorf,Düsseldorf ,Esprit Arena ,54600,51.261666999999996,6.7330559999999995,Germany,1330322400,1549,0
+1545,D2,2011,2011-08-05,St Pauli,Aachen,3,1,H,FC St. Pauli ,St Pauli,Hamburg ,Millerntor-Stadion ,24487,53.554444,9.967778,Germany,1312520400,1550,0.79
+1546,D2,2011,2012-03-09,Greuther Furth,Aachen,1,0,H,SpVgg Greuther Fürth ,Greuther Furth,Fürth ,Trolli Arena ,18000,49.486944,10.999167,Germany,1331272800,1551,0
+1547,D2,2011,2012-04-08,Ingolstadt,Aachen,3,3,D,Ingolstadt,Ingolstadt,Ingolstadt,Audi Sportspark,15800,48.745265,11.485543,Germany,1333861200,1552,0
+1548,D2,2011,2011-10-28,Bochum,Aachen,1,0,H,Bochum,Bochum,Bochum,Vonovia Rurstadion,26599,51.48975,7.236383999999999,Germany,1319778000,1553,0
+1549,D2,2011,2011-11-26,Karlsruhe,Aachen,0,2,A,Karlsruhe SC,Karlsruhe,Karlsruhe,Wildparkstadion,29699,49.020340000000004,8.412514999999999,Germany,1322287200,1554,0
+1550,D2,2011,2011-07-16,Erzgebirge Aue,Aachen,1,0,H,Erzgebirge Aue,Erzgebirge Aue,Erzgebirge,Erzgebirgsstadion,9390,50.597755,12.711264,Germany,1310792400,1555,0
+1551,D2,2011,2011-07-15,Frankfurt FSV,Union Berlin,1,1,D,Frankfurt FSV,Frankfurt FSV,Frankfurt,Commerzbank-Arena,51500,50.068629,8.645,Germany,1310706000,1556,0
+1552,D2,2011,2012-05-06,Cottbus,Union Berlin,2,1,H,Cottbus FC,Cottbus,Cottbus,Stadion der Freundschaft,22528,51.7508,14.3406,Germany,1336280400,1557,nan
+1553,D2,2011,2011-11-25,Hansa Rostock,Union Berlin,2,5,A,Hansa Rostock,Hansa Rostock,Rostock,Ostseestadion,29000,54.08495,12.095189,Germany,1322200800,1558,nan
+1554,D2,2011,2011-09-17,Duisburg,Union Berlin,1,1,D,Duisburg,Duisburg,Duisburg,MSV-Arena,31514,51.408951,6.777357,Germany,1316235600,1559,0
+1555,D2,2011,2012-03-02,Ingolstadt,Union Berlin,3,3,D,Ingolstadt,Ingolstadt,Ingolstadt,Audi Sportspark,15800,48.745265,11.485543,Germany,1330668000,1560,0
+1556,D2,2011,2012-02-03,Paderborn,Union Berlin,3,2,H,SC Paderborn,Paderborn,Paderborn,Benteler Arena,15000,51.73067,8.7108894,Germany,1328248800,1561,0
+1557,D2,2011,2012-03-16,Aachen,Union Berlin,1,3,A,Aachen,Aachen,Aachen,Tivoli,32960,50.793333000000004,6.097222,Germany,1331874000,1562,0
+1558,D2,2011,2011-10-23,Erzgebirge Aue,Union Berlin,1,1,D,Erzgebirge Aue,Erzgebirge Aue,Erzgebirge,Erzgebirgsstadion,9390,50.597755,12.711264,Germany,1319346000,1563,0
+1559,D2,2011,2012-04-01,Karlsruhe,Union Berlin,2,0,H,Karlsruhe SC,Karlsruhe,Karlsruhe,Wildparkstadion,29699,49.020340000000004,8.412514999999999,Germany,1333256400,1564,0
+1560,D2,2011,2012-02-18,Bochum,Union Berlin,4,2,H,Bochum,Bochum,Bochum,Vonovia Rurstadion,26599,51.48975,7.236383999999999,Germany,1329544800,1565,0.81
+1561,D2,2011,2012-04-22,Fortuna Dusseldorf,Union Berlin,2,1,H,Fortuna Düsseldorf ,Fortuna Dusseldorf,Düsseldorf ,Esprit Arena ,54600,51.261666999999996,6.7330559999999995,Germany,1335070800,1566,0.56
+1562,D2,2011,2011-11-04,Braunschweig,Union Berlin,1,2,A,Eintracht Braunschweig ,Braunschweig,Braunschweig ,Eintracht-Stadion ,23325,52.29,10.521666999999999,Germany,1320382800,1567,0
+1563,D2,2011,2011-08-12,Dresden,Union Berlin,4,0,H,Dresden,Dresden,Dresden,Rudolf-Harbig-Stadion,32066,51.0404544,13.74973,Germany,1313125200,1568,1
+1564,D2,2011,2011-12-16,Greuther Furth,Union Berlin,5,0,H,SpVgg Greuther Fürth ,Greuther Furth,Fürth ,Trolli Arena ,18000,49.486944,10.999167,Germany,1324015200,1569,1
+1565,D2,2011,2011-09-30,Ein Frankfurt,Union Berlin,3,1,H,Eintracht Frankfurt ,Ein Frankfurt,Frankfurt ,Commerzbank-Arena ,51500,50.068571999999996,8.645458,Germany,1317358800,1570,0
+1566,D2,2011,2011-08-28,Munich 1860,Union Berlin,3,1,H,Munich 1860,Munich 1860,Munich,Grünwalder Stadion,21272,48.110833,11.574444,Germany,1314507600,1571,0
+1567,D2,2011,2012-04-10,St Pauli,Union Berlin,2,1,H,FC St. Pauli ,St Pauli,Hamburg ,Millerntor-Stadion ,24487,53.554444,9.967778,Germany,1334034000,1572,0.74
+1568,D2,2011,2011-11-18,Duisburg,Braunschweig,3,0,H,Duisburg,Duisburg,Duisburg,MSV-Arena,31514,51.408951,6.777357,Germany,1321596000,1573,0
+1569,D2,2011,2012-04-29,Bochum,Braunschweig,2,0,H,Bochum,Bochum,Bochum,Vonovia Rurstadion,26599,51.48975,7.236383999999999,Germany,1335675600,1574,0
+1570,D2,2011,2012-04-07,Dresden,Braunschweig,2,2,D,Dresden,Dresden,Dresden,Rudolf-Harbig-Stadion,32066,51.0404544,13.74973,Germany,1333774800,1575,1
+1571,D2,2011,2011-09-23,Frankfurt FSV,Braunschweig,1,1,D,Frankfurt FSV,Frankfurt FSV,Frankfurt,Commerzbank-Arena,51500,50.068629,8.645,Germany,1316754000,1576,0
+1572,D2,2011,2011-10-14,Paderborn,Braunschweig,1,0,H,SC Paderborn,Paderborn,Paderborn,Benteler Arena,15000,51.73067,8.7108894,Germany,1318568400,1577,0
+1573,D2,2011,2012-03-24,Fortuna Dusseldorf,Braunschweig,1,1,D,Fortuna Düsseldorf ,Fortuna Dusseldorf,Düsseldorf ,Esprit Arena ,54600,51.261666999999996,6.7330559999999995,Germany,1332565200,1578,0
+1574,D2,2011,2011-07-24,Aachen,Braunschweig,0,2,A,Aachen,Aachen,Aachen,Tivoli,32960,50.793333000000004,6.097222,Germany,1311483600,1579,1
+1575,D2,2011,2012-02-26,St Pauli,Braunschweig,0,0,D,FC St. Pauli ,St Pauli,Hamburg ,Millerntor-Stadion ,24487,53.554444,9.967778,Germany,1330236000,1580,0.35
+1576,D2,2011,2012-03-11,Cottbus,Braunschweig,1,1,D,Cottbus FC,Cottbus,Cottbus,Stadion der Freundschaft,22528,51.7508,14.3406,Germany,1331445600,1581,1
+1577,D2,2011,2011-10-31,Greuther Furth,Braunschweig,1,3,A,SpVgg Greuther Fürth ,Greuther Furth,Fürth ,Trolli Arena ,18000,49.486944,10.999167,Germany,1320037200,1582,0
+1578,D2,2011,2011-12-09,Munich 1860,Braunschweig,3,0,H,Munich 1860,Munich 1860,Munich,Grünwalder Stadion,21272,48.110833,11.574444,Germany,1323410400,1583,1
+1579,D2,2011,2011-09-09,Hansa Rostock,Braunschweig,0,0,D,Hansa Rostock,Hansa Rostock,Rostock,Ostseestadion,29000,54.08495,12.095189,Germany,1315544400,1584,nan
+1580,D2,2011,2012-02-05,Ein Frankfurt,Braunschweig,2,1,H,Eintracht Frankfurt ,Ein Frankfurt,Frankfurt ,Commerzbank-Arena ,51500,50.068571999999996,8.645458,Germany,1328421600,1585,0
+1581,D2,2011,2012-04-13,Union Berlin,Braunschweig,1,0,H,Union Berlin,Union Berlin,Berlin,Stadion An der Alten Försterei,22012,52.457221999999994,13.568056,Germany,1334293200,1586,0
+1582,D2,2011,2011-12-02,Ingolstadt,Braunschweig,0,1,A,Ingolstadt,Ingolstadt,Ingolstadt,Audi Sportspark,15800,48.745265,11.485543,Germany,1322805600,1587,nan
+1583,D2,2011,2012-02-20,Erzgebirge Aue,Braunschweig,1,1,D,Erzgebirge Aue,Erzgebirge Aue,Erzgebirge,Erzgebirgsstadion,9390,50.597755,12.711264,Germany,1329717600,1588,0
+1584,D2,2011,2011-08-12,Karlsruhe,Braunschweig,1,3,A,Karlsruhe SC,Karlsruhe,Karlsruhe,Wildparkstadion,29699,49.020340000000004,8.412514999999999,Germany,1313125200,1589,0.62
+1585,D2,2011,2012-04-05,Union Berlin,Erzgebirge Aue,1,0,H,Union Berlin,Union Berlin,Berlin,Stadion An der Alten Försterei,22012,52.457221999999994,13.568056,Germany,1333602000,1590,0
+1586,D2,2011,2011-12-04,Bochum,Erzgebirge Aue,6,0,H,Bochum,Bochum,Bochum,Vonovia Rurstadion,26599,51.48975,7.236383999999999,Germany,1322978400,1591,0
+1587,D2,2011,2011-09-11,Frankfurt FSV,Erzgebirge Aue,1,1,D,Frankfurt FSV,Frankfurt FSV,Frankfurt,Commerzbank-Arena,51500,50.068629,8.645,Germany,1315717200,1592,1
+1588,D2,2011,2012-03-25,Hansa Rostock,Erzgebirge Aue,0,1,A,Hansa Rostock,Hansa Rostock,Rostock,Ostseestadion,29000,54.08495,12.095189,Germany,1332651600,1593,0
+1589,D2,2011,2011-09-23,St Pauli,Erzgebirge Aue,2,3,A,FC St. Pauli ,St Pauli,Hamburg ,Millerntor-Stadion ,24487,53.554444,9.967778,Germany,1316754000,1594,0
+1590,D2,2011,2011-08-14,Munich 1860,Erzgebirge Aue,4,0,H,Munich 1860,Munich 1860,Munich,Grünwalder Stadion,21272,48.110833,11.574444,Germany,1313298000,1595,1
+1591,D2,2011,2011-10-16,Greuther Furth,Erzgebirge Aue,2,0,H,SpVgg Greuther Fürth ,Greuther Furth,Fürth ,Trolli Arena ,18000,49.486944,10.999167,Germany,1318741200,1596,0.46
+1592,D2,2011,2011-10-29,Paderborn,Erzgebirge Aue,1,0,H,SC Paderborn,Paderborn,Paderborn,Benteler Arena,15000,51.73067,8.7108894,Germany,1319864400,1597,0
+1593,D2,2011,2012-04-29,Duisburg,Erzgebirge Aue,2,1,H,Duisburg,Duisburg,Duisburg,MSV-Arena,31514,51.408951,6.777357,Germany,1335675600,1598,0
+1594,D2,2011,2012-04-14,Ein Frankfurt,Erzgebirge Aue,4,0,H,Eintracht Frankfurt ,Ein Frankfurt,Frankfurt ,Commerzbank-Arena ,51500,50.068571999999996,8.645458,Germany,1334379600,1599,0
+1595,D2,2011,2011-12-11,Aachen,Erzgebirge Aue,1,1,D,Aachen,Aachen,Aachen,Tivoli,32960,50.793333000000004,6.097222,Germany,1323583200,1600,0
+1596,D2,2011,2011-07-22,Ingolstadt,Erzgebirge Aue,0,0,D,Ingolstadt,Ingolstadt,Ingolstadt,Audi Sportspark,15800,48.745265,11.485543,Germany,1311310800,1601,nan
+1597,D2,2011,2011-11-20,Dresden,Erzgebirge Aue,1,2,A,Dresden,Dresden,Dresden,Rudolf-Harbig-Stadion,32066,51.0404544,13.74973,Germany,1321768800,1602,0.48
+1598,D2,2011,2011-08-20,Braunschweig,Erzgebirge Aue,1,1,D,Eintracht Braunschweig ,Braunschweig,Braunschweig ,Eintracht-Stadion ,23325,52.29,10.521666999999999,Germany,1313816400,1603,0
+1599,D2,2011,2012-02-05,Karlsruhe,Erzgebirge Aue,2,1,H,Karlsruhe SC,Karlsruhe,Karlsruhe,Wildparkstadion,29699,49.020340000000004,8.412514999999999,Germany,1328421600,1604,0
+1600,D2,2011,2012-02-25,Cottbus,Erzgebirge Aue,2,0,H,Cottbus FC,Cottbus,Cottbus,Stadion der Freundschaft,22528,51.7508,14.3406,Germany,1330149600,1605,nan
+1601,D2,2011,2012-03-10,Fortuna Dusseldorf,Erzgebirge Aue,3,1,H,Fortuna Düsseldorf ,Fortuna Dusseldorf,Düsseldorf ,Esprit Arena ,54600,51.261666999999996,6.7330559999999995,Germany,1331359200,1606,0.12
+1602,D2,2011,2011-07-17,Hansa Rostock,Paderborn,1,2,A,Hansa Rostock,Hansa Rostock,Rostock,Ostseestadion,29000,54.08495,12.095189,Germany,1310878800,1607,nan
+1603,D2,2011,2011-10-02,Duisburg,Paderborn,0,1,A,Duisburg,Duisburg,Duisburg,MSV-Arena,31514,51.408951,6.777357,Germany,1317531600,1608,0
+1604,D2,2011,2011-12-16,Fortuna Dusseldorf,Paderborn,2,3,A,Fortuna Düsseldorf ,Fortuna Dusseldorf,Düsseldorf ,Esprit Arena ,54600,51.261666999999996,6.7330559999999995,Germany,1324015200,1609,1
+1605,D2,2011,2012-04-22,Karlsruhe,Paderborn,2,0,H,Karlsruhe SC,Karlsruhe,Karlsruhe,Wildparkstadion,29699,49.020340000000004,8.412514999999999,Germany,1335070800,1610,0.62
+1606,D2,2011,2012-03-03,Aachen,Paderborn,0,3,A,Aachen,Aachen,Aachen,Tivoli,32960,50.793333000000004,6.097222,Germany,1330754400,1611,0
+1607,D2,2011,2011-08-21,Dresden,Paderborn,1,2,A,Dresden,Dresden,Dresden,Rudolf-Harbig-Stadion,32066,51.0404544,13.74973,Germany,1313902800,1612,0
+1608,D2,2011,2011-08-28,Ein Frankfurt,Paderborn,0,0,D,Eintracht Frankfurt ,Ein Frankfurt,Frankfurt ,Commerzbank-Arena ,51500,50.068571999999996,8.645458,Germany,1314507600,1613,0
+1609,D2,2011,2011-09-18,Bochum,Paderborn,0,4,A,Bochum,Bochum,Bochum,Vonovia Rurstadion,26599,51.48975,7.236383999999999,Germany,1316322000,1614,1
+1610,D2,2011,2012-05-06,St Pauli,Paderborn,5,0,H,FC St. Pauli ,St Pauli,Hamburg ,Millerntor-Stadion ,24487,53.554444,9.967778,Germany,1336280400,1615,0
+1611,D2,2011,2012-02-12,Greuther Furth,Paderborn,5,1,H,SpVgg Greuther Fürth ,Greuther Furth,Fürth ,Trolli Arena ,18000,49.486944,10.999167,Germany,1329026400,1616,0
+1612,D2,2011,2011-11-25,Frankfurt FSV,Paderborn,2,2,D,Frankfurt FSV,Frankfurt FSV,Frankfurt,Commerzbank-Arena,51500,50.068629,8.645,Germany,1322200800,1617,0.28
+1613,D2,2011,2011-08-05,Union Berlin,Paderborn,3,0,H,Union Berlin,Union Berlin,Berlin,Stadion An der Alten Försterei,22012,52.457221999999994,13.568056,Germany,1312520400,1618,0.56
+1614,D2,2011,2012-04-11,Erzgebirge Aue,Paderborn,0,2,A,Erzgebirge Aue,Erzgebirge Aue,Erzgebirge,Erzgebirgsstadion,9390,50.597755,12.711264,Germany,1334120400,1619,0.9
+1615,D2,2011,2012-03-30,Braunschweig,Paderborn,0,0,D,Eintracht Braunschweig ,Braunschweig,Braunschweig ,Eintracht-Stadion ,23325,52.29,10.521666999999999,Germany,1333083600,1620,0.11
+1616,D2,2011,2011-10-21,Munich 1860,Paderborn,1,1,D,Munich 1860,Munich 1860,Munich,Grünwalder Stadion,21272,48.110833,11.574444,Germany,1319173200,1621,0
+1617,D2,2011,2011-11-06,Cottbus,Paderborn,0,2,A,Cottbus FC,Cottbus,Cottbus,Stadion der Freundschaft,22528,51.7508,14.3406,Germany,1320555600,1622,0
+1618,D2,2011,2012-03-17,Ingolstadt,Paderborn,4,0,H,Ingolstadt,Ingolstadt,Ingolstadt,Audi Sportspark,15800,48.745265,11.485543,Germany,1331960400,1623,0
+1619,D1,2011,2011-08-27,Nurnberg,Augsburg,1,0,H,1. FC Nürnberg ,Nurnberg,Nuremberg ,Grundig-Stadion ,50000,49.426111,11.125833,Germany,1314421200,1624,1
+1620,D1,2011,2012-03-24,Werder Bremen,Augsburg,1,1,D,Werder Bremen ,Werder Bremen,Bremen ,Weserstadion ,42100,53.066393999999995,8.837628,Germany,1332565200,1625,0
+1621,D1,2011,2011-11-20,Stuttgart,Augsburg,2,1,H,VfB Stuttgart ,Stuttgart,Stuttgart ,Mercedes-Benz Arena ,60441,48.792269,9.232031,Germany,1321768800,1626,0
+1622,D1,2011,2011-12-17,Hamburg,Augsburg,1,1,D,Hamburger SV ,Hamburg,Hamburg ,Imtech Arena ,57000,53.587157999999995,9.898617,Germany,1324101600,1627,0
+1623,D1,2011,2012-04-07,Bayern Munich,Augsburg,2,1,H,Bayern Munich ,Bayern Munich,Munich ,Allianz Arena ,71000,48.218775,11.624753,Germany,1333774800,1628,0.61
+1624,D1,2011,2012-04-28,M'gladbach,Augsburg,0,0,D,Borussia Mönchengladbach ,M'gladbach,Mönchengladbach ,Borussia-Park ,54010,51.174583,6.385464,Germany,1335589200,1629,1
+1625,D1,2011,2012-02-04,Hoffenheim,Augsburg,2,2,D,TSG 1899 Hoffenheim ,Hoffenheim,Sinsheim ,Rhein-Neckar Arena ,30150,49.239008,8.888281,Germany,1328335200,1630,0
+1626,D1,2011,2011-10-30,FC Koln,Augsburg,3,0,H,1. FC Köln ,FC Koln,Cologne ,RheinEnergieStadion ,50000,50.933496999999996,6.8749970000000005,Germany,1319950800,1631,0.64
+1627,D1,2011,2011-12-04,Schalke 04,Augsburg,3,1,H,Schalke 04 ,Schalke 04,Gelsenkirchen ,Veltins-Arena ,61673,51.554503000000004,7.067589,Germany,1322978400,1632,0
+1628,D1,2011,2012-03-03,Hannover,Augsburg,2,2,D,Hannover 96 ,Hannover,Hanover ,HDI-Arena ,49000,52.360067,9.731197,Germany,1330754400,1633,0
+1629,D1,2011,2011-09-17,Hertha,Augsburg,2,2,D,Hertha BSC ,Hertha,Berlin ,Olympiastadion ,74244,52.514722,13.239444,Germany,1316235600,1634,0
+1630,D1,2011,2011-10-15,Mainz,Augsburg,0,1,A,1. FSV Mainz 05 ,Mainz,Mainz ,Coface Arena ,34000,49.984167,8.224167,Germany,1318654800,1635,0
+1631,D1,2011,2012-02-18,Leverkusen,Augsburg,4,1,H,Bayer Leverkusen ,Leverkusen,Leverkusen ,BayArena ,30210,51.038256,7.002206,Germany,1329544800,1636,0.22
+1632,D1,2011,2012-04-14,Wolfsburg,Augsburg,1,2,A,VfL Wolfsburg ,Wolfsburg,Wolfsburg ,Volkswagen Arena ,30000,52.431943999999994,10.803889,Germany,1334379600,1637,0
+1633,D1,2011,2011-08-14,Kaiserslautern,Augsburg,1,1,D,1. FC Kaiserslautern ,Kaiserslautern,Kaiserslautern ,Fritz-Walter-Stadion ,49780,49.434722,7.776667,Germany,1313298000,1638,0.86
+1634,D1,2011,2011-10-01,Dortmund,Augsburg,4,0,H,Borussia Dortmund ,Dortmund,Dortmund ,Signal Iduna Park ,80645,51.492569,7.451842,Germany,1317445200,1639,0
+1635,D1,2011,2012-01-21,Freiburg,Augsburg,1,0,H,SC Freiburg ,Freiburg,Freiburg ,MAGE SOLAR Stadion ,24000,47.988889,7.893056,Germany,1327125600,1640,1
+1636,D1,2011,2011-11-20,Hamburg,Hoffenheim,2,0,H,Hamburger SV ,Hamburg,Hamburg ,Imtech Arena ,57000,53.587157999999995,9.898617,Germany,1321768800,1641,0
+1637,D1,2011,2012-01-28,Dortmund,Hoffenheim,3,1,H,Borussia Dortmund ,Dortmund,Dortmund ,Signal Iduna Park ,80645,51.492569,7.451842,Germany,1327730400,1642,0
+1638,D1,2011,2012-03-24,M'gladbach,Hoffenheim,1,2,A,Borussia Mönchengladbach ,M'gladbach,Mönchengladbach ,Borussia-Park ,54010,51.174583,6.385464,Germany,1332565200,1643,0
+1639,D1,2011,2012-02-11,Werder Bremen,Hoffenheim,1,1,D,Werder Bremen ,Werder Bremen,Bremen ,Weserstadion ,42100,53.066393999999995,8.837628,Germany,1328940000,1644,0
+1640,D1,2011,2011-12-02,Leverkusen,Hoffenheim,2,0,H,Bayer Leverkusen ,Leverkusen,Leverkusen ,BayArena ,30210,51.038256,7.002206,Germany,1322805600,1645,1
+1641,D1,2011,2011-10-15,Stuttgart,Hoffenheim,2,0,H,VfB Stuttgart ,Stuttgart,Stuttgart ,Mercedes-Benz Arena ,60441,48.792269,9.232031,Germany,1318654800,1646,0
+1642,D1,2011,2012-04-07,Kaiserslautern,Hoffenheim,1,2,A,1. FC Kaiserslautern ,Kaiserslautern,Kaiserslautern ,Fritz-Walter-Stadion ,49780,49.434722,7.776667,Germany,1333774800,1647,0
+1643,D1,2011,2012-03-10,Bayern Munich,Hoffenheim,7,1,H,Bayern Munich ,Bayern Munich,Munich ,Allianz Arena ,71000,48.218775,11.624753,Germany,1331359200,1648,0
+1644,D1,2011,2011-09-25,FC Koln,Hoffenheim,2,0,H,1. FC Köln ,FC Koln,Cologne ,RheinEnergieStadion ,50000,50.933496999999996,6.8749970000000005,Germany,1316926800,1649,0
+1645,D1,2011,2012-05-05,Hertha,Hoffenheim,3,1,H,Hertha BSC ,Hertha,Berlin ,Olympiastadion ,74244,52.514722,13.239444,Germany,1336194000,1650,0.6
+1646,D1,2011,2011-09-10,Mainz,Hoffenheim,0,4,A,1. FSV Mainz 05 ,Mainz,Mainz ,Coface Arena ,34000,49.984167,8.224167,Germany,1315630800,1651,0
+1647,D1,2011,2011-10-29,Schalke 04,Hoffenheim,3,1,H,Schalke 04 ,Schalke 04,Gelsenkirchen ,Veltins-Arena ,61673,51.554503000000004,7.067589,Germany,1319864400,1652,0
+1648,D1,2011,2011-08-06,Hannover,Hoffenheim,2,1,H,Hannover 96 ,Hannover,Hanover ,HDI-Arena ,49000,52.360067,9.731197,Germany,1312606800,1653,1
+1649,D1,2011,2011-12-10,Nurnberg,Hoffenheim,0,2,A,1. FC Nürnberg ,Nurnberg,Nuremberg ,Grundig-Stadion ,50000,49.426111,11.125833,Germany,1323496800,1654,1
+1650,D1,2011,2011-08-20,Augsburg,Hoffenheim,0,2,A,FC Augsburg ,Augsburg,Augsburg ,SGL arena ,30660,48.3225,10.882222,Germany,1313816400,1655,0
+1651,D1,2011,2012-04-15,Freiburg,Hoffenheim,0,0,D,SC Freiburg ,Freiburg,Freiburg ,MAGE SOLAR Stadion ,24000,47.988889,7.893056,Germany,1334466000,1656,1
+1652,D1,2011,2012-02-25,Wolfsburg,Hoffenheim,1,2,A,VfL Wolfsburg ,Wolfsburg,Wolfsburg ,Volkswagen Arena ,30000,52.431943999999994,10.803889,Germany,1330149600,1657,1
+1653,D2,2011,2011-12-04,Dresden,Frankfurt FSV,2,2,D,Dresden,Dresden,Dresden,Rudolf-Harbig-Stadion,32066,51.0404544,13.74973,Germany,1322978400,1658,1
+1654,D2,2011,2011-09-18,Munich 1860,Frankfurt FSV,4,0,H,Munich 1860,Munich 1860,Munich,Grünwalder Stadion,21272,48.110833,11.574444,Germany,1316322000,1659,1
+1655,D2,2011,2011-11-20,Greuther Furth,Frankfurt FSV,4,0,H,SpVgg Greuther Fürth ,Greuther Furth,Fürth ,Trolli Arena ,18000,49.486944,10.999167,Germany,1321768800,1660,0
+1656,D2,2011,2011-08-27,Karlsruhe,Frankfurt FSV,0,4,A,Karlsruhe SC,Karlsruhe,Karlsruhe,Wildparkstadion,29699,49.020340000000004,8.412514999999999,Germany,1314421200,1661,1
+1657,D2,2011,2012-02-03,Duisburg,Frankfurt FSV,1,2,A,Duisburg,Duisburg,Duisburg,MSV-Arena,31514,51.408951,6.777357,Germany,1328248800,1662,0
+1658,D2,2011,2011-10-23,St Pauli,Frankfurt FSV,2,1,H,FC St. Pauli ,St Pauli,Hamburg ,Millerntor-Stadion ,24487,53.554444,9.967778,Germany,1319346000,1663,0
+1659,D2,2011,2012-03-16,Braunschweig,Frankfurt FSV,0,0,D,Eintracht Braunschweig ,Braunschweig,Braunschweig ,Eintracht-Stadion ,23325,52.29,10.521666999999999,Germany,1331874000,1664,0
+1660,D2,2011,2011-08-14,Ingolstadt,Frankfurt FSV,1,1,D,Ingolstadt,Ingolstadt,Ingolstadt,Audi Sportspark,15800,48.745265,11.485543,Germany,1313298000,1665,nan
+1661,D2,2011,2011-12-10,Union Berlin,Frankfurt FSV,4,0,H,Union Berlin,Union Berlin,Berlin,Stadion An der Alten Försterei,22012,52.457221999999994,13.568056,Germany,1323496800,1666,0.44
+1662,D2,2011,2011-09-30,Aachen,Frankfurt FSV,1,3,A,Aachen,Aachen,Aachen,Tivoli,32960,50.793333000000004,6.097222,Germany,1317358800,1667,0
+1663,D2,2011,2012-03-04,Erzgebirge Aue,Frankfurt FSV,4,3,H,Erzgebirge Aue,Erzgebirge Aue,Erzgebirge,Erzgebirgsstadion,9390,50.597755,12.711264,Germany,1330840800,1668,0
+1664,D2,2011,2012-02-18,Ein Frankfurt,Frankfurt FSV,6,1,H,Eintracht Frankfurt ,Ein Frankfurt,Frankfurt ,Commerzbank-Arena ,51500,50.068571999999996,8.645458,Germany,1329544800,1669,0.24
+1665,D2,2011,2012-04-29,Paderborn,Frankfurt FSV,1,0,H,SC Paderborn,Paderborn,Paderborn,Benteler Arena,15000,51.73067,8.7108894,Germany,1335675600,1670,0
+1666,D2,2011,2012-04-01,Cottbus,Frankfurt FSV,1,1,D,Cottbus FC,Cottbus,Cottbus,Stadion der Freundschaft,22528,51.7508,14.3406,Germany,1333256400,1671,nan
+1667,D2,2011,2011-07-22,Bochum,Frankfurt FSV,1,0,H,Bochum,Bochum,Bochum,Vonovia Rurstadion,26599,51.48975,7.236383999999999,Germany,1311310800,1672,0
+1668,D2,2011,2012-04-13,Hansa Rostock,Frankfurt FSV,0,5,A,Hansa Rostock,Hansa Rostock,Rostock,Ostseestadion,29000,54.08495,12.095189,Germany,1334293200,1673,0
+1669,D2,2011,2012-04-10,Fortuna Dusseldorf,Frankfurt FSV,1,0,H,Fortuna Düsseldorf ,Fortuna Dusseldorf,Düsseldorf ,Esprit Arena ,54600,51.261666999999996,6.7330559999999995,Germany,1334034000,1674,0.81
+1670,D2,2011,2012-03-23,Bochum,Ingolstadt,0,1,A,Bochum,Bochum,Bochum,Vonovia Rurstadion,26599,51.48975,7.236383999999999,Germany,1332478800,1675,0
+1671,D2,2011,2011-11-27,Cottbus,Ingolstadt,0,0,D,Cottbus FC,Cottbus,Cottbus,Stadion der Freundschaft,22528,51.7508,14.3406,Germany,1322373600,1676,1
+1672,D2,2011,2011-10-15,Duisburg,Ingolstadt,3,1,H,Duisburg,Duisburg,Duisburg,MSV-Arena,31514,51.408951,6.777357,Germany,1318654800,1677,0
+1673,D2,2011,2011-11-04,Karlsruhe,Ingolstadt,3,2,H,Karlsruhe SC,Karlsruhe,Karlsruhe,Wildparkstadion,29699,49.020340000000004,8.412514999999999,Germany,1320382800,1678,0
+1674,D2,2011,2011-08-19,Greuther Furth,Ingolstadt,3,0,H,SpVgg Greuther Fürth ,Greuther Furth,Fürth ,Trolli Arena ,18000,49.486944,10.999167,Germany,1313730000,1679,1
+1675,D2,2011,2012-02-10,Frankfurt FSV,Ingolstadt,1,1,D,Frankfurt FSV,Frankfurt FSV,Frankfurt,Commerzbank-Arena,51500,50.068629,8.645,Germany,1328853600,1680,0
+1676,D2,2011,2011-12-16,Erzgebirge Aue,Ingolstadt,1,1,D,Erzgebirge Aue,Erzgebirge Aue,Erzgebirge,Erzgebirgsstadion,9390,50.597755,12.711264,Germany,1324015200,1681,1
+1677,D2,2011,2011-09-11,Union Berlin,Ingolstadt,4,1,H,Union Berlin,Union Berlin,Berlin,Stadion An der Alten Försterei,22012,52.457221999999994,13.568056,Germany,1315717200,1682,1
+1678,D2,2011,2011-07-16,St Pauli,Ingolstadt,2,0,H,FC St. Pauli ,St Pauli,Hamburg ,Millerntor-Stadion ,24487,53.554444,9.967778,Germany,1310792400,1683,0
+1679,D2,2011,2012-03-11,Dresden,Ingolstadt,0,0,D,Dresden,Dresden,Dresden,Rudolf-Harbig-Stadion,32066,51.0404544,13.74973,Germany,1331445600,1684,1
+1680,D2,2011,2011-09-23,Paderborn,Ingolstadt,4,1,H,SC Paderborn,Paderborn,Paderborn,Benteler Arena,15000,51.73067,8.7108894,Germany,1316754000,1685,0
+1681,D2,2011,2012-04-11,Ein Frankfurt,Ingolstadt,1,1,D,Eintracht Frankfurt ,Ein Frankfurt,Frankfurt ,Commerzbank-Arena ,51500,50.068571999999996,8.645458,Germany,1334120400,1686,0.44
+1682,D2,2011,2011-10-23,Aachen,Ingolstadt,3,1,H,Aachen,Aachen,Aachen,Tivoli,32960,50.793333000000004,6.097222,Germany,1319346000,1687,0
+1683,D2,2011,2012-05-06,Braunschweig,Ingolstadt,3,1,H,Eintracht Braunschweig ,Braunschweig,Braunschweig ,Eintracht-Stadion ,23325,52.29,10.521666999999999,Germany,1336280400,1688,1
+1684,D2,2011,2011-08-05,Fortuna Dusseldorf,Ingolstadt,4,1,H,Fortuna Düsseldorf ,Fortuna Dusseldorf,Düsseldorf ,Esprit Arena ,54600,51.261666999999996,6.7330559999999995,Germany,1312520400,1689,1
+1685,D2,2011,2012-02-24,Hansa Rostock,Ingolstadt,1,2,A,Hansa Rostock,Hansa Rostock,Rostock,Ostseestadion,29000,54.08495,12.095189,Germany,1330063200,1690,0
+1686,D2,2011,2012-04-21,Munich 1860,Ingolstadt,4,1,H,Munich 1860,Munich 1860,Munich,Grünwalder Stadion,21272,48.110833,11.574444,Germany,1334984400,1691,0
+1687,D2,2011,2012-04-29,Greuther Furth,Fortuna Dusseldorf,1,1,D,SpVgg Greuther Fürth ,Greuther Furth,Fürth ,Trolli Arena ,18000,49.486944,10.999167,Germany,1335675600,1692,0
+1688,D2,2011,2011-10-17,St Pauli,Fortuna Dusseldorf,1,3,A,FC St. Pauli ,St Pauli,Hamburg ,Millerntor-Stadion ,24487,53.554444,9.967778,Germany,1318827600,1693,0
+1689,D2,2011,2011-12-05,Duisburg,Fortuna Dusseldorf,0,2,A,Duisburg,Duisburg,Duisburg,MSV-Arena,31514,51.408951,6.777357,Germany,1323064800,1694,0.95
+1690,D2,2011,2012-04-16,Dresden,Fortuna Dusseldorf,2,1,H,Dresden,Dresden,Dresden,Rudolf-Harbig-Stadion,32066,51.0404544,13.74973,Germany,1334552400,1695,1
+1691,D2,2011,2011-10-30,Frankfurt FSV,Fortuna Dusseldorf,2,5,A,Frankfurt FSV,Frankfurt FSV,Frankfurt,Commerzbank-Arena,51500,50.068629,8.645,Germany,1319950800,1696,0
+1692,D2,2011,2012-04-05,Hansa Rostock,Fortuna Dusseldorf,2,1,H,Hansa Rostock,Hansa Rostock,Rostock,Ostseestadion,29000,54.08495,12.095189,Germany,1333602000,1697,0
+1693,D2,2011,2012-02-04,Ingolstadt,Fortuna Dusseldorf,1,1,D,Ingolstadt,Ingolstadt,Ingolstadt,Audi Sportspark,15800,48.745265,11.485543,Germany,1328335200,1698,0
+1694,D2,2011,2011-10-03,Braunschweig,Fortuna Dusseldorf,1,1,D,Eintracht Braunschweig ,Braunschweig,Braunschweig ,Eintracht-Stadion ,23325,52.29,10.521666999999999,Germany,1317618000,1699,0
+1695,D2,2011,2012-03-03,Karlsruhe,Fortuna Dusseldorf,0,5,A,Karlsruhe SC,Karlsruhe,Karlsruhe,Wildparkstadion,29699,49.020340000000004,8.412514999999999,Germany,1330754400,1700,0
+1696,D2,2011,2012-03-19,Cottbus,Fortuna Dusseldorf,1,1,D,Cottbus FC,Cottbus,Cottbus,Stadion der Freundschaft,22528,51.7508,14.3406,Germany,1332133200,1701,nan
+1697,D2,2011,2011-11-19,Union Berlin,Fortuna Dusseldorf,0,0,D,Union Berlin,Union Berlin,Berlin,Stadion An der Alten Försterei,22012,52.457221999999994,13.568056,Germany,1321682400,1702,0
+1698,D2,2011,2012-02-19,Munich 1860,Fortuna Dusseldorf,2,1,H,Munich 1860,Munich 1860,Munich,Grünwalder Stadion,21272,48.110833,11.574444,Germany,1329631200,1703,0.87
+1699,D2,2011,2011-07-24,Paderborn,Fortuna Dusseldorf,1,1,D,SC Paderborn,Paderborn,Paderborn,Benteler Arena,15000,51.73067,8.7108894,Germany,1311483600,1704,0
+1700,D2,2011,2011-12-10,Bochum,Fortuna Dusseldorf,1,1,D,Bochum,Bochum,Bochum,Vonovia Rurstadion,26599,51.48975,7.236383999999999,Germany,1323496800,1705,0.28
+1701,D2,2011,2011-08-15,Ein Frankfurt,Fortuna Dusseldorf,1,1,D,Eintracht Frankfurt ,Ein Frankfurt,Frankfurt ,Commerzbank-Arena ,51500,50.068571999999996,8.645458,Germany,1313384400,1706,0
+1702,D2,2011,2011-08-27,Aachen,Fortuna Dusseldorf,0,0,D,Aachen,Aachen,Aachen,Tivoli,32960,50.793333000000004,6.097222,Germany,1314421200,1707,1
+1703,D2,2011,2011-09-16,Erzgebirge Aue,Fortuna Dusseldorf,2,4,A,Erzgebirge Aue,Erzgebirge Aue,Erzgebirge,Erzgebirgsstadion,9390,50.597755,12.711264,Germany,1316149200,1708,0
+44495,E0,2011,2011-08-13,Blackburn,Wolves,1,2,A,Blackburn Rovers ,Blackburn,Blackburn ,Ewood Park ,31154,53.728611,-2.4891669999999997,England,1313211600,44500,1
+44496,E0,2011,2011-08-13,Fulham,Aston Villa,0,0,D,Fulham ,Fulham,London ,Craven Cottage ,25700,51.475,-0.221667,England,1313211600,44501,1
+44497,E0,2011,2011-08-13,Liverpool,Sunderland,1,1,D,Liverpool ,Liverpool,Liverpool ,Anfield ,45276,53.43081899999999,-2.960828,England,1313211600,44502,0.63
+44498,E0,2011,2011-08-13,Newcastle,Arsenal,0,0,D,Newcastle United ,Newcastle,Newcastle upon Tyne ,Sports Direct Arena,52409,54.975556000000005,-1.621667,England,1313211600,44503,1
+44499,E0,2011,2011-08-13,QPR,Bolton,0,4,A,Queens Park Rangers ,QPR,London ,Loftus Road ,18439,51.509167,-0.23222199999999998,England,1313211600,44504,1
+44500,E0,2011,2011-08-13,Wigan,Norwich,1,1,D,Wigan Athletic ,Wigan,Wigan ,DW Stadium ,25133,53.547778,-2.653889,England,1313211600,44505,0.73
+44501,E0,2011,2011-08-14,Stoke,Chelsea,0,0,D,Stoke City ,Stoke,Stoke-on-Trent ,Britannia Stadium ,27740,52.988333,-2.1755560000000003,England,1313298000,44506,0
+44502,E0,2011,2011-08-14,West Brom,Man United,1,2,A,West Bromwich Albion ,West Brom,West Bromwich ,The Hawthorns ,27877,52.509167000000005,-1.963889,England,1313298000,44507,0
+44503,E0,2011,2011-08-15,Man City,Swansea,4,0,H,Manchester City ,Man City,Manchester ,Etihad Stadium,47405,53.482989,-2.2002919999999997,England,1313384400,44508,0.84
+44504,E0,2011,2011-08-20,Arsenal,Liverpool,0,2,A,Arsenal ,Arsenal,London ,Emirates Stadium ,60361,51.555,-0.10861099999999999,England,1313816400,44509,1
+44505,E0,2011,2011-08-20,Aston Villa,Blackburn,3,1,H,Aston Villa ,Aston Villa,Birmingham ,Villa Park ,42785,52.509167000000005,-1.884722,England,1313816400,44510,0.27
+44506,E0,2011,2011-08-20,Chelsea,West Brom,2,1,H,Chelsea ,Chelsea,London ,Stamford Bridge ,42449,51.481667,-0.191111,England,1313816400,44511,1
+44507,E0,2011,2011-08-20,Everton,QPR,0,1,A,Everton ,Everton,Liverpool ,Goodison Park ,40157,53.438889,-2.966389,England,1313816400,44512,0.7
+44508,E0,2011,2011-08-20,Sunderland,Newcastle,0,1,A,Sunderland ,Sunderland,Sunderland ,Stadium of Light ,48707,54.9144,-1.3882,England,1313816400,44513,0.87
+44509,E0,2011,2011-08-20,Swansea,Wigan,0,0,D,Swansea City ,Swansea,Swansea ,Liberty Stadium ,20520,51.6422,-3.9351,England,1313816400,44514,1
+44510,E0,2011,2011-08-21,Bolton,Man City,2,3,A,Bolton Wanderers ,Bolton,Bolton ,Reebok Stadium ,28100,53.58055600000001,-2.535556,England,1313902800,44515,0.67
+44511,E0,2011,2011-08-21,Norwich,Stoke,1,1,D,Norwich City ,Norwich,Norwich ,Carrow Road ,27010,52.622128000000004,1.308653,England,1313902800,44516,0.78
+44512,E0,2011,2011-08-21,Wolves,Fulham,2,0,H,Wolverhampton Wanderers ,Wolves,Wolverhampton ,Molineux Stadium ,27828,52.590278000000005,-2.1302779999999997,England,1313902800,44517,0.14
+44513,E0,2011,2011-08-22,Man United,Tottenham,3,0,H,Manchester United ,Man United,Stretford ,Old Trafford ,75811,53.46305600000001,-2.291389,England,1313989200,44518,0
+44514,E0,2011,2011-08-27,Aston Villa,Wolves,0,0,D,Aston Villa ,Aston Villa,Birmingham ,Villa Park ,42785,52.509167000000005,-1.884722,England,1314421200,44519,0.74
+44515,E0,2011,2011-08-27,Blackburn,Everton,0,1,A,Blackburn Rovers ,Blackburn,Blackburn ,Ewood Park ,31154,53.728611,-2.4891669999999997,England,1314421200,44520,0.83
+44516,E0,2011,2011-08-27,Chelsea,Norwich,3,1,H,Chelsea ,Chelsea,London ,Stamford Bridge ,42449,51.481667,-0.191111,England,1314421200,44521,0.62
+44517,E0,2011,2011-08-27,Liverpool,Bolton,3,1,H,Liverpool ,Liverpool,Liverpool ,Anfield ,45276,53.43081899999999,-2.960828,England,1314421200,44522,1
+44518,E0,2011,2011-08-27,Swansea,Sunderland,0,0,D,Swansea City ,Swansea,Swansea ,Liberty Stadium ,20520,51.6422,-3.9351,England,1314421200,44523,1
+44519,E0,2011,2011-08-27,Wigan,QPR,2,0,H,Wigan Athletic ,Wigan,Wigan ,DW Stadium ,25133,53.547778,-2.653889,England,1314421200,44524,0.93
+44520,E0,2011,2011-08-28,Man United,Arsenal,8,2,H,Manchester United ,Man United,Stretford ,Old Trafford ,75811,53.46305600000001,-2.291389,England,1314507600,44525,0.26
+44521,E0,2011,2011-08-28,Newcastle,Fulham,2,1,H,Newcastle United ,Newcastle,Newcastle upon Tyne ,Sports Direct Arena,52409,54.975556000000005,-1.621667,England,1314507600,44526,0.56
+44522,E0,2011,2011-08-28,Tottenham,Man City,1,5,A,Tottenham Hotspur ,Tottenham,London ,White Hart Lane ,36230,51.603333,-0.065833,England,1314507600,44527,0.28
+44523,E0,2011,2011-08-28,West Brom,Stoke,0,1,A,West Bromwich Albion ,West Brom,West Bromwich ,The Hawthorns ,27877,52.509167000000005,-1.963889,England,1314507600,44528,0.73
+44524,E0,2011,2011-09-10,Arsenal,Swansea,1,0,H,Arsenal ,Arsenal,London ,Emirates Stadium ,60361,51.555,-0.10861099999999999,England,1315630800,44529,0.27
+44525,E0,2011,2011-09-10,Bolton,Man United,0,5,A,Bolton Wanderers ,Bolton,Bolton ,Reebok Stadium ,28100,53.58055600000001,-2.535556,England,1315630800,44530,0.37
+44526,E0,2011,2011-09-10,Everton,Aston Villa,2,2,D,Everton ,Everton,Liverpool ,Goodison Park ,40157,53.438889,-2.966389,England,1315630800,44531,0.1
+44527,E0,2011,2011-09-10,Man City,Wigan,3,0,H,Manchester City ,Man City,Manchester ,Etihad Stadium,47405,53.482989,-2.2002919999999997,England,1315630800,44532,0.62
+44528,E0,2011,2011-09-10,Stoke,Liverpool,1,0,H,Stoke City ,Stoke,Stoke-on-Trent ,Britannia Stadium ,27740,52.988333,-2.1755560000000003,England,1315630800,44533,0.51
+44529,E0,2011,2011-09-10,Sunderland,Chelsea,1,2,A,Sunderland ,Sunderland,Sunderland ,Stadium of Light ,48707,54.9144,-1.3882,England,1315630800,44534,0.82
+44530,E0,2011,2011-09-10,Wolves,Tottenham,0,2,A,Wolverhampton Wanderers ,Wolves,Wolverhampton ,Molineux Stadium ,27828,52.590278000000005,-2.1302779999999997,England,1315630800,44535,0.83
+44531,E0,2011,2011-09-11,Fulham,Blackburn,1,1,D,Fulham ,Fulham,London ,Craven Cottage ,25700,51.475,-0.221667,England,1315717200,44536,1
+44532,E0,2011,2011-09-11,Norwich,West Brom,0,1,A,Norwich City ,Norwich,Norwich ,Carrow Road ,27010,52.622128000000004,1.308653,England,1315717200,44537,0.75
+44533,E0,2011,2011-09-12,QPR,Newcastle,0,0,D,Queens Park Rangers ,QPR,London ,Loftus Road ,18439,51.509167,-0.23222199999999998,England,1315803600,44538,0.3
+44534,E0,2011,2011-09-17,Aston Villa,Newcastle,1,1,D,Aston Villa ,Aston Villa,Birmingham ,Villa Park ,42785,52.509167000000005,-1.884722,England,1316235600,44539,0.97
+44535,E0,2011,2011-09-17,Blackburn,Arsenal,4,3,H,Blackburn Rovers ,Blackburn,Blackburn ,Ewood Park ,31154,53.728611,-2.4891669999999997,England,1316235600,44540,1
+44536,E0,2011,2011-09-17,Bolton,Norwich,1,2,A,Bolton Wanderers ,Bolton,Bolton ,Reebok Stadium ,28100,53.58055600000001,-2.535556,England,1316235600,44541,0.88
+44537,E0,2011,2011-09-17,Everton,Wigan,3,1,H,Everton ,Everton,Liverpool ,Goodison Park ,40157,53.438889,-2.966389,England,1316235600,44542,0.8
+44538,E0,2011,2011-09-17,Swansea,West Brom,3,0,H,Swansea City ,Swansea,Swansea ,Liberty Stadium ,20520,51.6422,-3.9351,England,1316235600,44543,1
+44539,E0,2011,2011-09-17,Wolves,QPR,0,3,A,Wolverhampton Wanderers ,Wolves,Wolverhampton ,Molineux Stadium ,27828,52.590278000000005,-2.1302779999999997,England,1316235600,44544,0.79
+44540,E0,2011,2011-09-18,Fulham,Man City,2,2,D,Fulham ,Fulham,London ,Craven Cottage ,25700,51.475,-0.221667,England,1316322000,44545,0.17
+44541,E0,2011,2011-09-18,Man United,Chelsea,3,1,H,Manchester United ,Man United,Stretford ,Old Trafford ,75811,53.46305600000001,-2.291389,England,1316322000,44546,0.85
+44542,E0,2011,2011-09-18,Sunderland,Stoke,4,0,H,Sunderland ,Sunderland,Sunderland ,Stadium of Light ,48707,54.9144,-1.3882,England,1316322000,44547,0.66
+44543,E0,2011,2011-09-18,Tottenham,Liverpool,4,0,H,Tottenham Hotspur ,Tottenham,London ,White Hart Lane ,36230,51.603333,-0.065833,England,1316322000,44548,0.1
+44544,E0,2011,2011-09-24,Arsenal,Bolton,3,0,H,Arsenal ,Arsenal,London ,Emirates Stadium ,60361,51.555,-0.10861099999999999,England,1316840400,44549,0
+44545,E0,2011,2011-09-24,Chelsea,Swansea,4,1,H,Chelsea ,Chelsea,London ,Stamford Bridge ,42449,51.481667,-0.191111,England,1316840400,44550,0
+44546,E0,2011,2011-09-24,Liverpool,Wolves,2,1,H,Liverpool ,Liverpool,Liverpool ,Anfield ,45276,53.43081899999999,-2.960828,England,1316840400,44551,0
+44547,E0,2011,2011-09-24,Man City,Everton,2,0,H,Manchester City ,Man City,Manchester ,Etihad Stadium,47405,53.482989,-2.2002919999999997,England,1316840400,44552,0.31
+44548,E0,2011,2011-09-24,Newcastle,Blackburn,3,1,H,Newcastle United ,Newcastle,Newcastle upon Tyne ,Sports Direct Arena,52409,54.975556000000005,-1.621667,England,1316840400,44553,0
+44549,E0,2011,2011-09-24,Stoke,Man United,1,1,D,Stoke City ,Stoke,Stoke-on-Trent ,Britannia Stadium ,27740,52.988333,-2.1755560000000003,England,1316840400,44554,0
+44550,E0,2011,2011-09-24,West Brom,Fulham,0,0,D,West Bromwich Albion ,West Brom,West Bromwich ,The Hawthorns ,27877,52.509167000000005,-1.963889,England,1316840400,44555,0
+44551,E0,2011,2011-09-24,Wigan,Tottenham,1,2,A,Wigan Athletic ,Wigan,Wigan ,DW Stadium ,25133,53.547778,-2.653889,England,1316840400,44556,0.22
+44552,E0,2011,2011-09-25,QPR,Aston Villa,1,1,D,Queens Park Rangers ,QPR,London ,Loftus Road ,18439,51.509167,-0.23222199999999998,England,1316926800,44557,0
+44553,E0,2011,2011-09-26,Norwich,Sunderland,2,1,H,Norwich City ,Norwich,Norwich ,Carrow Road ,27010,52.622128000000004,1.308653,England,1317013200,44558,0.78
+44554,E0,2011,2011-10-01,Aston Villa,Wigan,2,0,H,Aston Villa ,Aston Villa,Birmingham ,Villa Park ,42785,52.509167000000005,-1.884722,England,1317445200,44559,0
+44555,E0,2011,2011-10-01,Blackburn,Man City,0,4,A,Blackburn Rovers ,Blackburn,Blackburn ,Ewood Park ,31154,53.728611,-2.4891669999999997,England,1317445200,44560,0
+44556,E0,2011,2011-10-01,Everton,Liverpool,0,2,A,Everton ,Everton,Liverpool ,Goodison Park ,40157,53.438889,-2.966389,England,1317445200,44561,0
+44557,E0,2011,2011-10-01,Man United,Norwich,2,0,H,Manchester United ,Man United,Stretford ,Old Trafford ,75811,53.46305600000001,-2.291389,England,1317445200,44562,0
+44558,E0,2011,2011-10-01,Sunderland,West Brom,2,2,D,Sunderland ,Sunderland,Sunderland ,Stadium of Light ,48707,54.9144,-1.3882,England,1317445200,44563,0
+44559,E0,2011,2011-10-01,Wolves,Newcastle,1,2,A,Wolverhampton Wanderers ,Wolves,Wolverhampton ,Molineux Stadium ,27828,52.590278000000005,-2.1302779999999997,England,1317445200,44564,0
+44560,E0,2011,2011-10-02,Bolton,Chelsea,1,5,A,Bolton Wanderers ,Bolton,Bolton ,Reebok Stadium ,28100,53.58055600000001,-2.535556,England,1317531600,44565,0.97
+44561,E0,2011,2011-10-02,Fulham,QPR,6,0,H,Fulham ,Fulham,London ,Craven Cottage ,25700,51.475,-0.221667,England,1317531600,44566,0
+44562,E0,2011,2011-10-02,Swansea,Stoke,2,0,H,Swansea City ,Swansea,Swansea ,Liberty Stadium ,20520,51.6422,-3.9351,England,1317531600,44567,0
+44563,E0,2011,2011-10-02,Tottenham,Arsenal,2,1,H,Tottenham Hotspur ,Tottenham,London ,White Hart Lane ,36230,51.603333,-0.065833,England,1317531600,44568,0
+44564,E0,2011,2011-10-15,Chelsea,Everton,3,1,H,Chelsea ,Chelsea,London ,Stamford Bridge ,42449,51.481667,-0.191111,England,1318654800,44569,0
+44565,E0,2011,2011-10-15,Liverpool,Man United,1,1,D,Liverpool ,Liverpool,Liverpool ,Anfield ,45276,53.43081899999999,-2.960828,England,1318654800,44570,0
+44566,E0,2011,2011-10-15,Man City,Aston Villa,4,1,H,Manchester City ,Man City,Manchester ,Etihad Stadium,47405,53.482989,-2.2002919999999997,England,1318654800,44571,0
+44567,E0,2011,2011-10-15,Norwich,Swansea,3,1,H,Norwich City ,Norwich,Norwich ,Carrow Road ,27010,52.622128000000004,1.308653,England,1318654800,44572,0
+44568,E0,2011,2011-10-15,QPR,Blackburn,1,1,D,Queens Park Rangers ,QPR,London ,Loftus Road ,18439,51.509167,-0.23222199999999998,England,1318654800,44573,0
+44569,E0,2011,2011-10-15,Stoke,Fulham,2,0,H,Stoke City ,Stoke,Stoke-on-Trent ,Britannia Stadium ,27740,52.988333,-2.1755560000000003,England,1318654800,44574,0
+44570,E0,2011,2011-10-15,Wigan,Bolton,1,3,A,Wigan Athletic ,Wigan,Wigan ,DW Stadium ,25133,53.547778,-2.653889,England,1318654800,44575,0
+44571,E0,2011,2011-10-16,Arsenal,Sunderland,2,1,H,Arsenal ,Arsenal,London ,Emirates Stadium ,60361,51.555,-0.10861099999999999,England,1318741200,44576,0
+44572,E0,2011,2011-10-16,Newcastle,Tottenham,2,2,D,Newcastle United ,Newcastle,Newcastle upon Tyne ,Sports Direct Arena,52409,54.975556000000005,-1.621667,England,1318741200,44577,0.79
+44573,E0,2011,2011-10-16,West Brom,Wolves,2,0,H,West Bromwich Albion ,West Brom,West Bromwich ,The Hawthorns ,27877,52.509167000000005,-1.963889,England,1318741200,44578,0
+44574,E0,2011,2011-10-22,Aston Villa,West Brom,1,2,A,Aston Villa ,Aston Villa,Birmingham ,Villa Park ,42785,52.509167000000005,-1.884722,England,1319259600,44579,0
+44575,E0,2011,2011-10-22,Bolton,Sunderland,0,2,A,Bolton Wanderers ,Bolton,Bolton ,Reebok Stadium ,28100,53.58055600000001,-2.535556,England,1319259600,44580,0
+44576,E0,2011,2011-10-22,Liverpool,Norwich,1,1,D,Liverpool ,Liverpool,Liverpool ,Anfield ,45276,53.43081899999999,-2.960828,England,1319259600,44581,0
+44577,E0,2011,2011-10-22,Newcastle,Wigan,1,0,H,Newcastle United ,Newcastle,Newcastle upon Tyne ,Sports Direct Arena,52409,54.975556000000005,-1.621667,England,1319259600,44582,0
+44578,E0,2011,2011-10-22,Wolves,Swansea,2,2,D,Wolverhampton Wanderers ,Wolves,Wolverhampton ,Molineux Stadium ,27828,52.590278000000005,-2.1302779999999997,England,1319259600,44583,0
+44579,E0,2011,2011-10-23,Arsenal,Stoke,3,1,H,Arsenal ,Arsenal,London ,Emirates Stadium ,60361,51.555,-0.10861099999999999,England,1319346000,44584,0
+44580,E0,2011,2011-10-23,Blackburn,Tottenham,1,2,A,Blackburn Rovers ,Blackburn,Blackburn ,Ewood Park ,31154,53.728611,-2.4891669999999997,England,1319346000,44585,0.46
+44581,E0,2011,2011-10-23,Fulham,Everton,1,3,A,Fulham ,Fulham,London ,Craven Cottage ,25700,51.475,-0.221667,England,1319346000,44586,0
+44582,E0,2011,2011-10-23,Man United,Man City,1,6,A,Manchester United ,Man United,Stretford ,Old Trafford ,75811,53.46305600000001,-2.291389,England,1319346000,44587,0
+44583,E0,2011,2011-10-23,QPR,Chelsea,1,0,H,Queens Park Rangers ,QPR,London ,Loftus Road ,18439,51.509167,-0.23222199999999998,England,1319346000,44588,0
+44584,E0,2011,2011-10-29,Chelsea,Arsenal,3,5,A,Chelsea ,Chelsea,London ,Stamford Bridge ,42449,51.481667,-0.191111,England,1319864400,44589,0
+44585,E0,2011,2011-10-29,Everton,Man United,0,1,A,Everton ,Everton,Liverpool ,Goodison Park ,40157,53.438889,-2.966389,England,1319864400,44590,0.82
+44586,E0,2011,2011-10-29,Man City,Wolves,3,1,H,Manchester City ,Man City,Manchester ,Etihad Stadium,47405,53.482989,-2.2002919999999997,England,1319864400,44591,0.79
+44587,E0,2011,2011-10-29,Norwich,Blackburn,3,3,D,Norwich City ,Norwich,Norwich ,Carrow Road ,27010,52.622128000000004,1.308653,England,1319864400,44592,0
+44588,E0,2011,2011-10-29,Sunderland,Aston Villa,2,2,D,Sunderland ,Sunderland,Sunderland ,Stadium of Light ,48707,54.9144,-1.3882,England,1319864400,44593,0.42
+44589,E0,2011,2011-10-29,Swansea,Bolton,3,1,H,Swansea City ,Swansea,Swansea ,Liberty Stadium ,20520,51.6422,-3.9351,England,1319864400,44594,1
+44590,E0,2011,2011-10-29,West Brom,Liverpool,0,2,A,West Bromwich Albion ,West Brom,West Bromwich ,The Hawthorns ,27877,52.509167000000005,-1.963889,England,1319864400,44595,0.23
+44591,E0,2011,2011-10-29,Wigan,Fulham,0,2,A,Wigan Athletic ,Wigan,Wigan ,DW Stadium ,25133,53.547778,-2.653889,England,1319864400,44596,0.83
+44592,E0,2011,2011-10-30,Tottenham,QPR,3,1,H,Tottenham Hotspur ,Tottenham,London ,White Hart Lane ,36230,51.603333,-0.065833,England,1319950800,44597,0.15
+44593,E0,2011,2011-10-31,Stoke,Newcastle,1,3,A,Stoke City ,Stoke,Stoke-on-Trent ,Britannia Stadium ,27740,52.988333,-2.1755560000000003,England,1320037200,44598,0.27
+44594,E0,2011,2011-11-05,Arsenal,West Brom,3,0,H,Arsenal ,Arsenal,London ,Emirates Stadium ,60361,51.555,-0.10861099999999999,England,1320469200,44599,0
+44595,E0,2011,2011-11-05,Aston Villa,Norwich,3,2,H,Aston Villa ,Aston Villa,Birmingham ,Villa Park ,42785,52.509167000000005,-1.884722,England,1320469200,44600,0.38
+44596,E0,2011,2011-11-05,Blackburn,Chelsea,0,1,A,Blackburn Rovers ,Blackburn,Blackburn ,Ewood Park ,31154,53.728611,-2.4891669999999997,England,1320469200,44601,0
+44597,E0,2011,2011-11-05,Liverpool,Swansea,0,0,D,Liverpool ,Liverpool,Liverpool ,Anfield ,45276,53.43081899999999,-2.960828,England,1320469200,44602,0.06
+44598,E0,2011,2011-11-05,Man United,Sunderland,1,0,H,Manchester United ,Man United,Stretford ,Old Trafford ,75811,53.46305600000001,-2.291389,England,1320469200,44603,0
+44599,E0,2011,2011-11-05,Newcastle,Everton,2,1,H,Newcastle United ,Newcastle,Newcastle upon Tyne ,Sports Direct Arena,52409,54.975556000000005,-1.621667,England,1320469200,44604,0.4
+44600,E0,2011,2011-11-05,QPR,Man City,2,3,A,Queens Park Rangers ,QPR,London ,Loftus Road ,18439,51.509167,-0.23222199999999998,England,1320469200,44605,0
+44601,E0,2011,2011-11-06,Bolton,Stoke,5,0,H,Bolton Wanderers ,Bolton,Bolton ,Reebok Stadium ,28100,53.58055600000001,-2.535556,England,1320555600,44606,0
+44602,E0,2011,2011-11-06,Fulham,Tottenham,1,3,A,Fulham ,Fulham,London ,Craven Cottage ,25700,51.475,-0.221667,England,1320555600,44607,0
+44603,E0,2011,2011-11-06,Wolves,Wigan,3,1,H,Wolverhampton Wanderers ,Wolves,Wolverhampton ,Molineux Stadium ,27828,52.590278000000005,-2.1302779999999997,England,1320555600,44608,0
+44604,E0,2011,2011-11-19,Everton,Wolves,2,1,H,Everton ,Everton,Liverpool ,Goodison Park ,40157,53.438889,-2.966389,England,1321682400,44609,0
+44605,E0,2011,2011-11-19,Man City,Newcastle,3,1,H,Manchester City ,Man City,Manchester ,Etihad Stadium,47405,53.482989,-2.2002919999999997,England,1321682400,44610,0
+44606,E0,2011,2011-11-19,Norwich,Arsenal,1,2,A,Norwich City ,Norwich,Norwich ,Carrow Road ,27010,52.622128000000004,1.308653,England,1321682400,44611,0.62
+44607,E0,2011,2011-11-19,Stoke,QPR,2,3,A,Stoke City ,Stoke,Stoke-on-Trent ,Britannia Stadium ,27740,52.988333,-2.1755560000000003,England,1321682400,44612,0
+44608,E0,2011,2011-11-19,Sunderland,Fulham,0,0,D,Sunderland ,Sunderland,Sunderland ,Stadium of Light ,48707,54.9144,-1.3882,England,1321682400,44613,0
+44609,E0,2011,2011-11-19,Swansea,Man United,0,1,A,Swansea City ,Swansea,Swansea ,Liberty Stadium ,20520,51.6422,-3.9351,England,1321682400,44614,0.87
+44610,E0,2011,2011-11-19,West Brom,Bolton,2,1,H,West Bromwich Albion ,West Brom,West Bromwich ,The Hawthorns ,27877,52.509167000000005,-1.963889,England,1321682400,44615,0
+44611,E0,2011,2011-11-19,Wigan,Blackburn,3,3,D,Wigan Athletic ,Wigan,Wigan ,DW Stadium ,25133,53.547778,-2.653889,England,1321682400,44616,0
+44612,E0,2011,2011-11-20,Chelsea,Liverpool,1,2,A,Chelsea ,Chelsea,London ,Stamford Bridge ,42449,51.481667,-0.191111,England,1321768800,44617,0.25
+44613,E0,2011,2011-11-21,Tottenham,Aston Villa,2,0,H,Tottenham Hotspur ,Tottenham,London ,White Hart Lane ,36230,51.603333,-0.065833,England,1321855200,44618,0
+44614,E0,2011,2011-11-26,Arsenal,Fulham,1,1,D,Arsenal ,Arsenal,London ,Emirates Stadium ,60361,51.555,-0.10861099999999999,England,1322287200,44619,0
+44615,E0,2011,2011-11-26,Bolton,Everton,0,2,A,Bolton Wanderers ,Bolton,Bolton ,Reebok Stadium ,28100,53.58055600000001,-2.535556,England,1322287200,44620,0.38
+44616,E0,2011,2011-11-26,Chelsea,Wolves,3,0,H,Chelsea ,Chelsea,London ,Stamford Bridge ,42449,51.481667,-0.191111,England,1322287200,44621,0
+44617,E0,2011,2011-11-26,Man United,Newcastle,1,1,D,Manchester United ,Man United,Stretford ,Old Trafford ,75811,53.46305600000001,-2.291389,England,1322287200,44622,0.3
+44618,E0,2011,2011-11-26,Norwich,QPR,2,1,H,Norwich City ,Norwich,Norwich ,Carrow Road ,27010,52.622128000000004,1.308653,England,1322287200,44623,0
+44619,E0,2011,2011-11-26,Stoke,Blackburn,3,1,H,Stoke City ,Stoke,Stoke-on-Trent ,Britannia Stadium ,27740,52.988333,-2.1755560000000003,England,1322287200,44624,0.04
+44620,E0,2011,2011-11-26,Sunderland,Wigan,1,2,A,Sunderland ,Sunderland,Sunderland ,Stadium of Light ,48707,54.9144,-1.3882,England,1322287200,44625,0.14
+44621,E0,2011,2011-11-26,West Brom,Tottenham,1,3,A,West Bromwich Albion ,West Brom,West Bromwich ,The Hawthorns ,27877,52.509167000000005,-1.963889,England,1322287200,44626,0
+44622,E0,2011,2011-11-27,Liverpool,Man City,1,1,D,Liverpool ,Liverpool,Liverpool ,Anfield ,45276,53.43081899999999,-2.960828,England,1322373600,44627,0.86
+44623,E0,2011,2011-11-27,Swansea,Aston Villa,0,0,D,Swansea City ,Swansea,Swansea ,Liberty Stadium ,20520,51.6422,-3.9351,England,1322373600,44628,1
+44624,E0,2011,2011-12-03,Aston Villa,Man United,0,1,A,Aston Villa ,Aston Villa,Birmingham ,Villa Park ,42785,52.509167000000005,-1.884722,England,1322892000,44629,0.43
+44625,E0,2011,2011-12-03,Blackburn,Swansea,4,2,H,Blackburn Rovers ,Blackburn,Blackburn ,Ewood Park ,31154,53.728611,-2.4891669999999997,England,1322892000,44630,0.91
+44626,E0,2011,2011-12-03,Man City,Norwich,5,1,H,Manchester City ,Man City,Manchester ,Etihad Stadium,47405,53.482989,-2.2002919999999997,England,1322892000,44631,0.9
+44627,E0,2011,2011-12-03,Newcastle,Chelsea,0,3,A,Newcastle United ,Newcastle,Newcastle upon Tyne ,Sports Direct Arena,52409,54.975556000000005,-1.621667,England,1322892000,44632,0.91
+44628,E0,2011,2011-12-03,QPR,West Brom,1,1,D,Queens Park Rangers ,QPR,London ,Loftus Road ,18439,51.509167,-0.23222199999999998,England,1322892000,44633,0.74
+44629,E0,2011,2011-12-03,Tottenham,Bolton,3,0,H,Tottenham Hotspur ,Tottenham,London ,White Hart Lane ,36230,51.603333,-0.065833,England,1322892000,44634,0.76
+44630,E0,2011,2011-12-03,Wigan,Arsenal,0,4,A,Wigan Athletic ,Wigan,Wigan ,DW Stadium ,25133,53.547778,-2.653889,England,1322892000,44635,0.97
+44631,E0,2011,2011-12-04,Everton,Stoke,0,1,A,Everton ,Everton,Liverpool ,Goodison Park ,40157,53.438889,-2.966389,England,1322978400,44636,0.95
+44632,E0,2011,2011-12-04,Wolves,Sunderland,2,1,H,Wolverhampton Wanderers ,Wolves,Wolverhampton ,Molineux Stadium ,27828,52.590278000000005,-2.1302779999999997,England,1322978400,44637,0.89
+44633,E0,2011,2011-12-05,Fulham,Liverpool,1,0,H,Fulham ,Fulham,London ,Craven Cottage ,25700,51.475,-0.221667,England,1323064800,44638,0
+44634,E0,2011,2011-12-10,Arsenal,Everton,1,0,H,Arsenal ,Arsenal,London ,Emirates Stadium ,60361,51.555,-0.10861099999999999,England,1323496800,44639,0.17
+44635,E0,2011,2011-12-10,Bolton,Aston Villa,1,2,A,Bolton Wanderers ,Bolton,Bolton ,Reebok Stadium ,28100,53.58055600000001,-2.535556,England,1323496800,44640,0.54
+44636,E0,2011,2011-12-10,Liverpool,QPR,1,0,H,Liverpool ,Liverpool,Liverpool ,Anfield ,45276,53.43081899999999,-2.960828,England,1323496800,44641,0.5
+44637,E0,2011,2011-12-10,Man United,Wolves,4,1,H,Manchester United ,Man United,Stretford ,Old Trafford ,75811,53.46305600000001,-2.291389,England,1323496800,44642,0.54
+44638,E0,2011,2011-12-10,Norwich,Newcastle,4,2,H,Norwich City ,Norwich,Norwich ,Carrow Road ,27010,52.622128000000004,1.308653,England,1323496800,44643,0
+44639,E0,2011,2011-12-10,Swansea,Fulham,2,0,H,Swansea City ,Swansea,Swansea ,Liberty Stadium ,20520,51.6422,-3.9351,England,1323496800,44644,1
+44640,E0,2011,2011-12-10,West Brom,Wigan,1,2,A,West Bromwich Albion ,West Brom,West Bromwich ,The Hawthorns ,27877,52.509167000000005,-1.963889,England,1323496800,44645,0
+44641,E0,2011,2011-12-11,Stoke,Tottenham,2,1,H,Stoke City ,Stoke,Stoke-on-Trent ,Britannia Stadium ,27740,52.988333,-2.1755560000000003,England,1323583200,44646,1
+44642,E0,2011,2011-12-11,Sunderland,Blackburn,2,1,H,Sunderland ,Sunderland,Sunderland ,Stadium of Light ,48707,54.9144,-1.3882,England,1323583200,44647,0.75
+44643,E0,2011,2011-12-12,Chelsea,Man City,2,1,H,Chelsea ,Chelsea,London ,Stamford Bridge ,42449,51.481667,-0.191111,England,1323669600,44648,1
+44644,E0,2011,2011-12-17,Blackburn,West Brom,1,2,A,Blackburn Rovers ,Blackburn,Blackburn ,Ewood Park ,31154,53.728611,-2.4891669999999997,England,1324101600,44649,0.89
+44645,E0,2011,2011-12-17,Everton,Norwich,1,1,D,Everton ,Everton,Liverpool ,Goodison Park ,40157,53.438889,-2.966389,England,1324101600,44650,1
+44646,E0,2011,2011-12-17,Fulham,Bolton,2,0,H,Fulham ,Fulham,London ,Craven Cottage ,25700,51.475,-0.221667,England,1324101600,44651,0.68
+44647,E0,2011,2011-12-17,Newcastle,Swansea,0,0,D,Newcastle United ,Newcastle,Newcastle upon Tyne ,Sports Direct Arena,52409,54.975556000000005,-1.621667,England,1324101600,44652,0.07
+44648,E0,2011,2011-12-17,Wigan,Chelsea,1,1,D,Wigan Athletic ,Wigan,Wigan ,DW Stadium ,25133,53.547778,-2.653889,England,1324101600,44653,0.92
+44649,E0,2011,2011-12-17,Wolves,Stoke,1,2,A,Wolverhampton Wanderers ,Wolves,Wolverhampton ,Molineux Stadium ,27828,52.590278000000005,-2.1302779999999997,England,1324101600,44654,0.82
+44650,E0,2011,2011-12-18,Aston Villa,Liverpool,0,2,A,Aston Villa ,Aston Villa,Birmingham ,Villa Park ,42785,52.509167000000005,-1.884722,England,1324188000,44655,0.51
+44651,E0,2011,2011-12-18,Man City,Arsenal,1,0,H,Manchester City ,Man City,Manchester ,Etihad Stadium,47405,53.482989,-2.2002919999999997,England,1324188000,44656,0.75
+44652,E0,2011,2011-12-18,QPR,Man United,0,2,A,Queens Park Rangers ,QPR,London ,Loftus Road ,18439,51.509167,-0.23222199999999998,England,1324188000,44657,0.22
+44653,E0,2011,2011-12-18,Tottenham,Sunderland,1,0,H,Tottenham Hotspur ,Tottenham,London ,White Hart Lane ,36230,51.603333,-0.065833,England,1324188000,44658,0.19
+44654,E0,2011,2011-12-20,Blackburn,Bolton,1,2,A,Blackburn Rovers ,Blackburn,Blackburn ,Ewood Park ,31154,53.728611,-2.4891669999999997,England,1324360800,44659,0.89
+44655,E0,2011,2011-12-20,Wolves,Norwich,2,2,D,Wolverhampton Wanderers ,Wolves,Wolverhampton ,Molineux Stadium ,27828,52.590278000000005,-2.1302779999999997,England,1324360800,44660,1
+44656,E0,2011,2011-12-21,Aston Villa,Arsenal,1,2,A,Aston Villa ,Aston Villa,Birmingham ,Villa Park ,42785,52.509167000000005,-1.884722,England,1324447200,44661,1
+44657,E0,2011,2011-12-21,Everton,Swansea,1,0,H,Everton ,Everton,Liverpool ,Goodison Park ,40157,53.438889,-2.966389,England,1324447200,44662,1
+44658,E0,2011,2011-12-21,Fulham,Man United,0,5,A,Fulham ,Fulham,London ,Craven Cottage ,25700,51.475,-0.221667,England,1324447200,44663,0.91
+44659,E0,2011,2011-12-21,Man City,Stoke,3,0,H,Manchester City ,Man City,Manchester ,Etihad Stadium,47405,53.482989,-2.2002919999999997,England,1324447200,44664,0.97
+44660,E0,2011,2011-12-21,Newcastle,West Brom,2,3,A,Newcastle United ,Newcastle,Newcastle upon Tyne ,Sports Direct Arena,52409,54.975556000000005,-1.621667,England,1324447200,44665,1
+44661,E0,2011,2011-12-21,QPR,Sunderland,2,3,A,Queens Park Rangers ,QPR,London ,Loftus Road ,18439,51.509167,-0.23222199999999998,England,1324447200,44666,0.9
+44662,E0,2011,2011-12-21,Wigan,Liverpool,0,0,D,Wigan Athletic ,Wigan,Wigan ,DW Stadium ,25133,53.547778,-2.653889,England,1324447200,44667,1
+44663,E0,2011,2011-12-22,Tottenham,Chelsea,1,1,D,Tottenham Hotspur ,Tottenham,London ,White Hart Lane ,36230,51.603333,-0.065833,England,1324533600,44668,0
+44664,E0,2011,2011-12-26,Bolton,Newcastle,0,2,A,Bolton Wanderers ,Bolton,Bolton ,Reebok Stadium ,28100,53.58055600000001,-2.535556,England,1324879200,44669,0
+44665,E0,2011,2011-12-26,Chelsea,Fulham,1,1,D,Chelsea ,Chelsea,London ,Stamford Bridge ,42449,51.481667,-0.191111,England,1324879200,44670,0
+44666,E0,2011,2011-12-26,Liverpool,Blackburn,1,1,D,Liverpool ,Liverpool,Liverpool ,Anfield ,45276,53.43081899999999,-2.960828,England,1324879200,44671,0
+44667,E0,2011,2011-12-26,Man United,Wigan,5,0,H,Manchester United ,Man United,Stretford ,Old Trafford ,75811,53.46305600000001,-2.291389,England,1324879200,44672,0
+44668,E0,2011,2011-12-26,Stoke,Aston Villa,0,0,D,Stoke City ,Stoke,Stoke-on-Trent ,Britannia Stadium ,27740,52.988333,-2.1755560000000003,England,1324879200,44673,0
+44669,E0,2011,2011-12-26,Sunderland,Everton,1,1,D,Sunderland ,Sunderland,Sunderland ,Stadium of Light ,48707,54.9144,-1.3882,England,1324879200,44674,0
+44670,E0,2011,2011-12-26,West Brom,Man City,0,0,D,West Bromwich Albion ,West Brom,West Bromwich ,The Hawthorns ,27877,52.509167000000005,-1.963889,England,1324879200,44675,0
+44671,E0,2011,2011-12-27,Arsenal,Wolves,1,1,D,Arsenal ,Arsenal,London ,Emirates Stadium ,60361,51.555,-0.10861099999999999,England,1324965600,44676,0
+44672,E0,2011,2011-12-27,Norwich,Tottenham,0,2,A,Norwich City ,Norwich,Norwich ,Carrow Road ,27010,52.622128000000004,1.308653,England,1324965600,44677,0
+44673,E0,2011,2011-12-27,Swansea,QPR,1,1,D,Swansea City ,Swansea,Swansea ,Liberty Stadium ,20520,51.6422,-3.9351,England,1324965600,44678,0
+44674,E0,2011,2011-12-30,Liverpool,Newcastle,3,1,H,Liverpool ,Liverpool,Liverpool ,Anfield ,45276,53.43081899999999,-2.960828,England,1325224800,44679,1
+44675,E0,2011,2011-12-31,Arsenal,QPR,1,0,H,Arsenal ,Arsenal,London ,Emirates Stadium ,60361,51.555,-0.10861099999999999,England,1325311200,44680,0.44
+44676,E0,2011,2011-12-31,Bolton,Wolves,1,1,D,Bolton Wanderers ,Bolton,Bolton ,Reebok Stadium ,28100,53.58055600000001,-2.535556,England,1325311200,44681,0.94
+44677,E0,2011,2011-12-31,Chelsea,Aston Villa,1,3,A,Chelsea ,Chelsea,London ,Stamford Bridge ,42449,51.481667,-0.191111,England,1325311200,44682,0.56
+44678,E0,2011,2011-12-31,Man United,Blackburn,2,3,A,Manchester United ,Man United,Stretford ,Old Trafford ,75811,53.46305600000001,-2.291389,England,1325311200,44683,0.76
+44679,E0,2011,2011-12-31,Norwich,Fulham,1,1,D,Norwich City ,Norwich,Norwich ,Carrow Road ,27010,52.622128000000004,1.308653,England,1325311200,44684,1
+44680,E0,2011,2011-12-31,Stoke,Wigan,2,2,D,Stoke City ,Stoke,Stoke-on-Trent ,Britannia Stadium ,27740,52.988333,-2.1755560000000003,England,1325311200,44685,0.69
+44681,E0,2011,2011-12-31,Swansea,Tottenham,1,1,D,Swansea City ,Swansea,Swansea ,Liberty Stadium ,20520,51.6422,-3.9351,England,1325311200,44686,1
+44682,E0,2011,2012-01-01,Sunderland,Man City,1,0,H,Sunderland ,Sunderland,Sunderland ,Stadium of Light ,48707,54.9144,-1.3882,England,1325397600,44687,0.94
+44683,E0,2011,2012-01-01,West Brom,Everton,0,1,A,West Bromwich Albion ,West Brom,West Bromwich ,The Hawthorns ,27877,52.509167000000005,-1.963889,England,1325397600,44688,1
+44684,E0,2011,2012-01-02,Aston Villa,Swansea,0,2,A,Aston Villa ,Aston Villa,Birmingham ,Villa Park ,42785,52.509167000000005,-1.884722,England,1325484000,44689,0.7
+44685,E0,2011,2012-01-02,Blackburn,Stoke,1,2,A,Blackburn Rovers ,Blackburn,Blackburn ,Ewood Park ,31154,53.728611,-2.4891669999999997,England,1325484000,44690,0.24
+44686,E0,2011,2012-01-02,Fulham,Arsenal,2,1,H,Fulham ,Fulham,London ,Craven Cottage ,25700,51.475,-0.221667,England,1325484000,44691,0
+44687,E0,2011,2012-01-02,QPR,Norwich,1,2,A,Queens Park Rangers ,QPR,London ,Loftus Road ,18439,51.509167,-0.23222199999999998,England,1325484000,44692,0
+44688,E0,2011,2012-01-02,Wolves,Chelsea,1,2,A,Wolverhampton Wanderers ,Wolves,Wolverhampton ,Molineux Stadium ,27828,52.590278000000005,-2.1302779999999997,England,1325484000,44693,0.56
+44689,E0,2011,2012-01-03,Man City,Liverpool,3,0,H,Manchester City ,Man City,Manchester ,Etihad Stadium,47405,53.482989,-2.2002919999999997,England,1325570400,44694,1
+44690,E0,2011,2012-01-03,Tottenham,West Brom,1,0,H,Tottenham Hotspur ,Tottenham,London ,White Hart Lane ,36230,51.603333,-0.065833,England,1325570400,44695,1
+44691,E0,2011,2012-01-03,Wigan,Sunderland,1,4,A,Wigan Athletic ,Wigan,Wigan ,DW Stadium ,25133,53.547778,-2.653889,England,1325570400,44696,1
+44692,E0,2011,2012-01-04,Everton,Bolton,1,2,A,Everton ,Everton,Liverpool ,Goodison Park ,40157,53.438889,-2.966389,England,1325656800,44697,1
+44693,E0,2011,2012-01-04,Newcastle,Man United,3,0,H,Newcastle United ,Newcastle,Newcastle upon Tyne ,Sports Direct Arena,52409,54.975556000000005,-1.621667,England,1325656800,44698,1
+44694,E0,2011,2012-01-11,Tottenham,Everton,2,0,H,Tottenham Hotspur ,Tottenham,London ,White Hart Lane ,36230,51.603333,-0.065833,England,1326261600,44699,0
+44695,E0,2011,2012-01-14,Aston Villa,Everton,1,1,D,Aston Villa ,Aston Villa,Birmingham ,Villa Park ,42785,52.509167000000005,-1.884722,England,1326520800,44700,0
+44696,E0,2011,2012-01-14,Blackburn,Fulham,3,1,H,Blackburn Rovers ,Blackburn,Blackburn ,Ewood Park ,31154,53.728611,-2.4891669999999997,England,1326520800,44701,0.04
+44697,E0,2011,2012-01-14,Chelsea,Sunderland,1,0,H,Chelsea ,Chelsea,London ,Stamford Bridge ,42449,51.481667,-0.191111,England,1326520800,44702,0.03
+44698,E0,2011,2012-01-14,Liverpool,Stoke,0,0,D,Liverpool ,Liverpool,Liverpool ,Anfield ,45276,53.43081899999999,-2.960828,England,1326520800,44703,0
+44699,E0,2011,2012-01-14,Man United,Bolton,3,0,H,Manchester United ,Man United,Stretford ,Old Trafford ,75811,53.46305600000001,-2.291389,England,1326520800,44704,0.3
+44700,E0,2011,2012-01-14,Tottenham,Wolves,1,1,D,Tottenham Hotspur ,Tottenham,London ,White Hart Lane ,36230,51.603333,-0.065833,England,1326520800,44705,0
+44701,E0,2011,2012-01-14,West Brom,Norwich,1,2,A,West Bromwich Albion ,West Brom,West Bromwich ,The Hawthorns ,27877,52.509167000000005,-1.963889,England,1326520800,44706,0
+44702,E0,2011,2012-01-15,Newcastle,QPR,1,0,H,Newcastle United ,Newcastle,Newcastle upon Tyne ,Sports Direct Arena,52409,54.975556000000005,-1.621667,England,1326607200,44707,0.43
+44703,E0,2011,2012-01-15,Swansea,Arsenal,3,2,H,Swansea City ,Swansea,Swansea ,Liberty Stadium ,20520,51.6422,-3.9351,England,1326607200,44708,0.55
+44704,E0,2011,2012-01-16,Wigan,Man City,0,1,A,Wigan Athletic ,Wigan,Wigan ,DW Stadium ,25133,53.547778,-2.653889,England,1326693600,44709,0
+44705,E0,2011,2012-01-21,Bolton,Liverpool,3,1,H,Bolton Wanderers ,Bolton,Bolton ,Reebok Stadium ,28100,53.58055600000001,-2.535556,England,1327125600,44710,0.49
+44706,E0,2011,2012-01-21,Everton,Blackburn,1,1,D,Everton ,Everton,Liverpool ,Goodison Park ,40157,53.438889,-2.966389,England,1327125600,44711,0.2
+44707,E0,2011,2012-01-21,Fulham,Newcastle,5,2,H,Fulham ,Fulham,London ,Craven Cottage ,25700,51.475,-0.221667,England,1327125600,44712,0
+44708,E0,2011,2012-01-21,Norwich,Chelsea,0,0,D,Norwich City ,Norwich,Norwich ,Carrow Road ,27010,52.622128000000004,1.308653,England,1327125600,44713,1
+44709,E0,2011,2012-01-21,QPR,Wigan,3,1,H,Queens Park Rangers ,QPR,London ,Loftus Road ,18439,51.509167,-0.23222199999999998,England,1327125600,44714,0
+44710,E0,2011,2012-01-21,Stoke,West Brom,1,2,A,Stoke City ,Stoke,Stoke-on-Trent ,Britannia Stadium ,27740,52.988333,-2.1755560000000003,England,1327125600,44715,0.58
+44711,E0,2011,2012-01-21,Sunderland,Swansea,2,0,H,Sunderland ,Sunderland,Sunderland ,Stadium of Light ,48707,54.9144,-1.3882,England,1327125600,44716,0.08
+44712,E0,2011,2012-01-21,Wolves,Aston Villa,2,3,A,Wolverhampton Wanderers ,Wolves,Wolverhampton ,Molineux Stadium ,27828,52.590278000000005,-2.1302779999999997,England,1327125600,44717,0.09
+44713,E0,2011,2012-01-22,Arsenal,Man United,1,2,A,Arsenal ,Arsenal,London ,Emirates Stadium ,60361,51.555,-0.10861099999999999,England,1327212000,44718,0
+44714,E0,2011,2012-01-22,Man City,Tottenham,3,2,H,Manchester City ,Man City,Manchester ,Etihad Stadium,47405,53.482989,-2.2002919999999997,England,1327212000,44719,0.38
+44715,E0,2011,2012-01-31,Everton,Man City,1,0,H,Everton ,Everton,Liverpool ,Goodison Park ,40157,53.438889,-2.966389,England,1327989600,44720,0
+44716,E0,2011,2012-01-31,Man United,Stoke,2,0,H,Manchester United ,Man United,Stretford ,Old Trafford ,75811,53.46305600000001,-2.291389,England,1327989600,44721,0
+44717,E0,2011,2012-01-31,Swansea,Chelsea,1,1,D,Swansea City ,Swansea,Swansea ,Liberty Stadium ,20520,51.6422,-3.9351,England,1327989600,44722,0
+44718,E0,2011,2012-01-31,Tottenham,Wigan,3,1,H,Tottenham Hotspur ,Tottenham,London ,White Hart Lane ,36230,51.603333,-0.065833,England,1327989600,44723,0
+44719,E0,2011,2012-01-31,Wolves,Liverpool,0,3,A,Wolverhampton Wanderers ,Wolves,Wolverhampton ,Molineux Stadium ,27828,52.590278000000005,-2.1302779999999997,England,1327989600,44724,0
+44720,E0,2011,2012-02-01,Aston Villa,QPR,2,2,D,Aston Villa ,Aston Villa,Birmingham ,Villa Park ,42785,52.509167000000005,-1.884722,England,1328076000,44725,0
+44721,E0,2011,2012-02-01,Blackburn,Newcastle,0,2,A,Blackburn Rovers ,Blackburn,Blackburn ,Ewood Park ,31154,53.728611,-2.4891669999999997,England,1328076000,44726,0
+44722,E0,2011,2012-02-01,Bolton,Arsenal,0,0,D,Bolton Wanderers ,Bolton,Bolton ,Reebok Stadium ,28100,53.58055600000001,-2.535556,England,1328076000,44727,0
+44723,E0,2011,2012-02-01,Fulham,West Brom,1,1,D,Fulham ,Fulham,London ,Craven Cottage ,25700,51.475,-0.221667,England,1328076000,44728,0
+44724,E0,2011,2012-02-01,Sunderland,Norwich,3,0,H,Sunderland ,Sunderland,Sunderland ,Stadium of Light ,48707,54.9144,-1.3882,England,1328076000,44729,0
+44725,E0,2011,2012-02-04,Arsenal,Blackburn,7,1,H,Arsenal ,Arsenal,London ,Emirates Stadium ,60361,51.555,-0.10861099999999999,England,1328335200,44730,0
+44726,E0,2011,2012-02-04,Man City,Fulham,3,0,H,Manchester City ,Man City,Manchester ,Etihad Stadium,47405,53.482989,-2.2002919999999997,England,1328335200,44731,0.2
+44727,E0,2011,2012-02-04,Norwich,Bolton,2,0,H,Norwich City ,Norwich,Norwich ,Carrow Road ,27010,52.622128000000004,1.308653,England,1328335200,44732,0
+44728,E0,2011,2012-02-04,QPR,Wolves,1,2,A,Queens Park Rangers ,QPR,London ,Loftus Road ,18439,51.509167,-0.23222199999999998,England,1328335200,44733,0
+44729,E0,2011,2012-02-04,Stoke,Sunderland,0,1,A,Stoke City ,Stoke,Stoke-on-Trent ,Britannia Stadium ,27740,52.988333,-2.1755560000000003,England,1328335200,44734,0.34
+44730,E0,2011,2012-02-04,West Brom,Swansea,1,2,A,West Bromwich Albion ,West Brom,West Bromwich ,The Hawthorns ,27877,52.509167000000005,-1.963889,England,1328335200,44735,0
+44731,E0,2011,2012-02-04,Wigan,Everton,1,1,D,Wigan Athletic ,Wigan,Wigan ,DW Stadium ,25133,53.547778,-2.653889,England,1328335200,44736,0.23
+44732,E0,2011,2012-02-05,Chelsea,Man United,3,3,D,Chelsea ,Chelsea,London ,Stamford Bridge ,42449,51.481667,-0.191111,England,1328421600,44737,0.72
+44733,E0,2011,2012-02-05,Newcastle,Aston Villa,2,1,H,Newcastle United ,Newcastle,Newcastle upon Tyne ,Sports Direct Arena,52409,54.975556000000005,-1.621667,England,1328421600,44738,0.88
+44734,E0,2011,2012-02-06,Liverpool,Tottenham,0,0,D,Liverpool ,Liverpool,Liverpool ,Anfield ,45276,53.43081899999999,-2.960828,England,1328508000,44739,0.31
+44735,E0,2011,2012-02-11,Blackburn,QPR,3,2,H,Blackburn Rovers ,Blackburn,Blackburn ,Ewood Park ,31154,53.728611,-2.4891669999999997,England,1328940000,44740,0
+44736,E0,2011,2012-02-11,Bolton,Wigan,1,2,A,Bolton Wanderers ,Bolton,Bolton ,Reebok Stadium ,28100,53.58055600000001,-2.535556,England,1328940000,44741,0
+44737,E0,2011,2012-02-11,Everton,Chelsea,2,0,H,Everton ,Everton,Liverpool ,Goodison Park ,40157,53.438889,-2.966389,England,1328940000,44742,0
+44738,E0,2011,2012-02-11,Fulham,Stoke,2,1,H,Fulham ,Fulham,London ,Craven Cottage ,25700,51.475,-0.221667,England,1328940000,44743,0
+44739,E0,2011,2012-02-11,Man United,Liverpool,2,1,H,Manchester United ,Man United,Stretford ,Old Trafford ,75811,53.46305600000001,-2.291389,England,1328940000,44744,0
+44740,E0,2011,2012-02-11,Sunderland,Arsenal,1,2,A,Sunderland ,Sunderland,Sunderland ,Stadium of Light ,48707,54.9144,-1.3882,England,1328940000,44745,0
+44741,E0,2011,2012-02-11,Swansea,Norwich,2,3,A,Swansea City ,Swansea,Swansea ,Liberty Stadium ,20520,51.6422,-3.9351,England,1328940000,44746,0
+44742,E0,2011,2012-02-11,Tottenham,Newcastle,5,0,H,Tottenham Hotspur ,Tottenham,London ,White Hart Lane ,36230,51.603333,-0.065833,England,1328940000,44747,0
+44743,E0,2011,2012-02-12,Aston Villa,Man City,0,1,A,Aston Villa ,Aston Villa,Birmingham ,Villa Park ,42785,52.509167000000005,-1.884722,England,1329026400,44748,0.42
+44744,E0,2011,2012-02-12,Wolves,West Brom,1,5,A,Wolverhampton Wanderers ,Wolves,Wolverhampton ,Molineux Stadium ,27828,52.590278000000005,-2.1302779999999997,England,1329026400,44749,0.33
+44745,E0,2011,2012-02-25,Chelsea,Bolton,3,0,H,Chelsea ,Chelsea,London ,Stamford Bridge ,42449,51.481667,-0.191111,England,1330149600,44750,0
+44746,E0,2011,2012-02-25,Man City,Blackburn,3,0,H,Manchester City ,Man City,Manchester ,Etihad Stadium,47405,53.482989,-2.2002919999999997,England,1330149600,44751,0
+44747,E0,2011,2012-02-25,Newcastle,Wolves,2,2,D,Newcastle United ,Newcastle,Newcastle upon Tyne ,Sports Direct Arena,52409,54.975556000000005,-1.621667,England,1330149600,44752,0
+44748,E0,2011,2012-02-25,QPR,Fulham,0,1,A,Queens Park Rangers ,QPR,London ,Loftus Road ,18439,51.509167,-0.23222199999999998,England,1330149600,44753,0
+44749,E0,2011,2012-02-25,West Brom,Sunderland,4,0,H,West Bromwich Albion ,West Brom,West Bromwich ,The Hawthorns ,27877,52.509167000000005,-1.963889,England,1330149600,44754,0
+44750,E0,2011,2012-02-25,Wigan,Aston Villa,0,0,D,Wigan Athletic ,Wigan,Wigan ,DW Stadium ,25133,53.547778,-2.653889,England,1330149600,44755,0
+44751,E0,2011,2012-02-26,Arsenal,Tottenham,5,2,H,Arsenal ,Arsenal,London ,Emirates Stadium ,60361,51.555,-0.10861099999999999,England,1330236000,44756,0
+44752,E0,2011,2012-02-26,Norwich,Man United,1,2,A,Norwich City ,Norwich,Norwich ,Carrow Road ,27010,52.622128000000004,1.308653,England,1330236000,44757,0
+44753,E0,2011,2012-02-26,Stoke,Swansea,2,0,H,Stoke City ,Stoke,Stoke-on-Trent ,Britannia Stadium ,27740,52.988333,-2.1755560000000003,England,1330236000,44758,0
+44754,E0,2011,2012-03-03,Blackburn,Aston Villa,1,1,D,Blackburn Rovers ,Blackburn,Blackburn ,Ewood Park ,31154,53.728611,-2.4891669999999997,England,1330754400,44759,0.64
+44755,E0,2011,2012-03-03,Liverpool,Arsenal,1,2,A,Liverpool ,Liverpool,Liverpool ,Anfield ,45276,53.43081899999999,-2.960828,England,1330754400,44760,0.3
+44756,E0,2011,2012-03-03,Man City,Bolton,2,0,H,Manchester City ,Man City,Manchester ,Etihad Stadium,47405,53.482989,-2.2002919999999997,England,1330754400,44761,0.58
+44757,E0,2011,2012-03-03,QPR,Everton,1,1,D,Queens Park Rangers ,QPR,London ,Loftus Road ,18439,51.509167,-0.23222199999999998,England,1330754400,44762,0.2
+44758,E0,2011,2012-03-03,Stoke,Norwich,1,0,H,Stoke City ,Stoke,Stoke-on-Trent ,Britannia Stadium ,27740,52.988333,-2.1755560000000003,England,1330754400,44763,0.57
+44759,E0,2011,2012-03-03,West Brom,Chelsea,1,0,H,West Bromwich Albion ,West Brom,West Bromwich ,The Hawthorns ,27877,52.509167000000005,-1.963889,England,1330754400,44764,0.73
+44760,E0,2011,2012-03-03,Wigan,Swansea,0,2,A,Wigan Athletic ,Wigan,Wigan ,DW Stadium ,25133,53.547778,-2.653889,England,1330754400,44765,0.38
+44761,E0,2011,2012-03-04,Fulham,Wolves,5,0,H,Fulham ,Fulham,London ,Craven Cottage ,25700,51.475,-0.221667,England,1330840800,44766,0.84
+44762,E0,2011,2012-03-04,Newcastle,Sunderland,1,1,D,Newcastle United ,Newcastle,Newcastle upon Tyne ,Sports Direct Arena,52409,54.975556000000005,-1.621667,England,1330840800,44767,0.92
+44763,E0,2011,2012-03-04,Tottenham,Man United,1,3,A,Tottenham Hotspur ,Tottenham,London ,White Hart Lane ,36230,51.603333,-0.065833,England,1330840800,44768,0.73
+44764,E0,2011,2012-03-10,Aston Villa,Fulham,1,0,H,Aston Villa ,Aston Villa,Birmingham ,Villa Park ,42785,52.509167000000005,-1.884722,England,1331359200,44769,0
+44765,E0,2011,2012-03-10,Bolton,QPR,2,1,H,Bolton Wanderers ,Bolton,Bolton ,Reebok Stadium ,28100,53.58055600000001,-2.535556,England,1331359200,44770,0
+44766,E0,2011,2012-03-10,Chelsea,Stoke,1,0,H,Chelsea ,Chelsea,London ,Stamford Bridge ,42449,51.481667,-0.191111,England,1331359200,44771,0
+44767,E0,2011,2012-03-10,Everton,Tottenham,1,0,H,Everton ,Everton,Liverpool ,Goodison Park ,40157,53.438889,-2.966389,England,1331359200,44772,0
+44768,E0,2011,2012-03-10,Sunderland,Liverpool,1,0,H,Sunderland ,Sunderland,Sunderland ,Stadium of Light ,48707,54.9144,-1.3882,England,1331359200,44773,0
+44769,E0,2011,2012-03-10,Wolves,Blackburn,0,2,A,Wolverhampton Wanderers ,Wolves,Wolverhampton ,Molineux Stadium ,27828,52.590278000000005,-2.1302779999999997,England,1331359200,44774,0
+44770,E0,2011,2012-03-11,Man United,West Brom,2,0,H,Manchester United ,Man United,Stretford ,Old Trafford ,75811,53.46305600000001,-2.291389,England,1331445600,44775,0
+44771,E0,2011,2012-03-11,Norwich,Wigan,1,1,D,Norwich City ,Norwich,Norwich ,Carrow Road ,27010,52.622128000000004,1.308653,England,1331445600,44776,0
+44772,E0,2011,2012-03-11,Swansea,Man City,1,0,H,Swansea City ,Swansea,Swansea ,Liberty Stadium ,20520,51.6422,-3.9351,England,1331445600,44777,0
+44773,E0,2011,2012-03-12,Arsenal,Newcastle,2,1,H,Arsenal ,Arsenal,London ,Emirates Stadium ,60361,51.555,-0.10861099999999999,England,1331528400,44778,0
+44774,E0,2011,2012-03-13,Liverpool,Everton,3,0,H,Liverpool ,Liverpool,Liverpool ,Anfield ,45276,53.43081899999999,-2.960828,England,1331614800,44779,0
+44775,E0,2011,2012-03-17,Fulham,Swansea,0,3,A,Fulham ,Fulham,London ,Craven Cottage ,25700,51.475,-0.221667,England,1331960400,44780,0.58
+44776,E0,2011,2012-03-17,Wigan,West Brom,1,1,D,Wigan Athletic ,Wigan,Wigan ,DW Stadium ,25133,53.547778,-2.653889,England,1331960400,44781,0.85
+44777,E0,2011,2012-03-18,Newcastle,Norwich,1,0,H,Newcastle United ,Newcastle,Newcastle upon Tyne ,Sports Direct Arena,52409,54.975556000000005,-1.621667,England,1332046800,44782,0
+44778,E0,2011,2012-03-18,Wolves,Man United,0,5,A,Wolverhampton Wanderers ,Wolves,Wolverhampton ,Molineux Stadium ,27828,52.590278000000005,-2.1302779999999997,England,1332046800,44783,0.44
+44779,E0,2011,2012-03-20,Blackburn,Sunderland,2,0,H,Blackburn Rovers ,Blackburn,Blackburn ,Ewood Park ,31154,53.728611,-2.4891669999999997,England,1332219600,44784,0
+44780,E0,2011,2012-03-21,Everton,Arsenal,0,1,A,Everton ,Everton,Liverpool ,Goodison Park ,40157,53.438889,-2.966389,England,1332306000,44785,0
+44781,E0,2011,2012-03-21,Man City,Chelsea,2,1,H,Manchester City ,Man City,Manchester ,Etihad Stadium,47405,53.482989,-2.2002919999999997,England,1332306000,44786,0
+44782,E0,2011,2012-03-21,QPR,Liverpool,3,2,H,Queens Park Rangers ,QPR,London ,Loftus Road ,18439,51.509167,-0.23222199999999998,England,1332306000,44787,0
+44783,E0,2011,2012-03-21,Tottenham,Stoke,1,1,D,Tottenham Hotspur ,Tottenham,London ,White Hart Lane ,36230,51.603333,-0.065833,England,1332306000,44788,0
+44784,E0,2011,2012-03-24,Arsenal,Aston Villa,3,0,H,Arsenal ,Arsenal,London ,Emirates Stadium ,60361,51.555,-0.10861099999999999,England,1332565200,44789,0
+44785,E0,2011,2012-03-24,Bolton,Blackburn,2,1,H,Bolton Wanderers ,Bolton,Bolton ,Reebok Stadium ,28100,53.58055600000001,-2.535556,England,1332565200,44790,0
+44786,E0,2011,2012-03-24,Chelsea,Tottenham,0,0,D,Chelsea ,Chelsea,London ,Stamford Bridge ,42449,51.481667,-0.191111,England,1332565200,44791,0
+44787,E0,2011,2012-03-24,Liverpool,Wigan,1,2,A,Liverpool ,Liverpool,Liverpool ,Anfield ,45276,53.43081899999999,-2.960828,England,1332565200,44792,0
+44788,E0,2011,2012-03-24,Norwich,Wolves,2,1,H,Norwich City ,Norwich,Norwich ,Carrow Road ,27010,52.622128000000004,1.308653,England,1332565200,44793,0
+44789,E0,2011,2012-03-24,Stoke,Man City,1,1,D,Stoke City ,Stoke,Stoke-on-Trent ,Britannia Stadium ,27740,52.988333,-2.1755560000000003,England,1332565200,44794,0
+44790,E0,2011,2012-03-24,Sunderland,QPR,3,1,H,Sunderland ,Sunderland,Sunderland ,Stadium of Light ,48707,54.9144,-1.3882,England,1332565200,44795,0
+44791,E0,2011,2012-03-24,Swansea,Everton,0,2,A,Swansea City ,Swansea,Swansea ,Liberty Stadium ,20520,51.6422,-3.9351,England,1332565200,44796,0
+44792,E0,2011,2012-03-25,West Brom,Newcastle,1,3,A,West Bromwich Albion ,West Brom,West Bromwich ,The Hawthorns ,27877,52.509167000000005,-1.963889,England,1332651600,44797,0
+44793,E0,2011,2012-03-26,Man United,Fulham,1,0,H,Manchester United ,Man United,Stretford ,Old Trafford ,75811,53.46305600000001,-2.291389,England,1332738000,44798,0
+44794,E0,2011,2012-03-31,Aston Villa,Chelsea,2,4,A,Aston Villa ,Aston Villa,Birmingham ,Villa Park ,42785,52.509167000000005,-1.884722,England,1333170000,44799,0
+44795,E0,2011,2012-03-31,Everton,West Brom,2,0,H,Everton ,Everton,Liverpool ,Goodison Park ,40157,53.438889,-2.966389,England,1333170000,44800,0
+44796,E0,2011,2012-03-31,Fulham,Norwich,2,1,H,Fulham ,Fulham,London ,Craven Cottage ,25700,51.475,-0.221667,England,1333170000,44801,0
+44797,E0,2011,2012-03-31,Man City,Sunderland,3,3,D,Manchester City ,Man City,Manchester ,Etihad Stadium,47405,53.482989,-2.2002919999999997,England,1333170000,44802,0
+44798,E0,2011,2012-03-31,QPR,Arsenal,2,1,H,Queens Park Rangers ,QPR,London ,Loftus Road ,18439,51.509167,-0.23222199999999998,England,1333170000,44803,0
+44799,E0,2011,2012-03-31,Wigan,Stoke,2,0,H,Wigan Athletic ,Wigan,Wigan ,DW Stadium ,25133,53.547778,-2.653889,England,1333170000,44804,0
+44800,E0,2011,2012-03-31,Wolves,Bolton,2,3,A,Wolverhampton Wanderers ,Wolves,Wolverhampton ,Molineux Stadium ,27828,52.590278000000005,-2.1302779999999997,England,1333170000,44805,0
+44801,E0,2011,2012-04-01,Newcastle,Liverpool,2,0,H,Newcastle United ,Newcastle,Newcastle upon Tyne ,Sports Direct Arena,52409,54.975556000000005,-1.621667,England,1333256400,44806,0
+44802,E0,2011,2012-04-01,Tottenham,Swansea,3,1,H,Tottenham Hotspur ,Tottenham,London ,White Hart Lane ,36230,51.603333,-0.065833,England,1333256400,44807,0
+44803,E0,2011,2012-04-02,Blackburn,Man United,0,2,A,Blackburn Rovers ,Blackburn,Blackburn ,Ewood Park ,31154,53.728611,-2.4891669999999997,England,1333342800,44808,0.1
+44804,E0,2011,2012-04-06,Swansea,Newcastle,0,2,A,Swansea City ,Swansea,Swansea ,Liberty Stadium ,20520,51.6422,-3.9351,England,1333688400,44809,0
+44805,E0,2011,2012-04-07,Bolton,Fulham,0,3,A,Bolton Wanderers ,Bolton,Bolton ,Reebok Stadium ,28100,53.58055600000001,-2.535556,England,1333774800,44810,0.43
+44806,E0,2011,2012-04-07,Chelsea,Wigan,2,1,H,Chelsea ,Chelsea,London ,Stamford Bridge ,42449,51.481667,-0.191111,England,1333774800,44811,0.17
+44807,E0,2011,2012-04-07,Liverpool,Aston Villa,1,1,D,Liverpool ,Liverpool,Liverpool ,Anfield ,45276,53.43081899999999,-2.960828,England,1333774800,44812,0.33
+44808,E0,2011,2012-04-07,Norwich,Everton,2,2,D,Norwich City ,Norwich,Norwich ,Carrow Road ,27010,52.622128000000004,1.308653,England,1333774800,44813,0.93
+44809,E0,2011,2012-04-07,Stoke,Wolves,2,1,H,Stoke City ,Stoke,Stoke-on-Trent ,Britannia Stadium ,27740,52.988333,-2.1755560000000003,England,1333774800,44814,0.73
+44810,E0,2011,2012-04-07,Sunderland,Tottenham,0,0,D,Sunderland ,Sunderland,Sunderland ,Stadium of Light ,48707,54.9144,-1.3882,England,1333774800,44815,0.93
+44811,E0,2011,2012-04-07,West Brom,Blackburn,3,0,H,West Bromwich Albion ,West Brom,West Bromwich ,The Hawthorns ,27877,52.509167000000005,-1.963889,England,1333774800,44816,0.55
+44812,E0,2011,2012-04-08,Arsenal,Man City,1,0,H,Arsenal ,Arsenal,London ,Emirates Stadium ,60361,51.555,-0.10861099999999999,England,1333861200,44817,0.41
+44813,E0,2011,2012-04-08,Man United,QPR,2,0,H,Manchester United ,Man United,Stretford ,Old Trafford ,75811,53.46305600000001,-2.291389,England,1333861200,44818,0.59
+44814,E0,2011,2012-04-09,Aston Villa,Stoke,1,1,D,Aston Villa ,Aston Villa,Birmingham ,Villa Park ,42785,52.509167000000005,-1.884722,England,1333947600,44819,0.83
+44815,E0,2011,2012-04-09,Everton,Sunderland,4,0,H,Everton ,Everton,Liverpool ,Goodison Park ,40157,53.438889,-2.966389,England,1333947600,44820,0.97
+44816,E0,2011,2012-04-09,Fulham,Chelsea,1,1,D,Fulham ,Fulham,London ,Craven Cottage ,25700,51.475,-0.221667,England,1333947600,44821,0.93
+44817,E0,2011,2012-04-09,Newcastle,Bolton,2,0,H,Newcastle United ,Newcastle,Newcastle upon Tyne ,Sports Direct Arena,52409,54.975556000000005,-1.621667,England,1333947600,44822,0.94
+44818,E0,2011,2012-04-09,Tottenham,Norwich,1,2,A,Tottenham Hotspur ,Tottenham,London ,White Hart Lane ,36230,51.603333,-0.065833,England,1333947600,44823,0.84
+44819,E0,2011,2012-04-10,Blackburn,Liverpool,2,3,A,Blackburn Rovers ,Blackburn,Blackburn ,Ewood Park ,31154,53.728611,-2.4891669999999997,England,1334034000,44824,0.96
+44820,E0,2011,2012-04-11,Man City,West Brom,4,0,H,Manchester City ,Man City,Manchester ,Etihad Stadium,47405,53.482989,-2.2002919999999997,England,1334120400,44825,0.75
+44821,E0,2011,2012-04-11,QPR,Swansea,3,0,H,Queens Park Rangers ,QPR,London ,Loftus Road ,18439,51.509167,-0.23222199999999998,England,1334120400,44826,0.24
+44822,E0,2011,2012-04-11,Wigan,Man United,1,0,H,Wigan Athletic ,Wigan,Wigan ,DW Stadium ,25133,53.547778,-2.653889,England,1334120400,44827,0.43
+44823,E0,2011,2012-04-11,Wolves,Arsenal,0,3,A,Wolverhampton Wanderers ,Wolves,Wolverhampton ,Molineux Stadium ,27828,52.590278000000005,-2.1302779999999997,England,1334120400,44828,0.37
+44824,E0,2011,2012-04-14,Norwich,Man City,1,6,A,Norwich City ,Norwich,Norwich ,Carrow Road ,27010,52.622128000000004,1.308653,England,1334379600,44829,0.11
+44825,E0,2011,2012-04-14,Sunderland,Wolves,0,0,D,Sunderland ,Sunderland,Sunderland ,Stadium of Light ,48707,54.9144,-1.3882,England,1334379600,44830,1
+44826,E0,2011,2012-04-14,Swansea,Blackburn,3,0,H,Swansea City ,Swansea,Swansea ,Liberty Stadium ,20520,51.6422,-3.9351,England,1334379600,44831,0.62
+44827,E0,2011,2012-04-14,West Brom,QPR,1,0,H,West Bromwich Albion ,West Brom,West Bromwich ,The Hawthorns ,27877,52.509167000000005,-1.963889,England,1334379600,44832,0
+44828,E0,2011,2012-04-15,Man United,Aston Villa,4,0,H,Manchester United ,Man United,Stretford ,Old Trafford ,75811,53.46305600000001,-2.291389,England,1334466000,44833,0
+44829,E0,2011,2012-04-16,Arsenal,Wigan,1,2,A,Arsenal ,Arsenal,London ,Emirates Stadium ,60361,51.555,-0.10861099999999999,England,1334552400,44834,0
+44830,E0,2011,2012-04-21,Arsenal,Chelsea,0,0,D,Arsenal ,Arsenal,London ,Emirates Stadium ,60361,51.555,-0.10861099999999999,England,1334984400,44835,0.2
+44831,E0,2011,2012-04-21,Aston Villa,Sunderland,0,0,D,Aston Villa ,Aston Villa,Birmingham ,Villa Park ,42785,52.509167000000005,-1.884722,England,1334984400,44836,0.66
+44832,E0,2011,2012-04-21,Blackburn,Norwich,2,0,H,Blackburn Rovers ,Blackburn,Blackburn ,Ewood Park ,31154,53.728611,-2.4891669999999997,England,1334984400,44837,0.31
+44833,E0,2011,2012-04-21,Bolton,Swansea,1,1,D,Bolton Wanderers ,Bolton,Bolton ,Reebok Stadium ,28100,53.58055600000001,-2.535556,England,1334984400,44838,0.42
+44834,E0,2011,2012-04-21,Fulham,Wigan,2,1,H,Fulham ,Fulham,London ,Craven Cottage ,25700,51.475,-0.221667,England,1334984400,44839,0.25
+44835,E0,2011,2012-04-21,Newcastle,Stoke,3,0,H,Newcastle United ,Newcastle,Newcastle upon Tyne ,Sports Direct Arena,52409,54.975556000000005,-1.621667,England,1334984400,44840,1
+44836,E0,2011,2012-04-21,QPR,Tottenham,1,0,H,Queens Park Rangers ,QPR,London ,Loftus Road ,18439,51.509167,-0.23222199999999998,England,1334984400,44841,0.22
+44837,E0,2011,2012-04-22,Liverpool,West Brom,0,1,A,Liverpool ,Liverpool,Liverpool ,Anfield ,45276,53.43081899999999,-2.960828,England,1335070800,44842,0.42
+44838,E0,2011,2012-04-22,Man United,Everton,4,4,D,Manchester United ,Man United,Stretford ,Old Trafford ,75811,53.46305600000001,-2.291389,England,1335070800,44843,0.8
+44839,E0,2011,2012-04-22,Wolves,Man City,0,2,A,Wolverhampton Wanderers ,Wolves,Wolverhampton ,Molineux Stadium ,27828,52.590278000000005,-2.1302779999999997,England,1335070800,44844,0.7
+44840,E0,2011,2012-04-24,Aston Villa,Bolton,1,2,A,Aston Villa ,Aston Villa,Birmingham ,Villa Park ,42785,52.509167000000005,-1.884722,England,1335243600,44845,0.44
+44841,E0,2011,2012-04-28,Everton,Fulham,4,0,H,Everton ,Everton,Liverpool ,Goodison Park ,40157,53.438889,-2.966389,England,1335589200,44846,0.09
+44842,E0,2011,2012-04-28,Norwich,Liverpool,0,3,A,Norwich City ,Norwich,Norwich ,Carrow Road ,27010,52.622128000000004,1.308653,England,1335589200,44847,1
+44843,E0,2011,2012-04-28,Stoke,Arsenal,1,1,D,Stoke City ,Stoke,Stoke-on-Trent ,Britannia Stadium ,27740,52.988333,-2.1755560000000003,England,1335589200,44848,0
+44844,E0,2011,2012-04-28,Sunderland,Bolton,2,2,D,Sunderland ,Sunderland,Sunderland ,Stadium of Light ,48707,54.9144,-1.3882,England,1335589200,44849,0.68
+44845,E0,2011,2012-04-28,Swansea,Wolves,4,4,D,Swansea City ,Swansea,Swansea ,Liberty Stadium ,20520,51.6422,-3.9351,England,1335589200,44850,0
+44846,E0,2011,2012-04-28,West Brom,Aston Villa,0,0,D,West Bromwich Albion ,West Brom,West Bromwich ,The Hawthorns ,27877,52.509167000000005,-1.963889,England,1335589200,44851,0.34
+44847,E0,2011,2012-04-28,Wigan,Newcastle,4,0,H,Wigan Athletic ,Wigan,Wigan ,DW Stadium ,25133,53.547778,-2.653889,England,1335589200,44852,0
+44848,E0,2011,2012-04-29,Chelsea,QPR,6,1,H,Chelsea ,Chelsea,London ,Stamford Bridge ,42449,51.481667,-0.191111,England,1335675600,44853,0.92
+44849,E0,2011,2012-04-29,Tottenham,Blackburn,2,0,H,Tottenham Hotspur ,Tottenham,London ,White Hart Lane ,36230,51.603333,-0.065833,England,1335675600,44854,0.84
+44850,E0,2011,2012-04-30,Man City,Man United,1,0,H,Manchester City ,Man City,Manchester ,Etihad Stadium,47405,53.482989,-2.2002919999999997,England,1335762000,44855,0
+44851,E0,2011,2012-05-01,Liverpool,Fulham,0,1,A,Liverpool ,Liverpool,Liverpool ,Anfield ,45276,53.43081899999999,-2.960828,England,1335848400,44856,nan
+44852,E0,2011,2012-05-01,Stoke,Everton,1,1,D,Stoke City ,Stoke,Stoke-on-Trent ,Britannia Stadium ,27740,52.988333,-2.1755560000000003,England,1335848400,44857,nan
+44853,E0,2011,2012-05-02,Bolton,Tottenham,1,4,A,Bolton Wanderers ,Bolton,Bolton ,Reebok Stadium ,28100,53.58055600000001,-2.535556,England,1335934800,44858,nan
+44854,E0,2011,2012-05-02,Chelsea,Newcastle,0,2,A,Chelsea ,Chelsea,London ,Stamford Bridge ,42449,51.481667,-0.191111,England,1335934800,44859,nan
+44855,E0,2011,2012-05-05,Arsenal,Norwich,3,3,D,Arsenal ,Arsenal,London ,Emirates Stadium ,60361,51.555,-0.10861099999999999,England,1336194000,44860,nan
+44856,E0,2011,2012-05-06,Aston Villa,Tottenham,1,1,D,Aston Villa ,Aston Villa,Birmingham ,Villa Park ,42785,52.509167000000005,-1.884722,England,1336280400,44861,nan
+44857,E0,2011,2012-05-06,Bolton,West Brom,2,2,D,Bolton Wanderers ,Bolton,Bolton ,Reebok Stadium ,28100,53.58055600000001,-2.535556,England,1336280400,44862,nan
+44858,E0,2011,2012-05-06,Fulham,Sunderland,2,1,H,Fulham ,Fulham,London ,Craven Cottage ,25700,51.475,-0.221667,England,1336280400,44863,nan
+44859,E0,2011,2012-05-06,Man United,Swansea,2,0,H,Manchester United ,Man United,Stretford ,Old Trafford ,75811,53.46305600000001,-2.291389,England,1336280400,44864,nan
+44860,E0,2011,2012-05-06,Newcastle,Man City,0,2,A,Newcastle United ,Newcastle,Newcastle upon Tyne ,Sports Direct Arena,52409,54.975556000000005,-1.621667,England,1336280400,44865,nan
+44861,E0,2011,2012-05-06,QPR,Stoke,1,0,H,Queens Park Rangers ,QPR,London ,Loftus Road ,18439,51.509167,-0.23222199999999998,England,1336280400,44866,nan
+44862,E0,2011,2012-05-06,Wolves,Everton,0,0,D,Wolverhampton Wanderers ,Wolves,Wolverhampton ,Molineux Stadium ,27828,52.590278000000005,-2.1302779999999997,England,1336280400,44867,nan
+44863,E0,2011,2012-05-07,Blackburn,Wigan,0,1,A,Blackburn Rovers ,Blackburn,Blackburn ,Ewood Park ,31154,53.728611,-2.4891669999999997,England,1336366800,44868,nan
+44864,E0,2011,2012-05-08,Liverpool,Chelsea,4,1,H,Liverpool ,Liverpool,Liverpool ,Anfield ,45276,53.43081899999999,-2.960828,England,1336453200,44869,nan
+44865,E0,2011,2012-05-13,Chelsea,Blackburn,2,1,H,Chelsea ,Chelsea,London ,Stamford Bridge ,42449,51.481667,-0.191111,England,1336885200,44870,nan
+44866,E0,2011,2012-05-13,Everton,Newcastle,3,1,H,Everton ,Everton,Liverpool ,Goodison Park ,40157,53.438889,-2.966389,England,1336885200,44871,nan
+44867,E0,2011,2012-05-13,Man City,QPR,3,2,H,Manchester City ,Man City,Manchester ,Etihad Stadium,47405,53.482989,-2.2002919999999997,England,1336885200,44872,nan
+44868,E0,2011,2012-05-13,Norwich,Aston Villa,2,0,H,Norwich City ,Norwich,Norwich ,Carrow Road ,27010,52.622128000000004,1.308653,England,1336885200,44873,nan
+44869,E0,2011,2012-05-13,Stoke,Bolton,2,2,D,Stoke City ,Stoke,Stoke-on-Trent ,Britannia Stadium ,27740,52.988333,-2.1755560000000003,England,1336885200,44874,nan
+44870,E0,2011,2012-05-13,Sunderland,Man United,0,1,A,Sunderland ,Sunderland,Sunderland ,Stadium of Light ,48707,54.9144,-1.3882,England,1336885200,44875,nan
+44871,E0,2011,2012-05-13,Swansea,Liverpool,1,0,H,Swansea City ,Swansea,Swansea ,Liberty Stadium ,20520,51.6422,-3.9351,England,1336885200,44876,nan
+44872,E0,2011,2012-05-13,Tottenham,Fulham,2,0,H,Tottenham Hotspur ,Tottenham,London ,White Hart Lane ,36230,51.603333,-0.065833,England,1336885200,44877,nan
+44873,E0,2011,2012-05-13,West Brom,Arsenal,2,3,A,West Bromwich Albion ,West Brom,West Bromwich ,The Hawthorns ,27877,52.509167000000005,-1.963889,England,1336885200,44878,nan
+44874,E0,2011,2012-05-13,Wigan,Wolves,3,2,H,Wigan Athletic ,Wigan,Wigan ,DW Stadium ,25133,53.547778,-2.653889,England,1336885200,44879,nan
